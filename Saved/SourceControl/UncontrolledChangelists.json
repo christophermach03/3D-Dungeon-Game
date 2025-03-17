@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_2door_LakeAcuity.uasset",
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_PrototypeObjects/2x2_Pillar.uasset",
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/_OneRoomMaster.uasset",
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_1door_Mineshafted.uasset",
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_1Door_LavaRising.uasset",
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_4Door_Pillared.uasset",
+				"F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_2Door_TheWall.uasset",
 				"D:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_4door_Pillared.uasset",
 				"C:/Users/Chris/Projects/[]Local Github Repos/DungeonGame3D/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Chris/Projects/[]Local Github Repos/DungeonGame3D/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
