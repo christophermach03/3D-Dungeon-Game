@@ -2526,3 +2526,480 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.21-06.42.39:336][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6641.860840
 [2025.03.21-06.42.40:340][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.21-06.42.40:340][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6642.527832, Update Interval: 329.295929
+[2025.03.21-06.47.00:279][490]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.03.21-06.47.05:279][490]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.03.21-10.22.40:754][490]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.21-10.22.40:754][490]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26804
+[2025.03.21-10.22.43:169][491]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Music (Elgato Virtual Audio), InstanceID=1
+[2025.03.21-10.22.43:423][491]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Browser (Elgato Virtual Audio), InstanceID=1
+[2025.03.21-10.22.43:568][491]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Desktop (Elgato Virtual Audio), InstanceID=1
+[2025.03.21-10.22.44:536][491]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.03.21-10.22.44:537][491]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.21-10.22.44:541][491]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf9a7867-5473-40f8-8565-47b11e7eb101}, Name=Desktop (Elgato Virtual Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1130.39
+[2025.03.21-10.22.44:541][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.21-10.22.44:543][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 0 (Too old connection (13002 seconds idle), disconnect it)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 2 (Closing connection)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.03.21-10.22.44:555][491]LogHttp: Warning: 00000AD2DBCEBD00: libcurl info message cache 7 (Closing connection)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B2401ED34-4AD5-7873-B215-88863D2E1A77%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 0 (Too old connection (13002 seconds idle), disconnect it)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 2 (Closing connection)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 6 (Hostname in DNS cache was stale, zapped)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.03.21-10.22.44:556][491]LogEOSSDK: Warning: LogHttp: 00000AD2C701AE00: libcurl info message cache 8 (Closing connection)
+[2025.03.21-10.22.44:593][492]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.03.21-10.22.44:593][492]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26804
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7014200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7014200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7014200: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7014200: libcurl info message cache 1 (Closing connection)
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7017200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DFDD895445668E1DD1026DB3AD60F55E, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7017200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7017200: libcurl info message cache 0 (Found bundle for host: 0xad2b78802a0 [serially])
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7017200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.03.21-10.22.44:593][492]LogEOSSDK: Warning: LogHttp: 00000AD2C7017200: libcurl info message cache 2 (Closing connection)
+[2025.03.21-10.22.44:594][492]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B2401ED34-4AD5-7873-B215-88863D2E1A77%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.03.21-10.22.44:594][492]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.03.21-10.22.44:594][493]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DFDD895445668E1DD1026DB3AD60F55E
+[2025.03.21-10.22.44:890][493]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.03.21-10.22.44:892][493]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bf9a7867-5473-40f8-8565-47b11e7eb101}, Name=Desktop (Elgato Virtual Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=8.80
+[2025.03.21-10.22.44:892][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.03.21-10.22.44:894][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.03.21-10.22.46:465][495]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52822'.
+[2025.03.21-10.22.46:468][495]LogUdpMessaging: Display: Added local interface '192.168.0.100' to multicast group '230.0.0.1:6666'
+[2025.03.21-10.22.46:478][496]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.03.21-10.22.46:478][496]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DFDD895445668E1DD1026DB3AD60F55E
+[2025.03.21-10.22.46:811][497]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.03.21-10.22.46:811][497]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=DFDD895445668E1DD1026DB3AD60F55E
+[2025.03.21-10.23.18:640][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19881.113281
+[2025.03.21-10.23.18:733][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-10.23.18:733][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19881.191406, Update Interval: 357.423615
+[2025.03.21-10.23.36:965][297]LogContentBrowser: Deferred new asset file creation: _FourRoomMaster_Child
+[2025.03.21-10.23.36:972][297]LogContentBrowser: Creating deferred item: _FourRoomMaster_Child
+[2025.03.21-10.23.36:983][298]LogContentBrowser: Renaming the item being created (Deferred Item: _FourRoomMaster_Child).
+[2025.03.21-10.23.46:612][428]LogContentBrowser: Attempting asset rename: _FourRoomMaster_Child -> Jared_4Door_TheWaterLevel
+[2025.03.21-10.23.46:618][428]LogContentBrowser: End creating deferred item _FourRoomMaster_Child
+[2025.03.21-10.23.46:619][428]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.03.21-10.23.51:189][925]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel
+[2025.03.21-10.23.51:189][925]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.03.21-10.23.54:401][197]LogSlate: Window 'Jared_4Door_TheWaterLevel' being destroyed
+[2025.03.21-10.24.30:954][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.03.21-10.24.30:957][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.033
+[2025.03.21-10.24.30:957][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_4Door_TheWaterLevel] ([2] browsable assets)...
+[2025.03.21-10.24.30:963][490]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel]
+[2025.03.21-10.24.30:963][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_4Door_TheWaterLevel]
+[2025.03.21-10.24.31:063][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Dungeons/Jared_4Door_TheWaterLevel_Auto7
+[2025.03.21-10.24.31:063][490]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_4Door_TheWaterLevel_Auto7AF9EFB5C4C44F48431E780B6E9828AE4.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/_Dungeons/Jared_4Door_TheWaterLevel_Auto7.uasset'
+[2025.03.21-10.24.31:064][490]LogFileHelpers: Auto-saving content packages took 0.108
+[2025.03.21-10.29.09:877][715]LogDerivedDataCache: C:/Users/jgood/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.21-10.30.06:235][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20277.261719
+[2025.03.21-10.30.06:308][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-10.30.06:308][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20277.326172, Update Interval: 359.598999
+[2025.03.21-10.30.31:804][276]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.31:804][276]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/_Dungeons/Jared_4Door_TheWaterLevel (0x7DDF7BE7151E96F4) - The package to load does not exist on disk or in the loader
+[2025.03.21-10.30.31:804][276]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.30.33:966][521]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.33:967][521]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.30.49:198][292]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.49:199][292]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.30.49:579][323]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.49:579][323]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.30.50:047][364]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.50:047][364]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.30.51:461][524]LogStreaming: Display: FlushAsyncLoading(736): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.51:461][524]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.30.57:960][290]LogStreaming: Display: FlushAsyncLoading(737): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.30.57:960][290]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.06:503][302]LogStreaming: Display: FlushAsyncLoading(738): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.06:503][302]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.51:108][620]LogStreaming: Display: FlushAsyncLoading(739): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.51:108][620]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.51:531][654]LogStreaming: Display: FlushAsyncLoading(740): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.51:531][654]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.52:185][715]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.52:185][715]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.53:710][880]LogStreaming: Display: FlushAsyncLoading(742): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.53:711][880]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.55:766][116]LogStreaming: Display: FlushAsyncLoading(743): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.55:767][116]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.57:398][309]LogEditorTransaction: Undo Duplicate Component
+[2025.03.21-10.31.57:640][310]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.57:641][310]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.58:113][345]LogEditorTransaction: Undo Duplicate Component
+[2025.03.21-10.31.58:311][346]LogStreaming: Display: FlushAsyncLoading(745): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.58:312][346]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.31.58:509][369]LogEditorTransaction: Undo Duplicate Component
+[2025.03.21-10.31.58:688][370]LogStreaming: Display: FlushAsyncLoading(746): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.31.58:689][370]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.07:311][326]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.07:311][326]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.07:868][376]LogStreaming: Display: FlushAsyncLoading(748): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.07:868][376]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.08:284][408]LogStreaming: Display: FlushAsyncLoading(749): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.08:285][408]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.10:392][653]LogStreaming: Display: FlushAsyncLoading(750): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.10:392][653]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.17:357][445]LogStreaming: Display: FlushAsyncLoading(751): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.17:357][445]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.21:918][958]LogStreaming: Display: FlushAsyncLoading(752): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.21:918][958]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.31:826][117]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.31:826][117]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.32.32:569][202]LogStreaming: Display: FlushAsyncLoading(754): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.32.32:570][202]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.33.02:400][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.33.02:427][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_4Door_TheWaterLevel] ([2] browsable assets)...
+[2025.03.21-10.33.02:433][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel]
+[2025.03.21-10.33.02:433][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_4Door_TheWaterLevel]
+[2025.03.21-10.33.02:433][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Dungeons/Jared_4Door_TheWaterLevel" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_4Door_TheWaterLevel.uasset" SILENT=true
+[2025.03.21-10.33.02:558][776]LogSavePackage: Moving output files for package: /Game/_Dungeons/Jared_4Door_TheWaterLevel
+[2025.03.21-10.33.02:558][776]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_4Door_TheWaterLevelCBECE55E488BBE4EB29192B88FC4FAB1.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_4Door_TheWaterLevel.uasset'
+[2025.03.21-10.33.02:568][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.046 ms (total: 2.29 sec)
+[2025.03.21-10.33.02:597][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-10.33.02:597][776]LogContentValidation: Enabled validators:
+[2025.03.21-10.33.02:597][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.33.02:597][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.33.02:597][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.33.02:597][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.33.02:597][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.33.02:597][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.33.02:597][776]AssetCheck: /Game/_Dungeons/Jared_4Door_TheWaterLevel Validating asset
+[2025.03.21-10.33.03:991][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.21-10.33.04:123][916]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.33.04:124][916]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_4Door_TheWaterLevel.Jared_4Door_TheWaterLevel'
+[2025.03.21-10.33.05:647][ 92]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-10.33.05:648][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-10.33.05:740][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.21-10.33.32:830][270]LogContentBrowser: Deferred new asset file creation: _ThreeRoomMaster_Child
+[2025.03.21-10.33.32:864][270]LogContentBrowser: Creating deferred item: _ThreeRoomMaster_Child
+[2025.03.21-10.33.32:875][271]LogContentBrowser: Renaming the item being created (Deferred Item: _ThreeRoomMaster_Child).
+[2025.03.21-10.34.31:930][199]LogContentBrowser: Attempting asset rename: _ThreeRoomMaster_Child -> Jared_3Door_IndianaJones
+[2025.03.21-10.34.31:936][199]LogContentBrowser: End creating deferred item _ThreeRoomMaster_Child
+[2025.03.21-10.34.31:937][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.03.21-10.34.37:606][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones
+[2025.03.21-10.34.37:607][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.03.21-10.34.50:807][863]LogSlate: Window 'Jared_3Door_IndianaJones' being destroyed
+[2025.03.21-10.35.53:193][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.21-10.35.53:199][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.038
+[2025.03.21-10.35.53:199][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_PrototypeObjects/DITR_Lava] ([1] browsable assets)...
+[2025.03.21-10.35.53:199][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/_PrototypeObjects/DITR_Lava]
+[2025.03.21-10.35.53:269][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_PrototypeObjects/DITR_Lava_Auto8
+[2025.03.21-10.35.53:269][163]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/DITR_Lava_Auto830C195E947B13C6B484413BB2D0C0BD1.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/_PrototypeObjects/DITR_Lava_Auto8.uasset'
+[2025.03.21-10.35.53:271][163]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_3Door_IndianaJones] ([2] browsable assets)...
+[2025.03.21-10.35.53:277][163]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones]
+[2025.03.21-10.35.53:277][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_3Door_IndianaJones]
+[2025.03.21-10.35.53:330][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Dungeons/Jared_3Door_IndianaJones_Auto8
+[2025.03.21-10.35.53:331][163]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_3Door_IndianaJones_Auto812E1DF554E072DDA9EDCFC9F1905E6AA.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/_Dungeons/Jared_3Door_IndianaJones_Auto8.uasset'
+[2025.03.21-10.35.53:332][163]LogFileHelpers: Auto-saving content packages took 0.133
+[2025.03.21-10.36.48:896][626]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20666.041016
+[2025.03.21-10.36.48:970][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-10.36.48:970][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20666.105469, Update Interval: 348.269897
+[2025.03.21-10.39.18:943][955]LogStreaming: Display: FlushAsyncLoading(756): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.18:943][955]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/_Dungeons/Jared_3Door_IndianaJones (0xC030FED790426370) - The package to load does not exist on disk or in the loader
+[2025.03.21-10.39.18:943][955]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.21:088][202]LogStreaming: Display: FlushAsyncLoading(757): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.21:088][202]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.28:772][113]LogStreaming: Display: FlushAsyncLoading(758): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.28:772][113]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.31:472][427]LogStreaming: Display: FlushAsyncLoading(759): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.31:472][427]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.35:472][895]LogStreaming: Display: FlushAsyncLoading(760): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.35:473][895]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.35:912][938]LogStreaming: Display: FlushAsyncLoading(761): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.35:912][938]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.39:306][337]LogStreaming: Display: FlushAsyncLoading(762): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.39:306][337]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.42:741][736]LogStreaming: Display: FlushAsyncLoading(763): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.42:741][736]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.39.53:074][867]LogStreaming: Display: FlushAsyncLoading(764): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.39.53:074][867]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.40.07:253][435]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.40.07:253][435]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.40.24:016][406]LogStreaming: Display: FlushAsyncLoading(766): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.40.24:017][406]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.40.31:019][236]LogStreaming: Display: FlushAsyncLoading(767): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.40.31:019][236]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.40.53:385][741]LogStreaming: Display: FlushAsyncLoading(768): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.40.53:385][741]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.41.01:058][646]LogStreaming: Display: FlushAsyncLoading(769): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-10.41.01:060][646]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones'
+[2025.03.21-10.41.03:799][973]LogEditorTransaction: Undo Duplicate Component
+[2025.03.21-10.41.04:641][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.41.04:668][ 33]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_3Door_IndianaJones] ([2] browsable assets)...
+[2025.03.21-10.41.04:676][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones]
+[2025.03.21-10.41.04:676][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_3Door_IndianaJones]
+[2025.03.21-10.41.04:676][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Dungeons/Jared_3Door_IndianaJones" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_3Door_IndianaJones.uasset" SILENT=true
+[2025.03.21-10.41.04:740][ 33]LogSavePackage: Moving output files for package: /Game/_Dungeons/Jared_3Door_IndianaJones
+[2025.03.21-10.41.04:740][ 33]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_3Door_IndianaJones73A8CE53435A4ED7C27F75B85056EB32.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_3Door_IndianaJones.uasset'
+[2025.03.21-10.41.04:749][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.908 ms (total: 2.40 sec)
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: Enabled validators:
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.41.04:773][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.41.04:773][ 33]AssetCheck: /Game/_Dungeons/Jared_3Door_IndianaJones Validating asset
+[2025.03.21-10.41.06:464][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.21-10.41.07:830][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.41.07:869][374]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_3Door_IndianaJones] ([2] browsable assets)...
+[2025.03.21-10.41.07:899][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones]
+[2025.03.21-10.41.07:899][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_3Door_IndianaJones]
+[2025.03.21-10.41.07:899][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Dungeons/Jared_3Door_IndianaJones" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_3Door_IndianaJones.uasset" SILENT=true
+[2025.03.21-10.41.07:973][374]LogSavePackage: Moving output files for package: /Game/_Dungeons/Jared_3Door_IndianaJones
+[2025.03.21-10.41.07:974][374]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_3Door_IndianaJones76B0DCC44A2886FD27AC80A87F42E1E2.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_3Door_IndianaJones.uasset'
+[2025.03.21-10.41.07:980][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.403 ms (total: 2.55 sec)
+[2025.03.21-10.41.08:009][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-10.41.08:009][374]LogContentValidation: Enabled validators:
+[2025.03.21-10.41.08:009][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.41.08:010][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.41.08:010][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.41.08:010][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.41.08:010][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.41.08:010][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.41.08:010][374]AssetCheck: /Game/_Dungeons/Jared_3Door_IndianaJones Validating asset
+[2025.03.21-10.41.13:089][950]Cmd: DELETE
+[2025.03.21-10.41.13:089][950]Cmd: ACTOR DELETE
+[2025.03.21-10.41.13:092][950]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.21-10.41.13:109][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.21-10.41.13:114][950]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.03.21-10.41.45:583][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones_C
+[2025.03.21-10.41.45:583][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones_C
+[2025.03.21-10.41.45:592][698]LogActorFactory: Actor Factory spawned Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones as actor: Jared_3Door_IndianaJones_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Jared_3Door_IndianaJones_C_0
+[2025.03.21-10.41.45:602][698]LogActorFactory: Actor Factory spawned Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones as actor: Jared_3Door_IndianaJones_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Jared_3Door_IndianaJones_C_0
+[2025.03.21-10.41.46:595][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.21-10.41.46:600][788]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.21-10.41.46:607][788]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones_C
+[2025.03.21-10.41.46:607][788]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones_C
+[2025.03.21-10.41.46:617][788]LogActorFactory: Actor Factory spawned Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones as actor: Jared_3Door_IndianaJones_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Jared_3Door_IndianaJones_C_UAID_74563C46B5FE2F5702_1248223674
+[2025.03.21-10.41.46:642][788]LogActorFactory: Actor Factory spawned Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones as actor: Jared_3Door_IndianaJones_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Jared_3Door_IndianaJones_C_UAID_74563C46B5FE2F5702_1248223674
+[2025.03.21-10.43.03:656][431]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2025.03.21-10.43.03:678][431]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2025.03.21-10.43.32:200][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21057.064453
+[2025.03.21-10.43.32:284][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-10.43.32:284][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21057.134766, Update Interval: 337.764832
+[2025.03.21-10.44.33:937][319]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2025.03.21-10.44.33:950][319]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2025.03.21-10.44.59:446][694]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.03.21-10.44.59:451][694]Message dialog closed, result: No, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.03.21-10.45.55:216][290]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.03.21-10.45.55:222][290]Message dialog closed, result: No, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.03.21-10.46.26:171][750]Cmd: SELECT NONE
+[2025.03.21-10.46.31:554][360]Cmd: SELECT NONE
+[2025.03.21-10.46.31:855][396]Cmd: SELECT NONE
+[2025.03.21-10.47.13:126][245]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.CubeGridToolOutput_F498CE09
+[2025.03.21-10.47.13:126][245]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_F498CE09 (Required Memory Estimate: 0.145411 MB)...
+[2025.03.21-10.47.13:128][245]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.CubeGridToolOutput_F498CE09
+[2025.03.21-10.47.13:129][245]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.CubeGridToolOutput_F498CE09 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C46B5FE2F5702_1574743377
+[2025.03.21-10.47.43:479][653]Cmd: TRANSACTION UNDO
+[2025.03.21-10.47.43:479][653]LogEditorTransaction: Undo Set Rotation
+[2025.03.21-10.48.05:260][ 91]Cmd: TRANSACTION UNDO
+[2025.03.21-10.48.05:260][ 91]LogEditorTransaction: Undo Transform
+[2025.03.21-10.48.36:494][672]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_F498CE09 (Required Memory Estimate: 0.180238 MB)...
+[2025.03.21-10.48.36:495][672]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.CubeGridToolOutput_F498CE09
+[2025.03.21-10.48.36:496][672]LogStaticMesh: Warning: CubeGridToolOutput_F498CE09 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.03.21-10.48.36:496][672]LogStaticMesh: Warning: CubeGridToolOutput_F498CE09 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.21-10.49.22:408][ 41]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_F498CE09 (Required Memory Estimate: 0.218316 MB)...
+[2025.03.21-10.49.22:409][ 41]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.CubeGridToolOutput_F498CE09
+[2025.03.21-10.49.22:410][ 41]LogStaticMesh: Warning: CubeGridToolOutput_F498CE09 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.03.21-10.49.22:410][ 41]LogStaticMesh: Warning: CubeGridToolOutput_F498CE09 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.03.21-10.49.33:539][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.49.33:644][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.21-10.49.33:668][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.21-10.49.33:686][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.21-10.49.33:768][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5V/B4OOF70YDRHX71MO6INATI
+[2025.03.21-10.49.33:769][346]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/B4OOF70YDRHX71MO6INATID5F4CB5647CF80FA6CF3CABD88A97205.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5V/B4OOF70YDRHX71MO6INATI.uasset'
+[2025.03.21-10.49.33:807][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NB/XA1N1ZFF62M55T1140RYZ3
+[2025.03.21-10.49.33:807][346]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/XA1N1ZFF62M55T1140RYZ3A5593F52446F57F243E8A6B74ED0631D.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/NB/XA1N1ZFF62M55T1140RYZ3.uasset'
+[2025.03.21-10.49.33:853][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 314.576 ms (total: 2.86 sec)
+[2025.03.21-10.49.33:886][346]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.21-10.49.33:886][346]LogContentValidation: Enabled validators:
+[2025.03.21-10.49.33:886][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.49.33:886][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.49.33:886][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.49.33:886][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.49.33:886][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.49.33:886][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.49.33:886][346]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.03.21-10.49.53:316][593]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_F498CE09 -> TrapezoidWall
+[2025.03.21-10.49.53:391][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.49.53:391][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/jgood/TrapezoidWall] ([1] browsable assets)...
+[2025.03.21-10.49.53:420][593]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/TrapezoidWall.TrapezoidWall]
+[2025.03.21-10.49.53:420][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/jgood/TrapezoidWall]
+[2025.03.21-10.49.53:441][593]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/jgood/TrapezoidWall
+[2025.03.21-10.49.53:441][593]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/TrapezoidWallF202C96C43A6C3D9072B10984BAFEFAF.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/FirstPerson/Maps/_GENERATED/jgood/TrapezoidWall.uasset'
+[2025.03.21-10.49.53:444][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09] ([1] browsable assets)...
+[2025.03.21-10.49.53:444][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09]
+[2025.03.21-10.49.53:449][593]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09
+[2025.03.21-10.49.53:449][593]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/CubeGridToolOutput_F498CE094AF664594B077830C6CF939653127371.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.uasset'
+[2025.03.21-10.49.53:450][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.419 ms (total: 2.92 sec)
+[2025.03.21-10.49.53:481][593]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.21-10.49.53:481][593]LogContentValidation: Enabled validators:
+[2025.03.21-10.49.53:481][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.49.53:481][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.49.53:481][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.49.53:481][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.49.53:481][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.49.53:481][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.49.53:481][593]AssetCheck: /Game/FirstPerson/Maps/_GENERATED/jgood/TrapezoidWall Validating asset
+[2025.03.21-10.49.53:481][593]AssetCheck: /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09 Validating asset
+[2025.03.21-10.50.00:172][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.50.00:172][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09] ([1] browsable assets)...
+[2025.03.21-10.50.00:172][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09]
+[2025.03.21-10.50.00:190][327]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09
+[2025.03.21-10.50.00:190][327]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/CubeGridToolOutput_F498CE09F23EE97149370C81F62F75A6060089F5.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09.uasset'
+[2025.03.21-10.50.00:193][327]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_PrototypeObjects/TrapezoidWall] ([1] browsable assets)...
+[2025.03.21-10.50.00:193][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/_PrototypeObjects/TrapezoidWall]
+[2025.03.21-10.50.00:193][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_PrototypeObjects/TrapezoidWall" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_PrototypeObjects/TrapezoidWall.uasset" SILENT=true
+[2025.03.21-10.50.00:210][327]LogSavePackage: Moving output files for package: /Game/_PrototypeObjects/TrapezoidWall
+[2025.03.21-10.50.00:210][327]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/TrapezoidWallC0A92B434CF5D28B70E26DA3FF23D6E1.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_PrototypeObjects/TrapezoidWall.uasset'
+[2025.03.21-10.50.00:212][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.622 ms (total: 2.96 sec)
+[2025.03.21-10.50.00:248][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.21-10.50.00:265][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.21-10.50.00:279][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.21-10.50.00:297][327]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.21-10.50.00:297][327]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.21-10.50.00:297][327]LogContentValidation: Enabled validators:
+[2025.03.21-10.50.00:297][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.50.00:297][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.50.00:297][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.50.00:297][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.50.00:297][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.50.00:297][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.50.00:297][327]AssetCheck: /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F498CE09 Validating asset
+[2025.03.21-10.50.00:297][327]AssetCheck: /Game/_PrototypeObjects/TrapezoidWall Validating asset
+[2025.03.21-10.50.03:329][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21438.248047
+[2025.03.21-10.50.03:411][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-10.50.03:411][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21438.318359, Update Interval: 312.753693
+[2025.03.21-10.50.12:254][721]Cmd: SELECT NONE
+[2025.03.21-10.50.12:589][761]Cmd: SELECT NONE
+[2025.03.21-10.50.12:805][786]Cmd: SELECT NONE
+[2025.03.21-10.50.13:004][809]Cmd: SELECT NONE
+[2025.03.21-10.50.13:203][832]Cmd: SELECT NONE
+[2025.03.21-10.50.24:929][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F02C3481.CubeGridToolOutput_F02C3481
+[2025.03.21-10.50.24:929][210]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_F02C3481 (Required Memory Estimate: 0.145411 MB)...
+[2025.03.21-10.50.24:930][210]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F02C3481.CubeGridToolOutput_F02C3481
+[2025.03.21-10.50.24:932][210]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_F02C3481.CubeGridToolOutput_F02C3481 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C46B5FE2F5702_1766546384
+[2025.03.21-10.51.18:109][461]Cmd: DELETE
+[2025.03.21-10.51.18:109][461]Cmd: ACTOR DELETE
+[2025.03.21-10.51.18:111][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.21-10.51.18:130][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.21-10.51.18:135][461]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.03.21-10.51.47:323][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_FBB36A03.CubeGridToolOutput_FBB36A03
+[2025.03.21-10.51.47:323][924]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_FBB36A03 (Required Memory Estimate: 0.145411 MB)...
+[2025.03.21-10.51.47:326][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_FBB36A03.CubeGridToolOutput_FBB36A03 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C46B5FE2F5702_1848940385
+[2025.03.21-10.51.47:327][924]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_FBB36A03.CubeGridToolOutput_FBB36A03
+[2025.03.21-10.52.54:146][801]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_FBB36A03 (Required Memory Estimate: 0.108607 MB)...
+[2025.03.21-10.52.54:147][801]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/jgood/CubeGridToolOutput_FBB36A03.CubeGridToolOutput_FBB36A03
+[2025.03.21-10.53.16:756][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.21-10.53.20:843][313]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.21-10.53.20:937][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C46B5FE1E5702_1659286675 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MA/6X15075KIR6AXVXTGHW2ZA.PackageMetaData in its package
+[2025.03.21-10.53.20:937][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_74563C46B5FE1F5702_2141705857 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/P2/IG0SAEH9FQJUICQ1I2C8PO.PackageMetaData in its package
+[2025.03.21-10.53.20:937][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.EditLava_C_UAID_74563C46B5FE1F5702_1635111855 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/ET/W8KFWDNEQJI2E4SDXPIRGF.PackageMetaData in its package
+[2025.03.21-10.53.20:937][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.EditLava_C_UAID_74563C46B5FE1F5702_1551172854 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/4T/RXKKMKN4V0ELLMTBHC2OMR.PackageMetaData in its package
+[2025.03.21-10.53.20:937][313]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PROTOTYPE_LAVA_C_UAID_74563C46B5FE1F5702_1355161853 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/WK/76IJ0DY4Q4S46HTGGCGHF3.PackageMetaData in its package
+[2025.03.21-10.53.20:950][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.21-10.53.20:973][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.21-10.53.20:987][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.21-10.53.21:005][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.21-10.53.35:992][948]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_FBB36A03 -> CornerWalls
+[2025.03.21-10.53.36:052][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.53.36:053][948]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/jgood/CornerWalls] ([1] browsable assets)...
+[2025.03.21-10.53.36:080][948]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/jgood/CornerWalls.CornerWalls]
+[2025.03.21-10.53.36:080][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/jgood/CornerWalls]
+[2025.03.21-10.53.36:153][948]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/jgood/CornerWalls
+[2025.03.21-10.53.36:154][948]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/CornerWallsD2B1CF0746F979A533FF039A9ABA81AC.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/FirstPerson/Maps/_GENERATED/jgood/CornerWalls.uasset'
+[2025.03.21-10.53.36:157][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.830 ms (total: 3.07 sec)
+[2025.03.21-10.53.36:184][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.21-10.53.36:198][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.21-10.53.36:214][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.21-10.53.36:253][948]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-10.53.36:253][948]LogContentValidation: Enabled validators:
+[2025.03.21-10.53.36:253][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.53.36:253][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.53.36:253][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.53.36:253][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.53.36:253][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.53.36:253][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.53.36:253][948]AssetCheck: /Game/FirstPerson/Maps/_GENERATED/jgood/CornerWalls Validating asset
+[2025.03.21-10.53.43:337][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.53.43:337][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_PrototypeObjects/CornerWalls] ([1] browsable assets)...
+[2025.03.21-10.53.43:337][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_PrototypeObjects/CornerWalls]
+[2025.03.21-10.53.43:337][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_PrototypeObjects/CornerWalls" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_PrototypeObjects/CornerWalls.uasset" SILENT=true
+[2025.03.21-10.53.43:368][691]LogSavePackage: Moving output files for package: /Game/_PrototypeObjects/CornerWalls
+[2025.03.21-10.53.43:368][691]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/CornerWallsF5BA6F084B63B1C50020379A08972E79.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_PrototypeObjects/CornerWalls.uasset'
+[2025.03.21-10.53.43:369][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 32.312 ms (total: 3.10 sec)
+[2025.03.21-10.53.43:406][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.21-10.53.43:424][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.21-10.53.43:439][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.21-10.53.43:456][691]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.03.21-10.53.43:456][691]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-10.53.43:456][691]LogContentValidation: Enabled validators:
+[2025.03.21-10.53.43:456][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.53.43:456][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.53.43:456][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.53.43:456][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.53.43:456][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.53.43:456][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.53.43:456][691]AssetCheck: /Game/_PrototypeObjects/CornerWalls Validating asset
+[2025.03.21-10.54.03:324][855]LogEditorTransaction: Undo Modify Component(s)
+[2025.03.21-10.56.14:966][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21800.830078
+[2025.03.21-10.56.15:041][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-10.56.15:041][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21800.894531, Update Interval: 351.730713
+[2025.03.21-10.56.16:060][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.21-10.56.22:992][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-10.56.23:019][537]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_3Door_IndianaJones] ([2] browsable assets)...
+[2025.03.21-10.56.23:028][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_3Door_IndianaJones.Jared_3Door_IndianaJones]
+[2025.03.21-10.56.23:028][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_3Door_IndianaJones]
+[2025.03.21-10.56.23:028][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Dungeons/Jared_3Door_IndianaJones" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_3Door_IndianaJones.uasset" SILENT=true
+[2025.03.21-10.56.23:096][537]LogSavePackage: Moving output files for package: /Game/_Dungeons/Jared_3Door_IndianaJones
+[2025.03.21-10.56.23:096][537]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_3Door_IndianaJones1DF2B396489CF64FCC3D4FBBDF52FE6C.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_3Door_IndianaJones.uasset'
+[2025.03.21-10.56.23:104][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.103 ms (total: 3.21 sec)
+[2025.03.21-10.56.23:126][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-10.56.23:126][537]LogContentValidation: Enabled validators:
+[2025.03.21-10.56.23:126][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-10.56.23:126][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-10.56.23:126][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-10.56.23:126][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-10.56.23:126][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-10.56.23:126][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-10.56.23:127][537]AssetCheck: /Game/_Dungeons/Jared_3Door_IndianaJones Validating asset
+[2025.03.21-10.56.47:769][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.21-10.56.47:906][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5V/B4OOF70YDRHX71MO6INATI_Auto9
+[2025.03.21-10.56.47:906][462]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/B4OOF70YDRHX71MO6INATI_Auto98CCD11FA444A42BDD72694AC9E2DA8B2.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5V/B4OOF70YDRHX71MO6INATI_Auto9.uasset'
+[2025.03.21-10.56.47:942][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LO/13YH10P77ZO56T24TQIRZU_Auto9
+[2025.03.21-10.56.47:942][462]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/13YH10P77ZO56T24TQIRZU_Auto9FF5C8881486F838A0DF85BB14752608D.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LO/13YH10P77ZO56T24TQIRZU_Auto9.uasset'
+[2025.03.21-10.56.47:944][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.192
+[2025.03.21-10.56.47:944][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.192
+[2025.03.21-10.56.47:945][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_PrototypeObjects/DITR_Lava] ([1] browsable assets)...
+[2025.03.21-10.56.47:945][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/_PrototypeObjects/DITR_Lava]
+[2025.03.21-10.56.47:965][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_PrototypeObjects/DITR_Lava_Auto9
+[2025.03.21-10.56.47:965][462]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/DITR_Lava_Auto9A4CEACE44F30CD27443ACDBE25B36EFD.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/_PrototypeObjects/DITR_Lava_Auto9.uasset'
+[2025.03.21-10.56.47:966][462]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.03.21-10.57.14:203][937]Cmd: DELETE
+[2025.03.21-10.57.14:203][937]Cmd: ACTOR DELETE
+[2025.03.21-10.57.14:205][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.21-10.57.14:206][937]LogEditorActor: Deleted Actor: Jared_3Door_IndianaJones_C
+[2025.03.21-10.57.14:226][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.21-10.57.14:230][937]LogEditorActor: Deleted 2 Actors (0.026 secs)
+[2025.03.21-10.57.16:574][208]Cmd: DELETE
+[2025.03.21-10.57.16:574][208]Cmd: ACTOR DELETE
+[2025.03.21-10.57.16:576][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.21-10.57.16:592][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.21-10.57.16:595][208]LogEditorActor: Deleted 1 Actors (0.021 secs)
