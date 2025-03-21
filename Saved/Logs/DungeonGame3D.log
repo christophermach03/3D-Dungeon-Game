@@ -1420,3 +1420,13 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.03.21-16.19.36:306][406]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/olivi/OneDrive/Documents/GitHub/3D-Dungeon-Game'
 [2025.03.21-16.19.36:306][406]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/olivi/OneDrive/Documents/GitHub/3D-Dungeon-Game'
 [2025.03.21-16.19.36:306][406]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/olivi/OneDrive/Documents/GitHub/3D-Dungeon-Game'
+[2025.03.21-16.21.09:170][406]LogSlate: Window 'Submit Files' being destroyed
+[2025.03.21-16.21.10:034][406]SourceControl: Error: Updated 0 paths from the index
+[2025.03.21-16.21.10:971][406]SourceControl: On branch Olivia_Room_Block
+[2025.03.21-16.21.10:971][406]SourceControl: Your branch is up to date with 'origin/Olivia_Room_Block'.
+[2025.03.21-16.21.10:971][406]SourceControl: Changes not staged for commit:
+[2025.03.21-16.21.10:971][406]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2025.03.21-16.21.10:971][406]SourceControl:   (use "git restore <file>..." to discard changes in working directory)
+[2025.03.21-16.21.10:971][406]SourceControl: 	modified:   Saved/Logs/DungeonGame3D.log
+[2025.03.21-16.21.10:971][406]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2025.03.21-16.21.11:435][410]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
