@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_BP_Eyebat.uasset",
+				"C:/Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_EB_AI/_BT_Eyebat.uasset",
+				"C:/Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_AI/_BPEnemyBase.uasset",
 				"C:/Users/jodis/3D Objects/GAME2/3D-Dungeon-Game-main/3D-Dungeon-Game-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AP/Q20KC8CUV2YHFOO41JAMEK.uasset",
 				"C:/Users/jodis/3D Objects/GAME2/3D-Dungeon-Game-main/3D-Dungeon-Game-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JN/4DD6N9P4BTJAKDFI00VUF3.uasset",
 				"C:/Users/jodis/3D Objects/GAME2/3D-Dungeon-Game-main/3D-Dungeon-Game-main/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/N7/DDQJ3JE407ZV68GQGSNHMF.uasset",
