@@ -2400,3 +2400,129 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.21-06.23.49:268][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5511.961914
 [2025.03.21-06.23.50:272][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.21-06.23.50:272][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5512.631348, Update Interval: 324.978180
+[2025.03.21-06.25.55:988][144]LogContentBrowser: Deferred new asset file creation: _TwoRoomMaster_Child
+[2025.03.21-06.25.55:996][144]LogContentBrowser: Creating deferred item: _TwoRoomMaster_Child
+[2025.03.21-06.25.56:006][145]LogContentBrowser: Renaming the item being created (Deferred Item: _TwoRoomMaster_Child).
+[2025.03.21-06.26.20:273][ 51]LogContentBrowser: Attempting asset rename: _TwoRoomMaster_Child -> Jared_2Door_DuelOfTheFates
+[2025.03.21-06.26.20:278][ 51]LogContentBrowser: End creating deferred item _TwoRoomMaster_Child
+[2025.03.21-06.26.20:279][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.03.21-06.26.22:921][342]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Dungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates
+[2025.03.21-06.26.22:921][342]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.03.21-06.26.25:345][518]LogSlate: Window 'Jared_2Door_DuelOfTheFates' being destroyed
+[2025.03.21-06.27.02:549][715]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.27.02:549][715]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/_Dungeons/Jared_2Door_DuelOfTheFates (0x4178E55607817BC9) - The package to load does not exist on disk or in the loader
+[2025.03.21-06.27.02:549][715]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/_Dungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates'
+[2025.03.21-06.27.17:994][523]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.27.18:527][579]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.27.28:256][715]LogStreaming: Display: FlushAsyncLoading(683): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.27.32:872][261]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.28.07:718][313]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.29.15:124][ 74]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.29.16:917][282]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.29.17:288][320]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.30.13:997][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5896.608887
+[2025.03.21-06.30.14:071][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-06.30.14:072][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5896.674805, Update Interval: 340.787994
+[2025.03.21-06.30.23:116][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.21-06.30.23:123][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.050
+[2025.03.21-06.30.23:124][958]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_2Door_DuelOfTheFates] ([2] browsable assets)...
+[2025.03.21-06.30.23:131][958]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates]
+[2025.03.21-06.30.23:131][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_2Door_DuelOfTheFates]
+[2025.03.21-06.30.23:238][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Dungeons/Jared_2Door_DuelOfTheFates_Auto5
+[2025.03.21-06.30.23:238][958]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_2Door_DuelOfTheFates_Auto591DBA2114E4888600B414FAB793BDE1E.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/_Dungeons/Jared_2Door_DuelOfTheFates_Auto5.uasset'
+[2025.03.21-06.30.23:239][958]LogFileHelpers: Auto-saving content packages took 0.116
+[2025.03.21-06.30.28:604][542]LogStreaming: Display: FlushAsyncLoading(689): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.30.36:557][480]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.30.54:687][531]LogStreaming: Display: FlushAsyncLoading(691): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.30.55:131][572]LogStreaming: Display: FlushAsyncLoading(692): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.30.55:581][614]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.30.56:582][726]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.31.00:574][185]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.31.06:498][874]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.31.30:845][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.21-06.31.31:008][605]LogStreaming: Display: FlushAsyncLoading(697): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.31.32:188][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-06.31.32:218][739]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_2Door_DuelOfTheFates] ([2] browsable assets)...
+[2025.03.21-06.31.32:250][739]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates]
+[2025.03.21-06.31.32:250][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_2Door_DuelOfTheFates]
+[2025.03.21-06.31.32:250][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Dungeons/Jared_2Door_DuelOfTheFates" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_2Door_DuelOfTheFates.uasset" SILENT=true
+[2025.03.21-06.31.32:330][739]LogSavePackage: Moving output files for package: /Game/_Dungeons/Jared_2Door_DuelOfTheFates
+[2025.03.21-06.31.32:330][739]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_2Door_DuelOfTheFates3366F885412504C6EB75B4B966028A46.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_2Door_DuelOfTheFates.uasset'
+[2025.03.21-06.31.32:338][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.599 ms (total: 1.97 sec)
+[2025.03.21-06.31.32:365][739]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-06.31.32:365][739]LogContentValidation: Enabled validators:
+[2025.03.21-06.31.32:365][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-06.31.32:365][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-06.31.32:365][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-06.31.32:365][739]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-06.31.32:365][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-06.31.32:365][739]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-06.31.32:366][739]AssetCheck: /Game/_Dungeons/Jared_2Door_DuelOfTheFates Validating asset
+[2025.03.21-06.32.30:575][458]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.32.33:164][745]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.37:235][125]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.37:616][160]LogStreaming: Display: FlushAsyncLoading(701): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.37:888][181]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.38:218][209]LogStreaming: Display: FlushAsyncLoading(703): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.38:656][249]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.39:512][340]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.43:164][769]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.33.56:105][285]LogStreaming: Display: FlushAsyncLoading(707): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.04:148][232]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.07:773][655]LogStreaming: Display: FlushAsyncLoading(709): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.12:473][203]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.20:063][ 74]LogStreaming: Display: FlushAsyncLoading(711): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.29:914][215]LogStreaming: Display: FlushAsyncLoading(712): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.30:234][241]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.31:754][416]LogStreaming: Display: FlushAsyncLoading(714): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.37:085][ 41]LogStreaming: Display: FlushAsyncLoading(715): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.37:837][118]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.52:326][761]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.52:975][827]LogStreaming: Display: FlushAsyncLoading(718): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.53:863][922]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.54:919][ 37]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.55:673][114]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.56:446][194]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.34.58:696][460]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.08:787][657]LogStreaming: Display: FlushAsyncLoading(724): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.13:554][211]LogStreaming: Display: FlushAsyncLoading(725): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.17:655][683]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.32:471][429]LogStreaming: Display: FlushAsyncLoading(727): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.37:928][ 71]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.42:040][547]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.55:414][100]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.21-06.35.58:705][471]LogEditorTransaction: Undo Duplicate Component
+[2025.03.21-06.36.02:672][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.21-06.36.02:699][903]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Dungeons/Jared_2Door_DuelOfTheFates] ([2] browsable assets)...
+[2025.03.21-06.36.02:708][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Dungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates]
+[2025.03.21-06.36.02:708][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Dungeons/Jared_2Door_DuelOfTheFates]
+[2025.03.21-06.36.02:708][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Dungeons/Jared_2Door_DuelOfTheFates" FILE="F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_2Door_DuelOfTheFates.uasset" SILENT=true
+[2025.03.21-06.36.02:818][903]LogSavePackage: Moving output files for package: /Game/_Dungeons/Jared_2Door_DuelOfTheFates
+[2025.03.21-06.36.02:818][903]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Jared_2Door_DuelOfTheFatesC794EF2A47E65B0788E8B6AD115A76F8.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Content/_Dungeons/Jared_2Door_DuelOfTheFates.uasset'
+[2025.03.21-06.36.02:825][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.639 ms (total: 2.12 sec)
+[2025.03.21-06.36.02:855][903]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.21-06.36.02:855][903]LogContentValidation: Enabled validators:
+[2025.03.21-06.36.02:855][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.21-06.36.02:855][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.21-06.36.02:855][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.21-06.36.02:855][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.21-06.36.02:855][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.21-06.36.02:855][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.21-06.36.02:855][903]AssetCheck: /Game/_Dungeons/Jared_2Door_DuelOfTheFates Validating asset
+[2025.03.21-06.36.03:952][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.21-06.36.06:217][256]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.21-06.36.06:217][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.21-06.36.06:302][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.21-06.36.37:246][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6279.778320
+[2025.03.21-06.36.37:331][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-06.36.37:331][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6279.854492, Update Interval: 308.000122
+[2025.03.21-06.40.24:044][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.21-06.40.24:050][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2025.03.21-06.40.24:050][293]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_PrototypeObjects/DITR_Lava] ([1] browsable assets)...
+[2025.03.21-06.40.24:050][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/_PrototypeObjects/DITR_Lava]
+[2025.03.21-06.40.24:142][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_PrototypeObjects/DITR_Lava_Auto6
+[2025.03.21-06.40.24:143][293]LogSavePackage: Moving 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/DITR_Lava_Auto6900B8E684122CD75CC4627AAE66F9CC7.tmp' to 'F:/FAU/Spring 2025/DIG 3725/Game/3D-Dungeon-Game/Saved/Autosaves/Game/_PrototypeObjects/DITR_Lava_Auto6.uasset'
+[2025.03.21-06.40.24:144][293]LogFileHelpers: Auto-saving content packages took 0.094
+[2025.03.21-06.42.39:336][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6641.860840
+[2025.03.21-06.42.40:340][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.21-06.42.40:340][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6642.527832, Update Interval: 329.295929
