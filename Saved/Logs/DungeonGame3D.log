@@ -1556,3 +1556,13 @@ FPackageName: Skipped package /Game/_3dmodels/eyebat/eyebateFLYCYCLE has a valid
 [2025.03.26-23.21.02:936][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.03.26-23.21.02:942][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
 [2025.03.26-23.21.02:970][968]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.26-23.25.44:605][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.26-23.25.44:606][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.015
+[2025.03.26-23.25.44:607][234]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp] ([2] browsable assets)...
+[2025.03.26-23.25.44:607][234]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.03.26-23.25.44:644][234]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp_C]
+[2025.03.26-23.25.44:647][234]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp]
+[2025.03.26-23.25.44:647][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp]
+[2025.03.26-23.25.44:654][234]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp_Auto1
+[2025.03.26-23.25.44:655][234]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_EB_bp_Auto1159CA28D4702E2BE3C49A895BF4D8C54.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp_Auto1.uasset'
+[2025.03.26-23.25.44:656][234]LogFileHelpers: Auto-saving content packages took 0.049
