@@ -1630,3 +1630,30 @@ FPackageName: Skipped package /Game/_3dmodels/eyebat/eyebateFLYCYCLE has a valid
 [2025.03.28-14.42.02:828][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1407.195923
 [2025.03.28-14.42.02:912][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.28-14.42.02:912][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1407.271851, Update Interval: 336.378662
+[2025.03.28-14.47.58:277][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1762.660278
+[2025.03.28-14.47.59:276][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-14.47.59:276][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1763.332642, Update Interval: 354.444397
+[2025.03.28-14.49.06:501][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.28-14.49.09:893][373]LogSlate: Window 'Save Content' being destroyed
+[2025.03.28-14.49.09:933][373]LogAutomationController: Ignoring very large delta of 3.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.28-14.49.10:656][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.28-14.49.11:806][432]LogSlate: Window 'Save Content' being destroyed
+[2025.03.28-14.49.11:827][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-14.49.11:884][432]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/8Y/AHOCQTA6L2W0EJUPAFYH3P
+[2025.03.28-14.49.11:884][432]LogSavePackage: Moving '../../../../../../Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Saved/AHOCQTA6L2W0EJUPAFYH3P2F02088A4CD6CF2E621686A94F1A1162.tmp' to '../../../../../../Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/8Y/AHOCQTA6L2W0EJUPAFYH3P.uasset'
+[2025.03.28-14.49.11:885][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Traps/Trap_Mimic_Chest] ([2] browsable assets)...
+[2025.03.28-14.49.11:885][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Traps/Trap_Mimic_Chest]
+[2025.03.28-14.49.11:885][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Traps/Trap_Mimic_Chest" FILE="../../../../../../Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/_Traps/Trap_Mimic_Chest.uasset" SILENT=true
+[2025.03.28-14.49.11:888][432]LogSavePackage: Moving output files for package: /Game/_Traps/Trap_Mimic_Chest
+[2025.03.28-14.49.11:888][432]LogSavePackage: Moving '../../../../../../Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Saved/Trap_Mimic_ChestAD590900441A7B7683256484A7BFB891.tmp' to '../../../../../../Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/_Traps/Trap_Mimic_Chest.uasset'
+[2025.03.28-14.49.11:898][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.320 ms (total: 314.121 ms)
+[2025.03.28-14.49.11:942][432]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.28-14.49.11:942][432]LogContentValidation: Enabled validators:
+[2025.03.28-14.49.11:942][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.28-14.49.11:942][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.28-14.49.11:942][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.28-14.49.11:942][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.28-14.49.11:942][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.28-14.49.11:942][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.28-14.49.11:943][432]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.03.28-14.49.11:943][432]AssetCheck: /Game/_Traps/Trap_Mimic_Chest Validating asset
