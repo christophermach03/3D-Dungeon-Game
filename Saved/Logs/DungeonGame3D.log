@@ -6075,3 +6075,81 @@ Continue: Skip saving this asset only.
 [2025.04.04-16.21.01:414][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.04-16.21.01:414][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.04-16.21.01:414][986]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy Validating asset
+[2025.04.04-16.21.27:998][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.21.28:013][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto7
+[2025.04.04-16.21.28:013][278]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Proper_Ai_Auto783448FDE4474C98F668874A1EB1BB6EA.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto7.umap'
+[2025.04.04-16.21.28:013][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.032
+[2025.04.04-16.21.28:013][278]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2025.04.04-16.21.28:014][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack] ([2] browsable assets)...
+[2025.04.04-16.21.28:014][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack]
+[2025.04.04-16.21.28:016][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack_Auto7
+[2025.04.04-16.21.28:016][278]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BTT_Default_Attack_Auto75385C9ED4430EB56B1346193CDD76CDB.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack_Auto7.uasset'
+[2025.04.04-16.21.28:023][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2025.04.04-16.21.28:023][278]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2025.04.04-16.21.28:029][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/InterchangeAssets/gltf/M_Default_Auto7
+[2025.04.04-16.21.28:029][278]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default_Auto7E998BE3A4C751D99C3A026AC71496A3D.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/InterchangeAssets/gltf/M_Default_Auto7.uasset'
+[2025.04.04-16.21.28:031][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/Cube_005] ([1] browsable assets)...
+[2025.04.04-16.21.28:031][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/Cube_005]
+[2025.04.04-16.21.28:031][278]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:SkeletalMeshDescriptionBulkData_0:
+[2025.04.04-16.21.28:107][278]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.21.28:107][278]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.04.04-16.21.28:107][278]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.21.28:107][278]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.04.04-16.21.28:107][278]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:InterchangeAssetImportData_0:
+[2025.04.04-16.21.28:179][278]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.21.28:179][278]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.04.04-16.21.28:179][278]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.21.28:179][278]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.04.04-16.21.28:179][278]LogSavePackage: Warning: 
+Referencers of SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:SceneThumbnailInfo_0:
+[2025.04.04-16.21.28:251][278]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.21.28:251][278]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+[2025.04.04-16.21.28:251][278]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.21.28:251][278]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+[2025.04.04-16.21.28:251][278]Warning: Can't save '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/Cube_005_Auto7.uasset': Illegal reference to private object: 'SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:SceneThumbnailInfo_0' referenced by 'Cube_005' (at '/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005') in its 'ThumbnailInfo' property.
+[2025.04.04-16.21.41:961][320]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8132.000488
+[2025.04.04-16.21.42:956][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-16.21.42:956][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8132.661621, Update Interval: 336.490356
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: ================================================
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: Total job queries 859, among them cache hits 413 (48.08%), DDC hits 247 (28.75%), Duplicates 8 (0.93%)
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: Tracking 438 distinct input hashes that result in 316 distinct outputs (72.15%)
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: RAM used: 177.49 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.04-16.21.57:621][367]LogShaderCompilers: Display: Shaders Compiled: 191
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Jobs assigned 191, completed 191 (100%)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Average time worker was idle: 281.89 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.22 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 2.11 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 2.21
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Shader code size: average 9.176 KiB, min 2.785 KiB, max 24.773 KiB
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.41 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Jobs were issued in 191 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Average processing rate: 6.08 jobs/sec
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Total thread time: 67.892 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Total thread preprocess time: 9.235 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Percentage time preprocessing: 13.60%
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Effective parallelization: 2.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 0.61 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 0.61 sec, max 0.74 sec, min 0.52 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.59% of total time (compiled   23 times, average 0.61 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.80% of total time (compiled   32 times, average 0.34 sec, max 0.53 sec, min 0.23 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.31% of total time (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.41% of total time (compiled   30 times, average 0.21 sec, max 0.30 sec, min 0.16 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.96% of total time (compiled   21 times, average 0.26 sec, max 0.52 sec, min 0.18 sec)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: === Material stats ===
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Materials Translated:    259
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Material Cache Hits: 17 (7%)
+[2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: ================================================
