@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/eyebateFLYCYCLE/_BodyMat.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_WingsBruh.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/_Skelly.uasset",
 				"C:/Users/Chris/Projects/[]Local Github Repos/3D-Dungeon-Game/Content/_Traps/Trap_Activator_Independant.uasset",
 				"C:/Users/Chris/Projects/[]Local Github Repos/3D-Dungeon-Game/Content/_Dungeons/TEST_ROOM.uasset",
 				"C:/Users/Chris/Projects/[]Local Github Repos/3D-Dungeon-Game/Content/_Traps/BPI_TrapAssignment.uasset",
