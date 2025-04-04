@@ -5547,3 +5547,531 @@ Sampler Limit: 32
 [2025.04.04-16.09.24:820][127]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9749dacb-670e-4bb0-bea9-491a26dffb0f}, Name=DELL S3422DWG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.18
 [2025.04.04-16.09.24:820][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2025.04.04-16.09.24:821][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.04-16.10.22:623][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.04-16.10.23:807][826]LogSlate: Window 'Save Content' being destroyed
+[2025.04.04-16.10.23:832][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.10.23:881][826]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.10.23:881][826]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.10.23:881][826]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.DefaultMaterial_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.10.23:881][826]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.DefaultMaterial_Normal has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.10.23:881][826]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.DefaultMaterial_Roughness has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.10.23:881][826]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.DefaultMaterial_Roughness has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.10.23:909][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.04-16.10.23:917][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Proper_Ai
+[2025.04.04-16.10.23:917][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Proper_Ai7F21F7654914DC7781D3D192CBBBB1BD.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap'
+[2025.04.04-16.10.23:924][826]LogFileHelpers: Saving map '_Proper_Ai' took 0.044
+[2025.04.04-16.10.23:924][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/_BT_Skelly] ([1] browsable assets)...
+[2025.04.04-16.10.23:924][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/_BT_Skelly]
+[2025.04.04-16.10.23:927][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/_BT_Skelly
+[2025.04.04-16.10.23:927][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BT_Skelly05381BC64EDD55BEF9B7D09EE4C74B2D.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/_BT_Skelly.uasset'
+[2025.04.04-16.10.23:928][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack] ([2] browsable assets)...
+[2025.04.04-16.10.23:928][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack]
+[2025.04.04-16.10.23:930][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack
+[2025.04.04-16.10.23:931][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BTT_Default_Attack7EBC4683463D49B900A2BA8FB41AC7EA.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack.uasset'
+[2025.04.04-16.10.23:932][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly_Tasks/_BTT_Sk_DefAttack] ([2] browsable assets)...
+[2025.04.04-16.10.23:932][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly_Tasks/_BTT_Sk_DefAttack]
+[2025.04.04-16.10.23:933][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly_Tasks/_BTT_Sk_DefAttack
+[2025.04.04-16.10.23:934][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BTT_Sk_DefAttack4AF5E7C745208DD2FFE4D6A1269C6A18.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/_Skelly_Tasks/_BTT_Sk_DefAttack.uasset'
+[2025.04.04-16.10.23:935][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal] ([1] browsable assets)...
+[2025.04.04-16.10.23:935][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal]
+[2025.04.04-16.10.23:948][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal
+[2025.04.04-16.10.23:948][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Normal96AB5A824D542DE2DEBFABBEBA47E666.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal.uasset'
+[2025.04.04-16.10.23:949][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk] ([1] browsable assets)...
+[2025.04.04-16.10.23:949][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk]
+[2025.04.04-16.10.23:950][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk
+[2025.04.04-16.10.23:951][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_SkellyWalk614C4B2C4216F04A421D399E72BF2165.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk.uasset'
+[2025.04.04-16.10.23:951][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/cape] ([1] browsable assets)...
+[2025.04.04-16.10.23:951][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/cape]
+[2025.04.04-16.10.23:952][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/skelly/cape
+[2025.04.04-16.10.23:953][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/capeAC9F1B034F0B3AA29EAA4AAC0836C56B.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/skelly/cape.uasset'
+[2025.04.04-16.10.23:954][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2025.04.04-16.10.23:954][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor]
+[2025.04.04-16.10.23:969][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor
+[2025.04.04-16.10.23:970][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/DefaultMaterial_BaseColor553CD8F347D889BFD983268375751115.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.uasset'
+[2025.04.04-16.10.23:971][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Displacement] ([1] browsable assets)...
+[2025.04.04-16.10.23:971][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Displacement]
+[2025.04.04-16.10.23:977][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Displacement
+[2025.04.04-16.10.23:977][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/DefaultMaterial_DisplacementB0022CE6480CF3C3C9195DB86F0C108C.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Displacement.uasset'
+[2025.04.04-16.10.23:978][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal] ([1] browsable assets)...
+[2025.04.04-16.10.23:978][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal]
+[2025.04.04-16.10.24:002][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal
+[2025.04.04-16.10.24:003][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/DefaultMaterial_NormalC295190245C63E7981FA669B591C8A23.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.uasset'
+[2025.04.04-16.10.24:004][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness] ([1] browsable assets)...
+[2025.04.04-16.10.24:004][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness]
+[2025.04.04-16.10.24:010][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness
+[2025.04.04-16.10.24:010][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/DefaultMaterial_Roughness464FA0134BA5BD59A8A6DFB5DE1CC74A.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness.uasset'
+[2025.04.04-16.10.24:011][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness] ([1] browsable assets)...
+[2025.04.04-16.10.24:011][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness]
+[2025.04.04-16.10.24:018][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness
+[2025.04.04-16.10.24:018][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/DefaultMaterial_RoughnessB6A340C24F3541A68C92CEA71F1A5989.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.uasset'
+[2025.04.04-16.10.24:019][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2025.04.04-16.10.24:019][826]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2025.04.04-16.10.24:019][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/InterchangeAssets/gltf/M_Default" FILE="../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset" SILENT=true
+[2025.04.04-16.10.24:025][826]LogSavePackage: Moving output files for package: /InterchangeAssets/gltf/M_Default
+[2025.04.04-16.10.24:026][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.24:527][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.25:028][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.25:528][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.26:029][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.26:530][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.27:030][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.27:531][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.28:031][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.28:532][826]LogFileManager: Warning: MoveFile was unable to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp' (Error Code 32), retrying in .5s...
+[2025.04.04-16.10.29:033][826]LogFileManager: Error: Error moving file '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default5CA8B0004E2E9C1AE5F2F3814BEC5C71.tmp'.
+[2025.04.04-16.10.29:033][826]LogSavePackage: Warning: Failed to move '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset' to temp directory
+[2025.04.04-16.10.29:033][826]LogSavePackage: Error: Error saving '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset'
+[2025.04.04-16.10.29:033][826]Warning: Error saving '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset'
+[2025.04.04-16.12.56:055][826]LogSlate: Window 'Message' being destroyed
+[2025.04.04-16.12.56:063][826]Message dialog closed, result: Continue, title: Message, text: The asset '/InterchangeAssets/gltf/M_Default' (M_Default.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.04.04-16.12.56:063][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Props/Materials/M_Door] ([1] browsable assets)...
+[2025.04.04-16.12.56:063][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/Materials/M_Door]
+[2025.04.04-16.12.56:066][826]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/Materials/M_Door
+[2025.04.04-16.12.56:066][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Door6053858E42DCBD99A9C0499E79FE243B.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/StarterContent/Props/Materials/M_Door.uasset'
+[2025.04.04-16.12.56:067][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Copper] ([1] browsable assets)...
+[2025.04.04-16.12.56:067][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Copper]
+[2025.04.04-16.12.56:069][826]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Metal_Copper
+[2025.04.04-16.12.56:070][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Metal_Copper0B3D726946FF909B2D9200BC3E8AD8F0.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/StarterContent/Materials/M_Metal_Copper.uasset'
+[2025.04.04-16.12.56:071][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/Wings] ([1] browsable assets)...
+[2025.04.04-16.12.56:071][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/Wings]
+[2025.04.04-16.12.56:080][826]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/Wings
+[2025.04.04-16.12.56:080][826]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/WingsE03FD577417DA1A8E936F8AF44FDCC23.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/Wings.uasset'
+[2025.04.04-16.12.57:242][826]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2025.04.04-16.12.57:297][826]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/InterchangeAssets/gltf/M_Default
+[2025.04.04-16.12.57:297][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 2:33 min (total: 2:35 min)
+[2025.04.04-16.12.57:370][826]LogContentValidation: Display: Starting to validate 15 assets
+[2025.04.04-16.12.57:370][826]LogContentValidation: Enabled validators:
+[2025.04.04-16.12.57:370][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.12.57:370][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.12.57:370][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.12.57:370][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.12.57:370][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.12.57:370][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Proper_Ai Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/_BT_Skelly Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly_Tasks/_BTT_Sk_DefAttack Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/skelly/cape Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Displacement Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/StarterContent/Props/Materials/M_Door Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/StarterContent/Materials/M_Metal_Copper Validating asset
+[2025.04.04-16.12.57:370][826]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/Wings Validating asset
+[2025.04.04-16.12.57:616][830]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.04.04-16.13.02:891][422]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.04-16.13.02:896][422]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.04-16.13.02:902][423]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.04-16.13.08:256][ 64]LogContentBrowser: Attempting asset rename: NewFolder -> _Doggy
+[2025.04.04-16.13.08:256][ 64]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.04-16.13.54:069][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/Cube_002.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:085][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/Cube_002_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:104][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/Cube_002_Skeleton.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:123][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/Cube_005.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:137][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/Cube_005_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:156][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/doggy_Blueprint.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:170][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/fur.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:188][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/mane.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:204][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarigAction1.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:221][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarigAction12.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:237][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarig_001Action.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:254][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarig_001Action12.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:269][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarig_001_ProxyTrueRootJoint_Skeleton.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:288][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarig_002Action1.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:304][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarig_002Action12.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:321][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/metarig_ProxyTrueRootJoint_Skeleton.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:338][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/_BITEANIM.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:354][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:370][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/_SITANIM.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:389][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/_skeletalmesh.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:403][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/_WALKANIM.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:422][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:438][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures1.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:455][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures12.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:470][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures123.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:485][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures1234.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:505][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures12345.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:521][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures123456.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:538][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures1234567.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:555][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggytextures12345678.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:570][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggy_BaseColor_1001.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:588][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggy_Normal_1001.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:603][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/doggy_Roughness_1001.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:621][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/eyediffuse.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:638][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/eyenormal.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:655][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/eyes.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.13.54:672][656]LogAssetTools: Warning: Failed to import 'D:\GAME2\assets\workingunrealthings\Content\doggy/textures/fur.uasset'. Unknown extension 'uasset'.
+[2025.04.04-16.15.30:367][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7760.420410
+[2025.04.04-16.15.31:366][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-16.15.31:366][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7761.085938, Update Interval: 328.037964
+[2025.04.04-16.19.15:509][445]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/blueprint/doggy.
+[2025.04.04-16.19.34:004][839]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.19.34:148][839]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2025.04.04-16.19.34:194][839]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.19.34:194][839]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.19.34:241][839]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_0
+[2025.04.04-16.19.34:244][839]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_0
+[2025.04.04-16.19.34:251][839]LogChaosDD: Creating Chaos Debug Draw Scene for world World_86
+[2025.04.04-16.19.34:985][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.04-16.19.34:990][846]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.04.04-16.19.34:997][846]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.19.34:997][846]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.19.35:002][846]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_1
+[2025.04.04-16.19.35:004][846]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_1
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy_C' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:ReceiveBeginPlay' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:ReceiveTick' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:UserConstructionScript' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:956][451]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.19.41:957][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.19.41:957][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy] ([2] browsable assets)...
+[2025.04.04-16.19.41:957][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy]
+[2025.04.04-16.19.41:960][451]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy
+[2025.04.04-16.19.41:960][451]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy0A155F5044BB801A70C27A8DCD18452C.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy.uasset'
+[2025.04.04-16.19.41:960][451]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_CombatSystem/_Enemy/_Doggy/doggy.
+[2025.04.04-16.19.41:964][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.318 ms (total: 2:35 min)
+[2025.04.04-16.19.42:007][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.19.42:023][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.19.42:037][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.04-16.19.42:052][451]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.04-16.19.42:052][451]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.19.42:052][451]LogContentValidation: Enabled validators:
+[2025.04.04-16.19.42:053][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.19.42:053][451]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.19.42:053][451]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.19.42:053][451]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.19.42:053][451]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.19.42:053][451]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.19.42:053][451]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy Validating asset
+[2025.04.04-16.19.45:578][740]LogChaosDD: Creating Chaos Debug Draw Scene for world World_87
+[2025.04.04-16.19.45:614][741]LogChaosDD: Creating Chaos Debug Draw Scene for world World_88
+[2025.04.04-16.19.57:705][651]LogSlate: Window 'Loading Many Assets' being destroyed
+[2025.04.04-16.19.57:716][651]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 23 assets. Are you sure you want to continue?
+[2025.04.04-16.19.57:773][651]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.19.57:915][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.19.57:915][651]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy] ([2] browsable assets)...
+[2025.04.04-16.19.58:032][651]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy]
+[2025.04.04-16.19.58:032][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy]
+[2025.04.04-16.19.58:038][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy
+[2025.04.04-16.19.58:039][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy483A4E57461CEF4B4A60F28990165E8C.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy.uasset'
+[2025.04.04-16.19.58:040][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyediffuse] ([1] browsable assets)...
+[2025.04.04-16.19.58:040][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyediffuse]
+[2025.04.04-16.19.58:042][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyediffuse
+[2025.04.04-16.19.58:042][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/eyediffuse60BDDD754A051511ECBBF5B2DA3063DD.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyediffuse.uasset'
+[2025.04.04-16.19.58:043][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345] ([1] browsable assets)...
+[2025.04.04-16.19.58:043][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345]
+[2025.04.04-16.19.58:043][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345
+[2025.04.04-16.19.58:043][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures1234587E09CE148B909BF54F9ECB93F82AECB.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345.uasset'
+[2025.04.04-16.19.58:044][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Roughness_1001] ([1] browsable assets)...
+[2025.04.04-16.19.58:044][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Roughness_1001]
+[2025.04.04-16.19.58:045][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Roughness_1001
+[2025.04.04-16.19.58:045][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy_Roughness_10019FDB5EEC482C64DA621D86AE17403ED2.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Roughness_1001.uasset'
+[2025.04.04-16.19.58:049][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Normal_1001] ([1] browsable assets)...
+[2025.04.04-16.19.58:049][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Normal_1001]
+[2025.04.04-16.19.58:054][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Normal_1001
+[2025.04.04-16.19.58:054][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy_Normal_1001980B6A6A43355D1F3A96CABFD2FCD7A8.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Normal_1001.uasset'
+[2025.04.04-16.19.58:055][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/mane] ([1] browsable assets)...
+[2025.04.04-16.19.58:055][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/mane]
+[2025.04.04-16.19.58:080][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/mane
+[2025.04.04-16.19.58:080][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/mane9BFBC1194A0BF455F5F2D19462B5977D.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/mane.uasset'
+[2025.04.04-16.19.58:082][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/fur] ([1] browsable assets)...
+[2025.04.04-16.19.58:082][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/fur]
+[2025.04.04-16.19.58:177][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/fur
+[2025.04.04-16.19.58:177][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/fur1481DF5D4C9EEB96A0CD86B9C10B1FB6.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/fur.uasset'
+[2025.04.04-16.19.58:179][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/fur] ([1] browsable assets)...
+[2025.04.04-16.19.58:179][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/fur]
+[2025.04.04-16.19.58:180][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/fur
+[2025.04.04-16.19.58:180][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/fur55F861464E15CAD9BFF2C9856664D3F9.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/fur.uasset'
+[2025.04.04-16.19.58:181][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_1001] ([1] browsable assets)...
+[2025.04.04-16.19.58:181][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_1001]
+[2025.04.04-16.19.58:183][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_1001
+[2025.04.04-16.19.58:183][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy_BaseColor_10013B0B4E694865AD001039119A721A397D.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_1001.uasset'
+[2025.04.04-16.19.58:183][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001_ProxyTrueRootJoint_Skeleton] ([1] browsable assets)...
+[2025.04.04-16.19.58:184][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001_ProxyTrueRootJoint_Skeleton]
+[2025.04.04-16.19.58:184][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001_ProxyTrueRootJoint_Skeleton
+[2025.04.04-16.19.58:184][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarig_001_ProxyTrueRootJoint_S4618ACC44B141C51539466A9637F3D40.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001_ProxyTrueRootJoint_Skeleton.uasset'
+[2025.04.04-16.19.58:186][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh] ([1] browsable assets)...
+[2025.04.04-16.19.58:186][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh]
+[2025.04.04-16.19.58:214][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh
+[2025.04.04-16.19.58:214][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_skeletalmesh8AFDC0164973ACDEF0C0F3A6DC1DBFD4.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh.uasset'
+[2025.04.04-16.19.58:215][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_PhysicsAsset] ([1] browsable assets)...
+[2025.04.04-16.19.58:215][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_PhysicsAsset]
+[2025.04.04-16.19.58:218][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_PhysicsAsset
+[2025.04.04-16.19.58:218][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_PhysicsAsset6B9C2120463538AAB0F61BA7C4C7951D.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/_PhysicsAsset.uasset'
+[2025.04.04-16.19.58:219][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyes] ([1] browsable assets)...
+[2025.04.04-16.19.58:219][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyes]
+[2025.04.04-16.19.58:220][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyes
+[2025.04.04-16.19.58:220][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/eyes84B0E0DC4ED3F78617BBCDB5022D6D19.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyes.uasset'
+[2025.04.04-16.19.58:221][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyenormal] ([1] browsable assets)...
+[2025.04.04-16.19.58:221][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyenormal]
+[2025.04.04-16.19.58:223][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyenormal
+[2025.04.04-16.19.58:223][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/eyenormalC6A4CF3E459469D4F715AD9B1AEB4942.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyenormal.uasset'
+[2025.04.04-16.19.58:231][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_WALKANIM] ([1] browsable assets)...
+[2025.04.04-16.19.58:231][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_WALKANIM]
+[2025.04.04-16.19.58:234][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_WALKANIM
+[2025.04.04-16.19.58:235][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_WALKANIM2FF53A0E418679C3468C97A6A5C23515.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/_WALKANIM.uasset'
+[2025.04.04-16.19.58:235][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Skeleton] ([1] browsable assets)...
+[2025.04.04-16.19.58:236][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Skeleton]
+[2025.04.04-16.19.58:236][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Skeleton
+[2025.04.04-16.19.58:236][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_002_Skeleton12AE3F174ED7B1BA6ED9FB9A742AD204.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Skeleton.uasset'
+[2025.04.04-16.19.58:238][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002] ([1] browsable assets)...
+[2025.04.04-16.19.58:238][651]LogChaosDD: Creating Chaos Debug Draw Scene for world World_89
+[2025.04.04-16.19.58:265][651]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002]
+[2025.04.04-16.19.58:265][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002]
+[2025.04.04-16.19.58:294][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002
+[2025.04.04-16.19.58:294][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_002EE7ABAA4426BC82B2688ECBDD22D3E1F.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.uasset'
+[2025.04.04-16.19.58:295][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_PhysicsAsset] ([1] browsable assets)...
+[2025.04.04-16.19.58:295][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_PhysicsAsset]
+[2025.04.04-16.19.58:299][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_PhysicsAsset
+[2025.04.04-16.19.58:299][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_002_PhysicsAssetB101B62940D93E6198DF8EAC8A22516F.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_PhysicsAsset.uasset'
+[2025.04.04-16.19.58:300][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_SITANIM] ([1] browsable assets)...
+[2025.04.04-16.19.58:300][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_SITANIM]
+[2025.04.04-16.19.58:303][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_SITANIM
+[2025.04.04-16.19.58:303][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_SITANIM5078115A445E4DEE480B38A3D74A9052.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/_SITANIM.uasset'
+[2025.04.04-16.19.58:304][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_BITEANIM] ([1] browsable assets)...
+[2025.04.04-16.19.58:304][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/_BITEANIM]
+[2025.04.04-16.19.58:307][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_BITEANIM
+[2025.04.04-16.19.58:307][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BITEANIM36FB6BED4DEEDBA7C332ED9CC1C115AC.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/_BITEANIM.uasset'
+[2025.04.04-16.19.58:316][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_ProxyTrueRootJoint_Skeleton] ([1] browsable assets)...
+[2025.04.04-16.19.58:316][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_ProxyTrueRootJoint_Skeleton]
+[2025.04.04-16.19.58:317][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_ProxyTrueRootJoint_Skeleton
+[2025.04.04-16.19.58:317][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarig_ProxyTrueRootJoint_Skele9DBCAB6941FE6A15881D7DBB65F2FA01.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarig_ProxyTrueRootJoint_Skeleton.uasset'
+[2025.04.04-16.19.58:318][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005] ([1] browsable assets)...
+[2025.04.04-16.19.58:318][651]LogChaosDD: Creating Chaos Debug Draw Scene for world World_90
+[2025.04.04-16.19.58:343][651]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005]
+[2025.04.04-16.19.58:343][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005]
+[2025.04.04-16.19.58:371][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005
+[2025.04.04-16.19.58:371][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_005CCE73D5240BB915AC7BD91B815984AB7.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.uasset'
+[2025.04.04-16.19.58:372][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_PhysicsAsset] ([1] browsable assets)...
+[2025.04.04-16.19.58:372][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_PhysicsAsset]
+[2025.04.04-16.19.58:376][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_PhysicsAsset
+[2025.04.04-16.19.58:376][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_005_PhysicsAsset11C69FFD4C35F35EC5FB29AFBD5342FD.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_PhysicsAsset.uasset'
+[2025.04.04-16.19.58:376][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action12] ([1] browsable assets)...
+[2025.04.04-16.19.58:376][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action12]
+[2025.04.04-16.19.58:379][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action12
+[2025.04.04-16.19.58:379][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarig_002Action1262CCF1BA4329F7030C7007940766497C.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action12.uasset'
+[2025.04.04-16.19.58:380][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action1] ([1] browsable assets)...
+[2025.04.04-16.19.58:380][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action1]
+[2025.04.04-16.19.58:384][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action1
+[2025.04.04-16.19.58:384][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarig_002Action189AC56F94AD95DD44C56118895695DB8.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action1.uasset'
+[2025.04.04-16.19.58:384][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action12] ([1] browsable assets)...
+[2025.04.04-16.19.58:384][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action12]
+[2025.04.04-16.19.58:387][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action12
+[2025.04.04-16.19.58:387][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarig_001Action126C65E36C42B8A87EA180718420406036.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action12.uasset'
+[2025.04.04-16.19.58:388][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action] ([1] browsable assets)...
+[2025.04.04-16.19.58:388][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action]
+[2025.04.04-16.19.58:391][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action
+[2025.04.04-16.19.58:391][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarig_001ActionE88527C640F579A92C24A185F7EF70BB.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action.uasset'
+[2025.04.04-16.19.58:392][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction12] ([1] browsable assets)...
+[2025.04.04-16.19.58:392][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction12]
+[2025.04.04-16.19.58:395][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction12
+[2025.04.04-16.19.58:395][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarigAction12DB4F95CC4CC39CA3E0F23AB281B6C06A.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction12.uasset'
+[2025.04.04-16.19.58:396][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction1] ([1] browsable assets)...
+[2025.04.04-16.19.58:396][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction1]
+[2025.04.04-16.19.58:398][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction1
+[2025.04.04-16.19.58:398][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/metarigAction1DA9B318640016E655EC1BA8EF1695F27.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction1.uasset'
+[2025.04.04-16.19.58:399][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12] ([1] browsable assets)...
+[2025.04.04-16.19.58:399][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12]
+[2025.04.04-16.19.58:400][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12
+[2025.04.04-16.19.58:400][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures121DA713064C311B26C350C98ABC51D9C3.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12.uasset'
+[2025.04.04-16.19.58:401][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345678] ([1] browsable assets)...
+[2025.04.04-16.19.58:401][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345678]
+[2025.04.04-16.19.58:403][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345678
+[2025.04.04-16.19.58:403][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures1234567860722312490985C742EFBAA17E606A90.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345678.uasset'
+[2025.04.04-16.19.58:403][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234567] ([1] browsable assets)...
+[2025.04.04-16.19.58:403][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234567]
+[2025.04.04-16.19.58:404][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234567
+[2025.04.04-16.19.58:404][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures1234567320339C44BD2FF447624A8A86262F5BC.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234567.uasset'
+[2025.04.04-16.19.58:405][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123456] ([1] browsable assets)...
+[2025.04.04-16.19.58:405][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123456]
+[2025.04.04-16.19.58:406][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123456
+[2025.04.04-16.19.58:406][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures123456010D8839428A384808496C9D26E57CB5.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123456.uasset'
+[2025.04.04-16.19.58:407][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234] ([1] browsable assets)...
+[2025.04.04-16.19.58:407][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234]
+[2025.04.04-16.19.58:408][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234
+[2025.04.04-16.19.58:408][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures12341ABD3BA045A44AA0AD5E11A462C3B17D.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234.uasset'
+[2025.04.04-16.19.58:408][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123] ([1] browsable assets)...
+[2025.04.04-16.19.58:408][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123]
+[2025.04.04-16.19.58:409][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123
+[2025.04.04-16.19.58:409][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures1235CFE1F32458ED99DA7BE7497FE662014.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123.uasset'
+[2025.04.04-16.19.58:410][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1] ([1] browsable assets)...
+[2025.04.04-16.19.58:410][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1]
+[2025.04.04-16.19.58:411][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1
+[2025.04.04-16.19.58:411][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytextures186ECE7DC4B46071274C84B84FCFB606F.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1.uasset'
+[2025.04.04-16.19.58:412][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures] ([1] browsable assets)...
+[2025.04.04-16.19.58:412][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures]
+[2025.04.04-16.19.58:413][651]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures
+[2025.04.04-16.19.58:413][651]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggytexturesFF45A2AB479DFAAE104C7F964F43C78B.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures.uasset'
+[2025.04.04-16.19.58:414][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 499.092 ms (total: 2:35 min)
+[2025.04.04-16.19.58:912][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.04-16.19.58:931][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.04-16.19.58:944][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.04.04-16.19.58:985][651]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.04-16.19.58:985][651]LogContentValidation: Display: Starting to validate 37 assets
+[2025.04.04-16.19.58:985][651]LogContentValidation: Enabled validators:
+[2025.04.04-16.19.58:985][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.19.58:985][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.19.58:985][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.19.58:985][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.19.58:985][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.19.58:985][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyediffuse Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345 Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Roughness_1001 Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_Normal_1001 Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/mane Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/fur Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/fur Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_1001 Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001_ProxyTrueRootJoint_Skeleton Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_PhysicsAsset Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyes Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/eyenormal Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_WALKANIM Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Skeleton Validating asset
+[2025.04.04-16.19.58:985][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_PhysicsAsset Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_SITANIM Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_BITEANIM Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_ProxyTrueRootJoint_Skeleton Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_PhysicsAsset Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action12 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_002Action1 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action12 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarig_001Action Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction12 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/metarigAction1 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures12345678 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234567 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123456 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1234 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures123 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures1 Validating asset
+[2025.04.04-16.19.58:986][651]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggytextures Validating asset
+[2025.04.04-16.19.58:987][651]LogChaosDD: Creating Chaos Debug Draw Scene for world World_91
+[2025.04.04-16.19.59:044][652]LogChaosDD: Creating Chaos Debug Draw Scene for world World_92
+[2025.04.04-16.20.02:358][829]Cmd: TRANSACTION UNDO
+[2025.04.04-16.20.02:358][829]LogEditorTransaction: Undo Place Objects
+[2025.04.04-16.20.04:192][906]Cmd: TRANSACTION UNDO
+[2025.04.04-16.20.04:192][906]LogEditorTransaction: Undo Move Node
+[2025.04.04-16.20.05:945][  4]Cmd: TRANSACTION UNDO
+[2025.04.04-16.20.05:945][  4]LogEditorTransaction: Undo Move Node
+[2025.04.04-16.20.10:530][365]LogChaosDD: Creating Chaos Debug Draw Scene for world World_93
+[2025.04.04-16.20.10:583][368]LogChaosDD: Creating Chaos Debug Draw Scene for world World_94
+[2025.04.04-16.20.10:600][369]LogChaosDD: Creating Chaos Debug Draw Scene for world World_95
+[2025.04.04-16.20.10:657][373]LogChaosDD: Creating Chaos Debug Draw Scene for world World_96
+[2025.04.04-16.20.16:754][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.20.16:755][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/Cube_002] ([1] browsable assets)...
+[2025.04.04-16.20.16:755][937]LogChaosDD: Creating Chaos Debug Draw Scene for world World_97
+[2025.04.04-16.20.16:786][937]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002]
+[2025.04.04-16.20.16:786][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/Cube_002]
+[2025.04.04-16.20.16:787][937]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002:SkeletalMeshDescriptionBulkData_0:
+[2025.04.04-16.20.16:859][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 (1 refs)
+[2025.04.04-16.20.16:859][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.04.04-16.20.16:859][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 (1 refs)
+[2025.04.04-16.20.16:859][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.04.04-16.20.16:859][937]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002:InterchangeAssetImportData_0:
+[2025.04.04-16.20.16:931][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 (1 refs)
+[2025.04.04-16.20.16:931][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.04.04-16.20.16:931][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 (1 refs)
+[2025.04.04-16.20.16:932][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.04.04-16.20.16:932][937]LogSavePackage: Warning: 
+Referencers of SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002:SceneThumbnailInfo_0:
+[2025.04.04-16.20.17:004][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 (1 refs)
+[2025.04.04-16.20.17:004][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+[2025.04.04-16.20.17:004][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 (1 refs)
+[2025.04.04-16.20.17:004][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+[2025.04.04-16.20.17:004][937]Warning: Can't save '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/Cube_002.uasset': Illegal reference to private object: 'SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002:SceneThumbnailInfo_0' referenced by 'Cube_002' (at '/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002') in its 'ThumbnailInfo' property.
+[2025.04.04-16.20.19:869][937]LogSlate: Window 'Message' being destroyed
+[2025.04.04-16.20.19:877][937]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/_CombatSystem/_Enemy/_Doggy/Cube_002' (Cube_002.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.04.04-16.20.19:879][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/Cube_005] ([1] browsable assets)...
+[2025.04.04-16.20.19:879][937]LogChaosDD: Creating Chaos Debug Draw Scene for world World_98
+[2025.04.04-16.20.19:923][937]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005]
+[2025.04.04-16.20.19:923][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/Cube_005]
+[2025.04.04-16.20.19:925][937]LogSavePackage: Warning: 
+Referencers of SkeletalMeshDescriptionBulkData /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:SkeletalMeshDescriptionBulkData_0:
+[2025.04.04-16.20.19:999][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.20.19:999][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.04.04-16.20.19:999][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.20.19:999][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+[2025.04.04-16.20.19:999][937]LogSavePackage: Warning: 
+Referencers of InterchangeAssetImportData /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:InterchangeAssetImportData_0:
+[2025.04.04-16.20.20:067][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.20.20:067][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.04.04-16.20.20:067][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.20.20:067][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+[2025.04.04-16.20.20:067][937]LogSavePackage: Warning: 
+Referencers of SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:SceneThumbnailInfo_0:
+[2025.04.04-16.20.20:142][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.20.20:142][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+[2025.04.04-16.20.20:142][937]LogSavePackage: Warning: 	SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 (1 refs)
+[2025.04.04-16.20.20:142][937]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+[2025.04.04-16.20.20:142][937]Warning: Can't save '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/Cube_005.uasset': Illegal reference to private object: 'SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:SceneThumbnailInfo_0' referenced by 'Cube_005' (at '/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005') in its 'ThumbnailInfo' property.
+[2025.04.04-16.20.20:814][937]LogSlate: Window 'Message' being destroyed
+[2025.04.04-16.20.20:820][937]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/_CombatSystem/_Enemy/_Doggy/Cube_005' (Cube_005.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2025.04.04-16.20.21:836][937]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2025.04.04-16.20.21:843][937]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/_CombatSystem/_Enemy/_Doggy/Cube_002
+/Game/_CombatSystem/_Enemy/_Doggy/Cube_005
+[2025.04.04-16.20.21:843][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.08 sec (total: 2:40 min)
+[2025.04.04-16.20.21:909][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.04-16.20.21:932][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.04-16.20.21:947][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.04-16.20.37:627][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy_C
+[2025.04.04-16.20.37:627][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy_C
+[2025.04.04-16.20.37:630][550]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_2
+[2025.04.04-16.20.37:633][550]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_2
+[2025.04.04-16.20.38:150][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.20.38:154][590]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.04.04-16.20.38:160][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy_C
+[2025.04.04-16.20.38:160][590]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy_C
+[2025.04.04-16.20.38:165][590]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_3
+[2025.04.04-16.20.38:167][590]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_3
+[2025.04.04-16.20.41:838][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy
+[2025.04.04-16.20.41:838][914]LogChaosDD: Creating Chaos Debug Draw Scene for world World_99
+[2025.04.04-16.20.44:530][ 98]LogSlate: Window 'doggy' being destroyed
+[2025.04.04-16.21.00:755][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.04-16.21.01:311][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.21.01:365][986]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy] ([2] browsable assets)...
+[2025.04.04-16.21.01:371][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy]
+[2025.04.04-16.21.01:371][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy]
+[2025.04.04-16.21.01:374][986]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy
+[2025.04.04-16.21.01:375][986]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggyC835D834430C223253A1CC8BEDF5CCA6.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy.uasset'
+[2025.04.04-16.21.01:381][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.017 ms (total: 2:40 min)
+[2025.04.04-16.21.01:413][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.21.01:413][986]LogContentValidation: Enabled validators:
+[2025.04.04-16.21.01:413][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.21.01:413][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.21.01:414][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.21.01:414][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.21.01:414][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.21.01:414][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.21.01:414][986]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy Validating asset
