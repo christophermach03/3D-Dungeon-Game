@@ -6570,3 +6570,986 @@ Script Stack (0 frames) :
 [2025.04.04-16.33.16:539][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint/doggy.doggy
 [2025.04.04-16.33.16:539][838]LogChaosDD: Creating Chaos Debug Draw Scene for world World_104
 [2025.04.04-16.33.19:334][  3]LogSlate: Window 'doggy' being destroyed
+[2025.04.04-16.34.28:110][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8898.543945
+[2025.04.04-16.34.28:168][ 73]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-16.34.28:168][ 73]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8898.593750, Update Interval: 316.501953
+[2025.04.04-16.35.35:556][402]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.35:567][403]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.35:577][404]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.35:707][420]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.35:715][421]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.35:724][422]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.35:737][423]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:073][698]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:130][700]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:140][701]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:150][702]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:159][703]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:169][704]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:179][705]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:188][706]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:198][707]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:208][708]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:216][709]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:226][710]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:235][711]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:245][712]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:254][713]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:264][714]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:274][715]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:283][716]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:291][717]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:300][718]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:309][719]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:318][720]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:327][721]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:335][722]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:346][723]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:354][724]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:363][725]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:373][726]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:383][727]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:392][728]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:401][729]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:411][730]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:420][731]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:428][732]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:438][733]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:450][734]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:458][735]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:467][736]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:476][737]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:485][738]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:494][739]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:504][740]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:514][741]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:524][742]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:533][743]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:543][744]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:551][745]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:563][746]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:573][747]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:588][748]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:599][749]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:609][750]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:619][751]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:629][752]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:637][753]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:647][754]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:655][755]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:665][756]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:676][757]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:685][758]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:695][759]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:704][760]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:712][761]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:721][762]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:730][763]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:739][764]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:747][765]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:757][766]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:765][767]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:775][768]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:783][769]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:793][770]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:802][771]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:812][772]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:821][773]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:830][774]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:839][775]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:848][776]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:857][777]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:868][778]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:877][779]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:886][780]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:895][781]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:905][782]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:914][783]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:924][784]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:933][785]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:943][786]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:952][787]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:961][788]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:970][789]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:979][790]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:987][791]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.38:997][792]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:007][793]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:015][794]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:024][795]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:033][796]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:043][797]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:052][798]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:061][799]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:070][800]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:082][801]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:090][802]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:100][803]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:109][804]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:119][805]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:128][806]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:137][807]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:147][808]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:156][809]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:168][810]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:177][811]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:185][812]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:196][813]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:207][814]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:218][815]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:228][816]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:237][817]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:247][818]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:257][819]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:265][820]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:275][821]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:284][822]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:293][823]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:302][824]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:312][825]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:322][826]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:331][827]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:341][828]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:349][829]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:359][830]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:368][831]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:377][832]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:388][833]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:398][834]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:407][835]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:417][836]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:425][837]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:434][838]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:443][839]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:452][840]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:462][841]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:471][842]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:480][843]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:489][844]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:500][845]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:512][846]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:521][847]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:531][848]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:542][849]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:551][850]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:560][851]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:571][852]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:580][853]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:589][854]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:606][855]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:615][856]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:624][857]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:635][858]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:643][859]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:655][860]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:666][861]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:675][862]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:684][863]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:693][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:702][865]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.39:713][866]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.35.45:407][531]LogStreaming: Display: FlushAsyncLoading(747): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.35.45:407][531]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh (0xB526410ACD90F7D9) - The package to load does not exist on disk or in the loader
+[2025.04.04-16.35.45:407][531]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh._skeletalmesh'
+[2025.04.04-16.35.45:448][534]LogStreaming: Display: FlushAsyncLoading(751): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy_C' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:ReceiveBeginPlay' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:ReceiveTick' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:369][496]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/doggy.SKEL_doggy_C:UserConstructionScript' ref from Metadata '/Game/blueprint/doggy.PackageMetaData'
+[2025.04.04-16.35.54:383][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.35.54:384][496]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy] ([2] browsable assets)...
+[2025.04.04-16.35.54:390][496]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy]
+[2025.04.04-16.35.54:390][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy]
+[2025.04.04-16.35.54:393][496]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy
+[2025.04.04-16.35.54:393][496]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggyCC0FCB8147BB265B652E798041A77F82.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy.uasset'
+[2025.04.04-16.35.54:395][496]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_CombatSystem/_Enemy/_Doggy/doggy.
+[2025.04.04-16.35.54:398][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.191 ms (total: 2:40 min)
+[2025.04.04-16.35.54:462][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.04-16.35.54:484][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.04-16.35.54:502][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.04-16.35.54:519][496]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.04-16.35.54:519][496]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.35.54:519][496]LogContentValidation: Enabled validators:
+[2025.04.04-16.35.54:519][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.35.54:519][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.35.54:519][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.35.54:519][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.35.54:519][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.35.54:519][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.35.54:519][496]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy Validating asset
+[2025.04.04-16.36.12:705][565]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp
+[2025.04.04-16.36.12:705][565]LogChaosDD: Creating Chaos Debug Draw Scene for world World_105
+[2025.04.04-16.36.15:624][871]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Enemy_bt._Enemy_bt
+[2025.04.04-16.36.29:755][326]Cmd: DELETE
+[2025.04.04-16.36.29:755][326]Cmd: ACTOR DELETE
+[2025.04.04-16.36.29:759][326]LogEditorActor: Deleted Actor: doggy_C
+[2025.04.04-16.36.29:812][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.36.29:816][326]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2025.04.04-16.36.36:269][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp_C
+[2025.04.04-16.36.36:269][979]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp_C
+[2025.04.04-16.36.36:270][979]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp as actor: _EB_bp_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._EB_bp_C_4
+[2025.04.04-16.36.36:271][979]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp as actor: _EB_bp_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._EB_bp_C_4
+[2025.04.04-16.36.36:551][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.04-16.36.36:554][  2]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.04.04-16.36.36:561][  2]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp_C
+[2025.04.04-16.36.36:561][  2]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp_C
+[2025.04.04-16.36.36:563][  2]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp as actor: _EB_bp_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._EB_bp_C_5
+[2025.04.04-16.36.36:563][  2]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_EB_bp._EB_bp as actor: _EB_bp_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._EB_bp_C_5
+[2025.04.04-16.36.38:903][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.36.38:912][235]LogPlayLevel: [PlayLevel] Compiling _BTT_Default_Attack before play...
+[2025.04.04-16.36.38:927][235]LogPlayLevel: [PlayLevel] Compiling doggy before play...
+[2025.04.04-16.36.38:968][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.04-16.36.38:971][235]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (2 blueprints)
+[2025.04.04-16.36.39:008][235]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.36.39:010][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002097s)
+[2025.04.04-16.36.39:010][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002138s)
+[2025.04.04-16.36.39:024][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.04-16.36.39:025][235]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.36.39:026][235]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2025.04.04-16.36.39:027][235]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.36.39:027][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.36.39:028][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.36.39:028][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.36.39:028][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.36.39:028][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.36.39:029][235]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.36.39:039][235]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.36.39:040][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.36.39:040][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.36.39:040][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.36.39:040][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.04.04-16.36.39:040][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.04.04-16.36.39:042][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.04.04-16.36.39:042][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.04.04-16.36.39:042][235]LogInit: FAudioDevice initialized with ID 34.
+[2025.04.04-16.36.39:042][235]LogAudio: Display: Audio Device (ID: 34) registered with world '_Proper_Ai'.
+[2025.04.04-16.36.39:042][235]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.04-16.36.39:044][235]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.36.39:046][235]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.04-16.36.39:049][235]LogChaosCloth: Warning: Object 'skelly|skellycape' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.04-16.36.39:050][235]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.36.39
+[2025.04.04-16.36.39:051][235]LogWorld: Bringing up level for play took: 0.005464
+[2025.04.04-16.36.39:053][235]LogOnline: OSS: Created online subsystem instance for: :Context_139
+[2025.04.04-16.36.39:056][235]PIE: Server logged in
+[2025.04.04-16.36.39:056][235]PIE: Play in editor total start time 0.147 seconds.
+[2025.04.04-16.38.00:283][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.38.00:283][533]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.38.00:283][533]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.38.00:283][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.38.00:286][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.38.00:290][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.38.00:305][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.38.00:305][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.04-16.38.00:305][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.04-16.38.00:307][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.04-16.38.00:311][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.04-16.38.00:396][534]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2025.04.04-16.38.06:540][139]LogSlate: Window '_Enemy_bt' being destroyed
+[2025.04.04-16.38.09:844][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack._BTT_Default_Attack
+[2025.04.04-16.38.09:844][533]LogChaosDD: Creating Chaos Debug Draw Scene for world World_106
+[2025.04.04-16.40.15:979][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9246.939453
+[2025.04.04-16.40.16:071][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-16.40.16:071][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9247.022461, Update Interval: 341.328156
+[2025.04.04-16.40.48:150][985]Cmd: DELETE
+[2025.04.04-16.40.48:150][985]Cmd: ACTOR DELETE
+[2025.04.04-16.40.48:152][985]LogEditorActor: Deleted Actor: _Skelly_C
+[2025.04.04-16.40.48:192][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.04-16.40.48:197][985]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2025.04.04-16.40.51:476][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.40.51:487][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-16.40.51:511][321]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.40.51:513][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001903s)
+[2025.04.04-16.40.51:513][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.001942s)
+[2025.04.04-16.40.51:529][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.04-16.40.51:534][321]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.40.51:535][321]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2025.04.04-16.40.51:536][321]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.40.51:536][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.40.51:536][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.40.51:536][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.40.51:536][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.40.51:536][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.40.51:538][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.40.51:547][321]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.40.51:547][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.40.51:547][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.40.51:547][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.40.51:547][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.04.04-16.40.51:547][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.04.04-16.40.51:549][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.04.04-16.40.51:549][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.04.04-16.40.51:549][321]LogInit: FAudioDevice initialized with ID 35.
+[2025.04.04-16.40.51:549][321]LogAudio: Display: Audio Device (ID: 35) registered with world '_Proper_Ai'.
+[2025.04.04-16.40.51:549][321]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.04-16.40.51:552][321]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.40.51:553][321]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.40.51
+[2025.04.04-16.40.51:553][321]LogWorld: Bringing up level for play took: 0.001220
+[2025.04.04-16.40.51:555][321]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2025.04.04-16.40.51:558][321]PIE: Server logged in
+[2025.04.04-16.40.51:559][321]PIE: Play in editor total start time 0.076 seconds.
+[2025.04.04-16.41.44:324][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.41.44:324][982]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.41.44:324][982]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.41.44:325][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.41.44:327][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.41.44:331][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.41.44:347][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.41.44:347][982]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.04-16.41.44:347][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.04-16.41.44:350][982]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.04-16.41.44:354][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.04-16.41.44:423][984]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2025.04.04-16.41.46:407][190]LogSlate: Window '_Enemy_bt' being destroyed
+[2025.04.04-16.42.31:011][349]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:035][349]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:224][370]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:255][371]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:266][372]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:275][373]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:283][374]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:294][375]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:304][376]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:313][377]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:324][378]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:337][379]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:346][380]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:357][381]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:365][382]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:376][383]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:413][384]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:422][385]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:433][386]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:442][387]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.31:456][388]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.34:090][661]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.34:113][661]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.42.37:945][ 78]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.42.38:129][ 88]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.42.38:811][162]LogStreaming: Display: FlushAsyncLoading(757): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.42.38:820][163]LogStreaming: Display: FlushAsyncLoading(758): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.42.38:828][164]LogStreaming: Display: FlushAsyncLoading(759): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.42.40:140][300]LogAssetEditorSubsystem: Opening Asset editor for GroomAsset /Game/doggy/mane.mane
+[2025.04.04-16.42.40:140][300]LogChaosDD: Creating Chaos Debug Draw Scene for world World_107
+[2025.04.04-16.43.05:968][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.43.05:996][214]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy] ([2] browsable assets)...
+[2025.04.04-16.43.06:004][214]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy]
+[2025.04.04-16.43.06:004][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy]
+[2025.04.04-16.43.06:007][214]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy
+[2025.04.04-16.43.06:008][214]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy7EC5D6A440CA54718F0E92BBF7BC6768.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy.uasset'
+[2025.04.04-16.43.06:013][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.765 ms (total: 2:40 min)
+[2025.04.04-16.43.06:064][214]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.43.06:065][214]LogContentValidation: Enabled validators:
+[2025.04.04-16.43.06:065][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.43.06:065][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.43.06:065][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.43.06:065][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.43.06:065][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.43.06:065][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.43.06:065][214]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy Validating asset
+[2025.04.04-16.43.25:612][361]LogContentBrowser: Deferred new asset file creation: BP_Enemy_Master_Child
+[2025.04.04-16.43.25:618][361]LogContentBrowser: Creating deferred item: BP_Enemy_Master_Child
+[2025.04.04-16.43.25:636][362]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Enemy_Master_Child).
+[2025.04.04-16.43.32:930][209]LogContentBrowser: Attempting asset rename: BP_Enemy_Master_Child -> _BP_Doggy
+[2025.04.04-16.43.32:933][209]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/_Enemies/_BP_Doggy.
+[2025.04.04-16.43.32:937][209]LogContentBrowser: End creating deferred item BP_Enemy_Master_Child
+[2025.04.04-16.43.32:938][209]LogChaosDD: Creating Chaos Debug Draw Scene for world World_108
+[2025.04.04-16.43.37:203][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Enemies/_BP_Doggy._BP_Doggy
+[2025.04.04-16.43.37:203][616]LogChaosDD: Creating Chaos Debug Draw Scene for world World_109
+[2025.04.04-16.43.40:406][936]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.43.40:424][937]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.44.01:944][326]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.44.01:959][327]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.44.09:492][154]LogStreaming: Display: FlushAsyncLoading(760): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.44.09:533][156]LogStreaming: Display: FlushAsyncLoading(761): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.44.50:340][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.44.50:393][814]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Enemies/_BP_Doggy] ([2] browsable assets)...
+[2025.04.04-16.44.50:400][814]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Enemies/_BP_Doggy._BP_Doggy]
+[2025.04.04-16.44.50:401][814]LogChaosDD: Creating Chaos Debug Draw Scene for world World_110
+[2025.04.04-16.44.50:414][814]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_Enemies/_BP_Doggy._BP_Doggy_C]
+[2025.04.04-16.44.50:414][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Enemies/_BP_Doggy]
+[2025.04.04-16.44.50:414][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Enemies/_BP_Doggy" FILE="../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_Enemies/_BP_Doggy.uasset" SILENT=true
+[2025.04.04-16.44.50:418][814]LogSavePackage: Moving output files for package: /Game/_Enemies/_BP_Doggy
+[2025.04.04-16.44.50:418][814]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_DoggyC76DF29B4BA8FA8F7F19BCA1FD8C9DD9.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_Enemies/_BP_Doggy.uasset'
+[2025.04.04-16.44.50:419][814]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Enemies/_BP_Doggy.
+[2025.04.04-16.44.50:426][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.333 ms (total: 2:41 min)
+[2025.04.04-16.44.50:457][814]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.44.50:457][814]LogContentValidation: Enabled validators:
+[2025.04.04-16.44.50:457][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.44.50:457][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.44.50:457][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.44.50:457][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.44.50:457][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.44.50:457][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.44.50:457][814]AssetCheck: /Game/_Enemies/_BP_Doggy Validating asset
+[2025.04.04-16.44.51:067][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.04-16.45.07:710][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.45.08:557][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.45.08:605][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Enemies/_BP_Doggy] ([2] browsable assets)...
+[2025.04.04-16.45.08:613][905]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Enemies/_BP_Doggy._BP_Doggy]
+[2025.04.04-16.45.08:613][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Enemies/_BP_Doggy]
+[2025.04.04-16.45.08:613][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Enemies/_BP_Doggy" FILE="../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_Enemies/_BP_Doggy.uasset" SILENT=true
+[2025.04.04-16.45.08:617][905]LogSavePackage: Moving output files for package: /Game/_Enemies/_BP_Doggy
+[2025.04.04-16.45.08:617][905]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_DoggyC903249B41BECFA5134795B2027B8C91.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_Enemies/_BP_Doggy.uasset'
+[2025.04.04-16.45.08:623][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.267 ms (total: 2:41 min)
+[2025.04.04-16.45.08:666][905]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.45.08:666][905]LogContentValidation: Enabled validators:
+[2025.04.04-16.45.08:666][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.45.08:666][905]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.45.08:666][905]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.45.08:666][905]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.45.08:666][905]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.45.08:666][905]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.45.08:666][905]AssetCheck: /Game/_Enemies/_BP_Doggy Validating asset
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.SKEL__BP_Doggy_C' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.SKEL__BP_Doggy_C:ReceiveBeginPlay' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.SKEL__BP_Doggy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.SKEL__BP_Doggy_C:ReceiveTick' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:213][679]LogMetaData: Removing '/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.SKEL__BP_Doggy_C:UserConstructionScript' ref from Metadata '/Game/_Enemies/_BP_Doggy.PackageMetaData'
+[2025.04.04-16.45.25:228][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.45.25:228][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy] ([2] browsable assets)...
+[2025.04.04-16.45.25:228][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy]
+[2025.04.04-16.45.25:231][679]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy
+[2025.04.04-16.45.25:231][679]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_DoggyEBCEC2AD4BE48A950AFE26B11E85091F.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.uasset'
+[2025.04.04-16.45.25:232][679]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.
+[2025.04.04-16.45.25:236][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.729 ms (total: 2:41 min)
+[2025.04.04-16.45.25:286][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.45.25:303][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.04-16.45.25:322][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.04.04-16.45.25:341][679]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.04-16.45.25:341][679]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.45.25:341][679]LogContentValidation: Enabled validators:
+[2025.04.04-16.45.25:341][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.45.25:341][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.45.25:341][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.45.25:341][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.45.25:341][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.45.25:341][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.45.25:341][679]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy Validating asset
+[2025.04.04-16.45.28:529][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.04-16.45.30:072][  5]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.04-16.45.30:159][  5]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.45.30:159][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.45.30:197][  5]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy
+	Asset Type: Blueprint
+[2025.04.04-16.45.30:403][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.04-16.45.30:459][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.45.30:474][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.04-16.45.30:492][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.04-16.45.30:514][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.04-16.45.37:284][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.45.37:284][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.45.37:288][726]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_0
+[2025.04.04-16.45.37:292][726]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_0
+[2025.04.04-16.45.37:742][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.04-16.45.37:744][755]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.04.04-16.45.37:751][755]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.45.37:751][755]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.45.37:757][755]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_1
+[2025.04.04-16.45.37:760][755]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_1
+[2025.04.04-16.45.40:301][991]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.45.40:314][991]LogPlayLevel: [PlayLevel] Compiling _BTT_Default_Attack before play...
+[2025.04.04-16.45.40:348][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.04-16.45.40:350][991]LogPlayLevel: PlayLevel: Blueprint regeneration took 36 ms (1 blueprints)
+[2025.04.04-16.45.40:379][991]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.45.40:381][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002545s)
+[2025.04.04-16.45.40:381][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002587s)
+[2025.04.04-16.45.40:405][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.04-16.45.40:406][991]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.45.40:408][991]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2025.04.04-16.45.40:409][991]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.45.40:409][991]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.45.40:409][991]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.45.40:409][991]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.45.40:409][991]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.45.40:409][991]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.45.40:411][991]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.45.40:420][991]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.45.40:420][991]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.45.40:420][991]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.45.40:420][991]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.45.40:421][991]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.04.04-16.45.40:421][991]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.04.04-16.45.40:423][991]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.04.04-16.45.40:423][991]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.04.04-16.45.40:423][991]LogInit: FAudioDevice initialized with ID 36.
+[2025.04.04-16.45.40:423][991]LogAudio: Display: Audio Device (ID: 36) registered with world '_Proper_Ai'.
+[2025.04.04-16.45.40:423][991]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.04.04-16.45.40:425][991]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.45.40:427][991]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.45.40
+[2025.04.04-16.45.40:427][991]LogWorld: Bringing up level for play took: 0.002142
+[2025.04.04-16.45.40:429][991]LogOnline: OSS: Created online subsystem instance for: :Context_146
+[2025.04.04-16.45.40:432][991]PIE: Server logged in
+[2025.04.04-16.45.40:433][991]PIE: Play in editor total start time 0.125 seconds.
+[2025.04.04-16.45.45:343][483]LogBlueprintUserMessages: [_BP_Doggy_C_1] HitDefault
+[2025.04.04-16.45.45:343][483]LogBlueprintUserMessages: [_BP_Doggy_C_1] Damage Response:
+[2025.04.04-16.45.55:272][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.45.55:272][473]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.45.55:272][473]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.45.55:272][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.45.55:277][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.45.55:279][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.45.55:296][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.45.55:297][473]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.04.04-16.45.55:297][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.04-16.45.55:298][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.04-16.45.55:304][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.45.55:395][474]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: ================================================
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Total job queries 933, among them cache hits 466 (49.95%), DDC hits 247 (26.47%), Duplicates 8 (0.86%)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Tracking 459 distinct input hashes that result in 332 distinct outputs (72.33%)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: RAM used: 183.32 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Shaders Compiled: 212
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Jobs assigned 212, completed 212 (100%)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Average time worker was idle: 595.77 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.22 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 2.11 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Job life time (pending + execution): average 1.00 s, max 2.21
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Shader code size: average 9.191 KiB, min 2.785 KiB, max 24.773 KiB
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.64 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.16%
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Jobs were issued in 212 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Average processing rate: 5.95 jobs/sec
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Total thread time: 74.062 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Total thread preprocess time: 10.199 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Percentage time preprocessing: 13.77%
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Effective parallelization: 2.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   25 times, average 0.60 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 0.59 sec, max 0.74 sec, min 0.52 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.32% of total time (compiled   25 times, average 0.60 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.11% of total time (compiled   39 times, average 0.32 sec, max 0.53 sec, min 0.23 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.28% of total time (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.17% of total time (compiled   38 times, average 0.22 sec, max 0.30 sec, min 0.16 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.30% of total time (compiled   21 times, average 0.26 sec, max 0.52 sec, min 0.18 sec)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: === Material stats ===
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Materials Translated:    272
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: Material Cache Hits: 17 (6%)
+[2025.04.04-16.45.58:025][716]LogShaderCompilers: Display: ================================================
+[2025.04.04-16.46.01:135][997]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Enemies/BP_Enemy_Master.BP_Enemy_Master
+[2025.04.04-16.46.01:137][997]LogChaosDD: Creating Chaos Debug Draw Scene for world World_111
+[2025.04.04-16.46.21:585][213]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.04-16.46.36:598][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9627.760742
+[2025.04.04-16.46.36:682][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-16.46.36:682][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9627.836914, Update Interval: 352.651764
+[2025.04.04-16.47.20:522][978]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.47.20:541][979]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.47.31:528][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.04-16.47.32:268][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.47.32:315][272]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy] ([2] browsable assets)...
+[2025.04.04-16.47.32:322][272]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy]
+[2025.04.04-16.47.32:322][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy]
+[2025.04.04-16.47.32:326][272]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy
+[2025.04.04-16.47.32:326][272]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_DoggyB9BBB58D4076CD802EBF2796FC611DB8.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.uasset'
+[2025.04.04-16.47.32:333][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.847 ms (total: 2:41 min)
+[2025.04.04-16.47.32:362][272]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.47.32:362][272]LogContentValidation: Enabled validators:
+[2025.04.04-16.47.32:363][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.47.32:363][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.47.32:363][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.47.32:363][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.47.32:363][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.47.32:363][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.47.32:363][272]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy Validating asset
+[2025.04.04-16.48.30:918][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.04-16.48.31:799][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.48.31:859][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy] ([2] browsable assets)...
+[2025.04.04-16.48.31:867][955]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C]
+[2025.04.04-16.48.31:873][955]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy]
+[2025.04.04-16.48.31:873][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy]
+[2025.04.04-16.48.31:876][955]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy
+[2025.04.04-16.48.31:877][955]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_Doggy98B8B2364C5E4725803D3BAFEDE77F12.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.uasset'
+[2025.04.04-16.48.31:883][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.940 ms (total: 2:41 min)
+[2025.04.04-16.48.31:920][955]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.48.31:920][955]LogContentValidation: Enabled validators:
+[2025.04.04-16.48.31:920][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.48.31:920][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.48.31:920][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.48.31:920][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.48.31:920][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.48.31:921][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.48.31:921][955]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy Validating asset
+[2025.04.04-16.48.33:318][ 83]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.48.33:328][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-16.48.33:329][ 83]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.48.33:331][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002275s)
+[2025.04.04-16.48.33:331][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002308s)
+[2025.04.04-16.48.33:344][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.04-16.48.33:350][ 83]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.48.33:351][ 83]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2025.04.04-16.48.33:351][ 83]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.48.33:353][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.48.33:353][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.48.33:353][ 83]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.48.33:353][ 83]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.48.33:353][ 83]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.48.33:355][ 83]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.48.33:363][ 83]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.48.33:364][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.48.33:364][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.48.33:364][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.48.33:364][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.04.04-16.48.33:364][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.04.04-16.48.33:366][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.04.04-16.48.33:366][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.04.04-16.48.33:366][ 83]LogInit: FAudioDevice initialized with ID 37.
+[2025.04.04-16.48.33:366][ 83]LogAudio: Display: Audio Device (ID: 37) registered with world '_Proper_Ai'.
+[2025.04.04-16.48.33:366][ 83]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.04.04-16.48.33:368][ 83]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.48.33:370][ 83]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.48.33
+[2025.04.04-16.48.33:370][ 83]LogWorld: Bringing up level for play took: 0.001958
+[2025.04.04-16.48.33:372][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2025.04.04-16.48.33:375][ 83]PIE: Server logged in
+[2025.04.04-16.48.33:376][ 83]PIE: Play in editor total start time 0.051 seconds.
+[2025.04.04-16.48.38:239][570]LogBlueprintUserMessages: [_BP_Doggy_C_1] HitDefault
+[2025.04.04-16.48.38:239][570]LogBlueprintUserMessages: [_BP_Doggy_C_1] Damage Response:
+[2025.04.04-16.48.38:293][573]LogPSOHitching: Encountered 50 PSO creation hitches so far (26 graphics, 24 compute). 0 of them were precached.
+[2025.04.04-16.48.46:087][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.48.46:087][311]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.48.46:088][311]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.48.46:088][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.48.46:091][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.48.46:094][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.48.46:106][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.04-16.48.46:106][311]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.04.04-16.48.46:106][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.04-16.48.46:108][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.04-16.48.46:111][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.48.46:114][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.04-16.48.46:203][312]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2025.04.04-16.48.48:048][477]Cmd: DELETE
+[2025.04.04-16.48.48:048][477]Cmd: ACTOR DELETE
+[2025.04.04-16.48.48:050][477]LogEditorActor: Deleted Actor: _EB_bp_C
+[2025.04.04-16.48.48:065][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.04-16.48.48:070][477]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.04-16.48.49:839][652]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.48.49:848][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-16.48.49:883][652]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.48.49:886][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2025.04.04-16.48.49:886][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002417s)
+[2025.04.04-16.48.49:904][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.48.49:908][652]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.48.49:910][652]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2025.04.04-16.48.49:910][652]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.48.49:910][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.48.49:910][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.48.49:910][652]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.48.49:911][652]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.48.49:911][652]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.48.49:912][652]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.48.49:920][652]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.48.49:920][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.48.49:920][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.48.49:920][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.48.49:920][652]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.04.04-16.48.49:920][652]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.04.04-16.48.49:923][652]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.04.04-16.48.49:923][652]LogInit: FAudioDevice initialized with ID 38.
+[2025.04.04-16.48.49:923][652]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.04.04-16.48.49:923][652]LogAudio: Display: Audio Device (ID: 38) registered with world '_Proper_Ai'.
+[2025.04.04-16.48.49:923][652]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.04.04-16.48.49:925][652]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.48.49:926][652]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.48.49
+[2025.04.04-16.48.49:927][652]LogWorld: Bringing up level for play took: 0.001599
+[2025.04.04-16.48.49:928][652]LogOnline: OSS: Created online subsystem instance for: :Context_149
+[2025.04.04-16.48.49:931][652]PIE: Server logged in
+[2025.04.04-16.48.49:932][652]PIE: Play in editor total start time 0.087 seconds.
+[2025.04.04-16.48.53:313][986]LogBlueprintUserMessages: [_BP_Doggy_C_1] HitDefault
+[2025.04.04-16.48.53:313][986]LogBlueprintUserMessages: [_BP_Doggy_C_1] Damage Response:
+[2025.04.04-16.48.56:988][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.48.56:988][360]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.48.56:988][360]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.48.56:988][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.48.56:991][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.48.56:995][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.48.57:009][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.48.57:010][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.04.04-16.48.57:010][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.04.04-16.48.57:011][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.04.04-16.48.57:016][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.04-16.48.57:044][361]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2025.04.04-16.48.59:312][582]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.48.59:326][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-16.48.59:326][582]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.48.59:329][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002660s)
+[2025.04.04-16.48.59:329][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002690s)
+[2025.04.04-16.48.59:347][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.04-16.48.59:349][582]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.48.59:350][582]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2025.04.04-16.48.59:350][582]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.48.59:350][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.48.59:350][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.48.59:350][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.48.59:350][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.48.59:350][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.48.59:352][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.48.59:359][582]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.48.59:360][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.48.59:360][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.48.59:360][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.48.59:360][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.04.04-16.48.59:360][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.04.04-16.48.59:361][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.04.04-16.48.59:361][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.04.04-16.48.59:361][582]LogInit: FAudioDevice initialized with ID 39.
+[2025.04.04-16.48.59:361][582]LogAudio: Display: Audio Device (ID: 39) registered with world '_Proper_Ai'.
+[2025.04.04-16.48.59:361][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.04-16.48.59:365][582]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.48.59:366][582]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.48.59
+[2025.04.04-16.48.59:367][582]LogWorld: Bringing up level for play took: 0.001674
+[2025.04.04-16.48.59:368][582]LogOnline: OSS: Created online subsystem instance for: :Context_150
+[2025.04.04-16.48.59:371][582]PIE: Server logged in
+[2025.04.04-16.48.59:372][582]PIE: Play in editor total start time 0.053 seconds.
+[2025.04.04-16.49.02:615][903]LogBlueprintUserMessages: [_BP_Doggy_C_1] HitDefault
+[2025.04.04-16.49.02:615][903]LogBlueprintUserMessages: [_BP_Doggy_C_1] Damage Response:
+[2025.04.04-16.49.06:446][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.49.06:446][302]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.49.06:447][302]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.49.06:447][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.49.06:450][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.49.06:453][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.49.06:470][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.49.06:470][302]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.04-16.49.06:470][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.04-16.49.06:472][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.04-16.49.06:476][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.04-16.49.06:553][304]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2025.04.04-16.49.09:944][588]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.09:944][588]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.09:946][588]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_2
+[2025.04.04-16.49.09:949][588]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_2
+[2025.04.04-16.49.10:332][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.04-16.49.10:336][616]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.04.04-16.49.10:343][616]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.10:343][616]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.10:348][616]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_3
+[2025.04.04-16.49.10:351][616]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_3
+[2025.04.04-16.49.11:165][660]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.11:165][660]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.11:168][660]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_4
+[2025.04.04-16.49.11:170][660]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_4
+[2025.04.04-16.49.11:986][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.04-16.49.11:991][712]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.04.04-16.49.11:998][712]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.11:998][712]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy_C
+[2025.04.04-16.49.12:003][712]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_5
+[2025.04.04-16.49.12:005][712]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy as actor: _BP_Doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._BP_Doggy_C_5
+[2025.04.04-16.49.13:444][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.49.13:453][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-16.49.13:493][819]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.49.13:496][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002824s)
+[2025.04.04-16.49.13:496][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002868s)
+[2025.04.04-16.49.13:515][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.04-16.49.13:518][819]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.49.13:520][819]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2025.04.04-16.49.13:520][819]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.49.13:520][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.49.13:520][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.49.13:520][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.49.13:520][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.49.13:520][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.49.13:522][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.49.13:529][819]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.49.13:530][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.49.13:530][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.49.13:530][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.49.13:530][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.04.04-16.49.13:530][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.04.04-16.49.13:532][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.04.04-16.49.13:532][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.04.04-16.49.13:532][819]LogInit: FAudioDevice initialized with ID 40.
+[2025.04.04-16.49.13:532][819]LogAudio: Display: Audio Device (ID: 40) registered with world '_Proper_Ai'.
+[2025.04.04-16.49.13:532][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.04.04-16.49.13:535][819]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.49.13:537][819]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.49.13
+[2025.04.04-16.49.13:538][819]LogWorld: Bringing up level for play took: 0.002919
+[2025.04.04-16.49.13:539][819]LogOnline: OSS: Created online subsystem instance for: :Context_151
+[2025.04.04-16.49.13:543][819]PIE: Server logged in
+[2025.04.04-16.49.13:543][819]PIE: Play in editor total start time 0.094 seconds.
+[2025.04.04-16.49.17:252][163]LogBlueprintUserMessages: [_BP_Doggy_C_1] HitDefault
+[2025.04.04-16.49.17:252][163]LogBlueprintUserMessages: [_BP_Doggy_C_1] Damage Response:
+[2025.04.04-16.49.22:066][578]LogBlueprintUserMessages: [_BP_Doggy_C_3] HitDefault
+[2025.04.04-16.49.22:066][578]LogBlueprintUserMessages: [_BP_Doggy_C_3] Damage Response:
+[2025.04.04-16.49.25:816][905]LogBlueprintUserMessages: [_BP_Doggy_C_5] HitDefault
+[2025.04.04-16.49.25:816][905]LogBlueprintUserMessages: [_BP_Doggy_C_5] Damage Response:
+[2025.04.04-16.49.32:216][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.49.32:216][580]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.49.32:216][580]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.49.32:217][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.49.32:220][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.49.32:223][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.49.32:234][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.04-16.49.32:234][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.04.04-16.49.32:234][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.04.04-16.49.32:236][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.04.04-16.49.32:239][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.49.32:241][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.04-16.49.32:331][581]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2025.04.04-16.49.53:542][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.04-16.49.54:003][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.49.54:060][717]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy] ([2] browsable assets)...
+[2025.04.04-16.49.54:068][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy._BP_Doggy]
+[2025.04.04-16.49.54:068][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy]
+[2025.04.04-16.49.54:071][717]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy
+[2025.04.04-16.49.54:071][717]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_Doggy8B8990374850E7601C989199EB4E4AF9.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/_BP_Doggy.uasset'
+[2025.04.04-16.49.54:077][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.144 ms (total: 2:41 min)
+[2025.04.04-16.49.54:126][717]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.49.54:126][717]LogContentValidation: Enabled validators:
+[2025.04.04-16.49.54:126][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.49.54:126][717]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.49.54:126][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.49.54:126][717]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.49.54:126][717]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.49.54:126][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.49.54:126][717]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/_BP_Doggy Validating asset
+[2025.04.04-16.49.55:309][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-16.49.55:320][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-16.49.55:320][812]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.49.55:322][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002528s)
+[2025.04.04-16.49.55:322][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002558s)
+[2025.04.04-16.49.55:336][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.04-16.49.55:344][812]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-16.49.55:345][812]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2025.04.04-16.49.55:346][812]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-16.49.55:346][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-16.49.55:346][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-16.49.55:346][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-16.49.55:346][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-16.49.55:346][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-16.49.55:348][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-16.49.55:355][812]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-16.49.55:355][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-16.49.55:356][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-16.49.55:356][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-16.49.55:356][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.04.04-16.49.55:356][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.04.04-16.49.55:358][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.04.04-16.49.55:358][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.04.04-16.49.55:358][812]LogInit: FAudioDevice initialized with ID 41.
+[2025.04.04-16.49.55:358][812]LogAudio: Display: Audio Device (ID: 41) registered with world '_Proper_Ai'.
+[2025.04.04-16.49.55:358][812]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.04.04-16.49.55:360][812]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-16.49.55:363][812]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-12.49.55
+[2025.04.04-16.49.55:364][812]LogWorld: Bringing up level for play took: 0.003028
+[2025.04.04-16.49.55:365][812]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2025.04.04-16.49.55:369][812]PIE: Server logged in
+[2025.04.04-16.49.55:370][812]PIE: Play in editor total start time 0.054 seconds.
+[2025.04.04-16.49.58:742][125]LogBlueprintUserMessages: [_BP_Doggy_C_1] HitDefault
+[2025.04.04-16.49.58:742][125]LogBlueprintUserMessages: [_BP_Doggy_C_1] Damage Response:
+[2025.04.04-16.50.02:532][430]LogBlueprintUserMessages: [_BP_Doggy_C_3] HitDefault
+[2025.04.04-16.50.02:532][430]LogBlueprintUserMessages: [_BP_Doggy_C_3] Damage Response:
+[2025.04.04-16.50.08:997][992]LogBlueprintUserMessages: [_BP_Doggy_C_5] HitDefault
+[2025.04.04-16.50.08:998][992]LogBlueprintUserMessages: [_BP_Doggy_C_5] Damage Response:
+[2025.04.04-16.50.14:866][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.50.14:866][628]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-16.50.14:866][628]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.50.14:866][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.50.14:869][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-16.50.14:873][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.50.14:887][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.04-16.50.14:888][628]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.04.04-16.50.14:888][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.04.04-16.50.14:890][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.04.04-16.50.14:893][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-16.50.14:894][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.04-16.50.14:982][629]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2025.04.04-16.50.29:952][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.50.30:022][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.50.30:033][978]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Proper_Ai
+[2025.04.04-16.50.30:033][978]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Proper_Ai5F508106428D7F83FD4119BE951B0D2A.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap'
+[2025.04.04-16.50.30:042][978]LogFileHelpers: Saving map '_Proper_Ai' took 0.051
+[2025.04.04-16.50.30:050][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.926 ms (total: 2:41 min)
+[2025.04.04-16.50.30:111][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.50.30:111][978]LogContentValidation: Enabled validators:
+[2025.04.04-16.50.30:111][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.50.30:111][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.50.30:111][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.50.30:111][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.50.30:111][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.50.30:111][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.50.30:111][978]AssetCheck: /Game/_CombatSystem/_Proper_Ai Validating asset
+[2025.04.04-16.50.31:610][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.50.31:662][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack] ([2] browsable assets)...
+[2025.04.04-16.50.31:662][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack]
+[2025.04.04-16.50.31:664][107]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack
+[2025.04.04-16.50.31:664][107]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BTT_Default_AttackF206A35D4E2BC8192F56B6A2D0223729.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack.uasset'
+[2025.04.04-16.50.31:671][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.061 ms (total: 2:41 min)
+[2025.04.04-16.50.31:708][107]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.50.31:708][107]LogContentValidation: Enabled validators:
+[2025.04.04-16.50.31:708][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.50.31:708][107]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.50.31:708][107]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.50.31:708][107]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.50.31:708][107]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.50.31:708][107]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.50.31:708][107]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack Validating asset
