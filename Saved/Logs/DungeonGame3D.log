@@ -3415,3 +3415,29 @@ Sampler Limit: 32
 [2025.04.04-14.44.35:198][433]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
 [2025.04.04-14.44.35:198][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.04.04-14.44.35:215][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.04-14.45.01:269][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.04-14.45.01:276][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto2
+[2025.04.04-14.45.01:276][686]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Proper_Ai_Auto2DF92DC0B457D88F40D17C28F27DD3609.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto2.umap'
+[2025.04.04-14.45.01:278][686]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.020
+[2025.04.04-14.45.01:278][686]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.04.04-14.45.01:278][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2025.04.04-14.45.01:348][686]OBJ SavePackage:     Rendered thumbnail for [Material /InterchangeAssets/gltf/M_Default.M_Default]
+[2025.04.04-14.45.01:348][686]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2025.04.04-14.45.01:354][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/InterchangeAssets/gltf/M_Default_Auto2
+[2025.04.04-14.45.01:354][686]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default_Auto2D5C2B4A34D2D86702BDCDF8D10507E26.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/InterchangeAssets/gltf/M_Default_Auto2.uasset'
+[2025.04.04-14.45.01:355][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/cape] ([1] browsable assets)...
+[2025.04.04-14.45.01:361][686]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_CombatSystem/_Enemy/_Skelly/skelly/cape.cape]
+[2025.04.04-14.45.01:361][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/cape]
+[2025.04.04-14.45.01:363][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Skelly/skelly/cape_Auto2
+[2025.04.04-14.45.01:363][686]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/cape_Auto2C8C5034149436149752E6DAF1A0F3C82.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Skelly/skelly/cape_Auto2.uasset'
+[2025.04.04-14.45.01:364][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness] ([1] browsable assets)...
+[2025.04.04-14.45.01:365][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness.DefaultMaterial_Roughness]
+[2025.04.04-14.45.01:365][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness]
+[2025.04.04-14.45.01:367][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness_Auto2
+[2025.04.04-14.45.01:367][686]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/DefaultMaterial_Roughness_Auto2DD7B365A4EEC33C5B5F59DA89889320E.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/DefaultMaterial_Roughness_Auto2.uasset'
+[2025.04.04-14.45.01:368][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal] ([1] browsable assets)...
+[2025.04.04-14.45.01:369][686]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal._Normal]
+[2025.04.04-14.45.01:369][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal]
+[2025.04.04-14.45.01:374][686]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal_Auto2
+[2025.04.04-14.45.01:374][686]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Normal_Auto25E2F00B243A23ABB51176D8289A0895C.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_WingTex/_Normal_Auto2.uasset'
+[2025.04.04-14.45.01:375][686]LogFileHelpers: Auto-saving content packages took 0.097
