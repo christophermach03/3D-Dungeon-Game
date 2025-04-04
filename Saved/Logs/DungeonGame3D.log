@@ -6153,3 +6153,420 @@ Referencers of SceneThumbnailInfo /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_0
 [2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: Material Cache Hits: 17 (7%)
 [2025.04.04-16.21.57:622][367]LogShaderCompilers: Display: ================================================
+[2025.04.04-16.26.53:664][874]LogStreaming: Display: FlushAsyncLoading(740): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.26.53:689][874]LogInterchangeEngine: [Pending] Importing
+[2025.04.04-16.26.53:689][874]LogInterchangeEngine: Display: Interchange start importing source [D:/GAME2/assets/wolfy/doggytextures/doggy_BaseColor.1002.png]
+[2025.04.04-16.26.54:377][876]LogStreaming: Display: FlushAsyncLoading(741): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.26.54:673][877]LogTexture: Display: Texture doggy_BaseColor was VT, but VT is off on the project, turning off on texture.
+[2025.04.04-16.26.54:673][877]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.26.54:673][877]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.26.54:677][878]LogTexture: Display: Building textures: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x2) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.04-16.26.54:677][878]LogTexture: Texture /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor was imported as UDIM with 2 blocks but VirtualTexturing is not enabled, only the first block will be available
+[2025.04.04-16.26.54:997][878]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.26.54:997][878]LogTexture: Warning: Texture /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor has UDIM Blocks, but bVirtualTextureStreaming is off; will build just the first block.
+[2025.04.04-16.26.55:020][878]LogInterchangeEngine: Display: Interchange import completed [D:/GAME2/assets/wolfy/doggytextures/doggy_BaseColor.1002.png]
+[2025.04.04-16.26.55:029][878]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.04-16.26.55:029][878]LogInterchangeEngine: [Success] Import Done
+[2025.04.04-16.27.03:930][368]Cmd: TRANSACTION UNDO
+[2025.04.04-16.27.03:930][368]LogEditorTransaction: Undo Remove Components
+[2025.04.04-16.27.40:556][691]LogStreaming: Display: FlushAsyncLoading(742): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.27.40:577][691]LogInterchangeEngine: [Pending] Importing
+[2025.04.04-16.27.40:577][691]LogInterchangeEngine: Display: Interchange start importing source [D:/GAME2/assets/wolfy/doggytextures/teethtex.png]
+[2025.04.04-16.27.41:285][693]LogStreaming: Display: FlushAsyncLoading(743): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.27.41:570][695]LogTexture: Display: Building textures: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex.teethtex (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2025.04.04-16.27.41:919][695]LogInterchangeEngine: Display: Interchange import completed [D:/GAME2/assets/wolfy/doggytextures/teethtex.png]
+[2025.04.04-16.27.41:924][695]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.04-16.27.41:924][695]LogInterchangeEngine: [Success] Import Done
+[2025.04.04-16.27.56:725][751]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.27.56:813][751]LogInterchangeEngine: [Pending] Importing
+[2025.04.04-16.27.56:813][751]LogInterchangeEngine: Display: Interchange start importing source [D:/GAME2/assets/wolfy/doggytextures/normalteet.png]
+[2025.04.04-16.27.57:445][753]LogStreaming: Display: FlushAsyncLoading(745): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.27.57:764][754]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.04-16.27.57:766][755]LogTexture: Display: Building textures: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/normalteet.normalteet (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 308.499988 MB), EncodeSpeed: Fast
+[2025.04.04-16.27.58:116][755]LogInterchangeEngine: Display: Interchange import completed [D:/GAME2/assets/wolfy/doggytextures/normalteet.png]
+[2025.04.04-16.27.58:120][755]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.04-16.27.58:121][755]LogInterchangeEngine: [Success] Import Done
+[2025.04.04-16.28.01:577][934]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex.teethtex
+[2025.04.04-16.28.02:392][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8512.782227
+[2025.04.04-16.28.02:459][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-16.28.02:459][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8512.842773, Update Interval: 342.155823
+[2025.04.04-16.28.06:906][501]LogContentBrowser: Deferred new asset file creation: teethtex_Mat
+[2025.04.04-16.28.06:912][501]LogContentBrowser: Creating deferred item: teethtex_Mat
+[2025.04.04-16.28.06:921][502]LogContentBrowser: Renaming the item being created (Deferred Item: teethtex_Mat).
+[2025.04.04-16.28.12:684][193]LogContentBrowser: Attempting asset rename: teethtex_Mat -> _Teeth_Nails
+[2025.04.04-16.28.12:690][193]LogContentBrowser: End creating deferred item teethtex_Mat
+[2025.04.04-16.28.13:969][319]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails._Teeth_Nails
+[2025.04.04-16.28.13:971][319]LogChaosDD: Creating Chaos Debug Draw Scene for world World_100
+[2025.04.04-16.28.14:181][319]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.04-16.28.14:181][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.04-16.28.14:181][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.04-16.28.14:181][319]MaterialEditorStats: Shader Count: 0
+[2025.04.04-16.28.14:181][319]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: Shader Count: 5
+[2025.04.04-16.28.14:248][321]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.04-16.28.17:806][703]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.04-16.28.17:806][703]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.04-16.28.17:806][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.04-16.28.17:806][703]MaterialEditorStats: Shader Count: 0
+[2025.04.04-16.28.17:806][703]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: Shader Count: 5
+[2025.04.04-16.28.17:859][705]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.04-16.28.20:276][979]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.04-16.28.20:276][979]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.04-16.28.20:276][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.04-16.28.20:276][979]MaterialEditorStats: Shader Count: 0
+[2025.04.04-16.28.20:276][979]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.04-16.28.20:312][981]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.04.04-16.28.20:312][981]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.04-16.28.20:312][981]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.04-16.28.20:312][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.04-16.28.20:312][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.04-16.28.20:313][981]MaterialEditorStats: Shader Count: 5
+[2025.04.04-16.28.20:313][981]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.04-16.28.21:860][161]LogMaterialEditor: Saving and Compiling material _Teeth_Nails
+[2025.04.04-16.28.22:829][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.04-16.28.23:003][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.04.04-16.28.23:011][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-16.28.23:052][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails] ([1] browsable assets)...
+[2025.04.04-16.28.23:058][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails._Teeth_Nails]
+[2025.04.04-16.28.23:058][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails]
+[2025.04.04-16.28.23:060][161]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails
+[2025.04.04-16.28.23:060][161]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Teeth_Nails72E0608E4F59A9E7FCF08B9AE3205D8F.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails.uasset'
+[2025.04.04-16.28.23:078][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.776 ms (total: 2:40 min)
+[2025.04.04-16.28.23:143][161]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-16.28.23:143][161]LogContentValidation: Enabled validators:
+[2025.04.04-16.28.23:143][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-16.28.23:143][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-16.28.23:143][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-16.28.23:143][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-16.28.23:143][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-16.28.23:143][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-16.28.23:143][161]AssetCheck: /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/_Teeth_Nails Validating asset
+[2025.04.04-16.28.38:164][863]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.04.04-16.28.38:225][868]LogChaosDD: Creating Chaos Debug Draw Scene for world World_101
+[2025.04.04-16.28.38:241][869]LogChaosDD: Creating Chaos Debug Draw Scene for world World_102
+[2025.04.04-16.29.06:640][ 99]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002
+[2025.04.04-16.29.06:640][ 99]LogChaosDD: Creating Chaos Debug Draw Scene for world World_103
+[2025.04.04-16.29.06:648][ 99]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-16.29.55:100][529]Cmd: TRANSACTION UNDO
+[2025.04.04-16.29.55:100][529]LogEditorTransaction: Undo Persona editor: material changed
+[2025.04.04-16.29.55:297][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-16.29.56:975][535]LogSlate: Window 'Message' being destroyed
+[2025.04.04-16.29.56:992][535]Message dialog closed, result: Cancel, title: Message, text: WARNING - Deleting a material slot can break the game play blueprint or the game play code. All indexes after the delete slot will change
+[2025.04.04-16.29.57:500][577]Cmd: TRANSACTION UNDO
+[2025.04.04-16.29.57:500][577]LogEditorTransaction: Undo Persona editor: material changed
+[2025.04.04-16.29.57:638][577]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-16.29.58:234][643]Cmd: TRANSACTION UNDO
+[2025.04.04-16.29.58:234][643]LogEditorTransaction: Undo Persona editor: Add material slot
+[2025.04.04-16.29.58:372][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-16.30.07:083][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.04-16.30.09:520][529]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.04-16.30.09:678][529]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.30.09:678][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.30.09:711][529]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-16.30.09:711][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-16.30.09:742][529]LogUObjectGlobals: Force Deleting 20 Package(s):
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_BITEANIM._BITEANIM
+	Asset Type: AnimSequence
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_PhysicsAsset._PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_SITANIM._SITANIM
+	Asset Type: AnimSequence
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_skeletalmesh._skeletalmesh
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/_WALKANIM._WALKANIM
+	Asset Type: AnimSequence
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_PhysicsAsset.Cube_002_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Skeleton.Cube_002_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_PhysicsAsset.Cube_005_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2025.04.04-16.30.11:395][529]LogSlate: Window 'Message' being destroyed
+[2025.04.04-16.30.11:401][529]Message dialog closed, result: Ok, title: Message, text: SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002:
+   SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 (standalone) (3)
+      0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+      1) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+      2) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+
+
+[2025.04.04-16.30.11:401][529]LogObjectTools: Warning: ForceDeleteObject failed to delete Cube_002, this package is now potentially corrupt
+[2025.04.04-16.30.12:858][529]LogSlate: Window 'Message' being destroyed
+[2025.04.04-16.30.12:865][529]Message dialog closed, result: Ok, title: Message, text: SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005:
+   SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 (standalone) (3)
+      0) ObjectProperty /Script/Engine.SkeletalMeshSourceModel:MeshDescriptionBulkData
+      1) ObjectProperty /Script/Engine.SkeletalMesh:AssetImportData
+      2) ObjectProperty /Script/Engine.SkeletalMesh:ThumbnailInfo
+
+
+[2025.04.04-16.30.12:865][529]LogObjectTools: Warning: ForceDeleteObject failed to delete Cube_005, this package is now potentially corrupt
+[2025.04.04-16.30.14:348][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.04-16.30.14:376][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.04-16.30.14:391][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.04-16.30.14:411][529]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2025.04.04-16.30.14:445][529]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.035 s
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: === Handled ensure: ===
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 3705] 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: 					from the file system manually: 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: Stack: 
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd37e63f37 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd37442d54 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd366f7781 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd36c0f613 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd36c036aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3968145c UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3969f332 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3942a7eb UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd394154a4 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3946f23f UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3945d5c6 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd39451f9c UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08daaf0 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08c5786 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08dd85e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08c05b7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdf2915801 USER32.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdf291334d USER32.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08de1d9 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3947704f UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd39430122 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd36d59117 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd37436324 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:445][529]LogOutputDevice: Error: [Callstack] 0x00007ffd37435602 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x000002af34cdc8e7 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x000002af34cbcc77 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd226f112e UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd2297f0ce UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd22952a3b UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd394e73a5 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd394cafd7 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3952fb2b UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd229a733e UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd39411ed4 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3945b5f5 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffd3944fcd2 UnrealEditor-Slate.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08da625 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08c5786 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08dd85e UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08c05b7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdf2915801 USER32.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdf291334d USER32.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdb08fbb26 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ff703ca632d UnrealEditor.exe!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ff703cc57ac UnrealEditor.exe!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ff703cc589a UnrealEditor.exe!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ff703cc9114 UnrealEditor.exe!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ff703cdbd04 UnrealEditor.exe!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ff703cdf0ba UnrealEditor.exe!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdf27de8d7 KERNEL32.DLL!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: [Callstack] 0x00007ffdf355fbcc ntdll.dll!UnknownFunction []
+[2025.04.04-16.30.14:446][529]LogOutputDevice: Error: 
+[2025.04.04-16.30.14:448][529]LogStats:                SubmitErrorReport -  0.000 s
+[2025.04.04-16.30.15:467][529]LogStats:                    SendNewReport -  1.019 s
+[2025.04.04-16.30.15:467][529]LogStats:             FDebug::EnsureFailed -  1.057 s
+[2025.04.04-16.30.15:518][529]LogSlate: Warning: Menu could not be pushed.  A path to the parent widget(SAssetView [SContentBrowser.cpp(457)]) could not be found
+[2025.04.04-16.30.15:518][529]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:606][529]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:622][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.04-16.30.15:631][530]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:633][530]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:659][531]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:771][532]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:860][533]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.15:872][534]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.18:800][864]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:318][923]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:353][924]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:365][925]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:375][926]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:386][927]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:396][928]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:407][929]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:417][930]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:429][931]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:440][932]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:450][933]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:461][934]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:471][935]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:941][988]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.19:976][989]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.30.21:190][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.04-16.30.22:383][121]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.04-16.30.22:455][121]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/Cube_002.Cube_002
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/Cube_005.Cube_005
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/_CombatSystem/_Enemy/_Doggy/doggy.doggy
+	Asset Type: Blueprint
+[2025.04.04-16.30.22:647][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.30.22:751][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.04-16.30.22:766][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.04-16.30.22:783][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: ================================================
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Total job queries 917, among them cache hits 462 (50.38%), DDC hits 247 (26.94%), Duplicates 8 (0.87%)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Tracking 447 distinct input hashes that result in 320 distinct outputs (71.59%)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: RAM used: 178.66 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Shaders Compiled: 200
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Jobs assigned 200, completed 200 (100%)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Average time worker was idle: 276.25 s
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.22 s
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 2.11 s
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 2.21
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Shader code size: average 9.135 KiB, min 2.785 KiB, max 24.773 KiB
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.05 s
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Jobs were issued in 200 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Average processing rate: 5.87 jobs/sec
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Total thread time: 70.941 s
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Total thread preprocess time: 9.726 s
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Percentage time preprocessing: 13.71%
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Effective parallelization: 2.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   25 times, average 0.60 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-16.30.57:736][428]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 0.59 sec, max 0.74 sec, min 0.52 sec)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.22% of total time (compiled   25 times, average 0.60 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.30% of total time (compiled   35 times, average 0.33 sec, max 0.53 sec, min 0.23 sec)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.78% of total time (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.84% of total time (compiled   33 times, average 0.21 sec, max 0.30 sec, min 0.16 sec)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.62% of total time (compiled   21 times, average 0.26 sec, max 0.52 sec, min 0.18 sec)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: === Material stats ===
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Materials Translated:    272
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: Material Cache Hits: 17 (6%)
+[2025.04.04-16.30.57:737][428]LogShaderCompilers: Display: ================================================
+[2025.04.04-16.31.51:238][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.04-16.31.51:250][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto7
+[2025.04.04-16.31.51:250][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Proper_Ai_Auto7C48CE11B4F148AC0FF11F3A4B8A16442.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto7.umap'
+[2025.04.04-16.31.51:252][503]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.030
+[2025.04.04-16.31.51:252][503]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.04.04-16.31.51:252][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack] ([2] browsable assets)...
+[2025.04.04-16.31.51:252][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack]
+[2025.04.04-16.31.51:254][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack_Auto7
+[2025.04.04-16.31.51:254][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BTT_Default_Attack_Auto7EDF36ECB4FD4DBCED23C99BDA7FEE389.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack_Auto7.uasset'
+[2025.04.04-16.31.51:255][503]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2025.04.04-16.31.51:255][503]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2025.04.04-16.31.51:262][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/InterchangeAssets/gltf/M_Default_Auto7
+[2025.04.04-16.31.51:262][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/M_Default_Auto7C198177543D35CEF8F2A59B529F83623.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/InterchangeAssets/gltf/M_Default_Auto7.uasset'
+[2025.04.04-16.31.51:263][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002] ([1] browsable assets)...
+[2025.04.04-16.31.51:263][503]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.31.51:426][503]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002]
+[2025.04.04-16.31.51:426][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002]
+[2025.04.04-16.31.51:447][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Auto7
+[2025.04.04-16.31.51:447][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_002_Auto796A9A9B44721E17499B0B4A7BA98B9B5.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002_Auto7.uasset'
+[2025.04.04-16.31.51:448][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005] ([1] browsable assets)...
+[2025.04.04-16.31.51:448][503]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.31.51:487][503]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005]
+[2025.04.04-16.31.51:487][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005]
+[2025.04.04-16.31.51:507][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_Auto7
+[2025.04.04-16.31.51:507][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Cube_005_Auto7A4302439465662FBAF99BE997D050F4A.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005_Auto7.uasset'
+[2025.04.04-16.31.51:508][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor] ([1] browsable assets)...
+[2025.04.04-16.31.51:516][503]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor.doggy_BaseColor]
+[2025.04.04-16.31.51:516][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor]
+[2025.04.04-16.31.51:521][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_Auto7
+[2025.04.04-16.31.51:521][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/doggy_BaseColor_Auto732DCA8834BE550C85A139C8D0628898E.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/doggy_BaseColor_Auto7.uasset'
+[2025.04.04-16.31.51:522][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex] ([1] browsable assets)...
+[2025.04.04-16.31.51:528][503]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex.teethtex]
+[2025.04.04-16.31.51:528][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex]
+[2025.04.04-16.31.51:531][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex_Auto7
+[2025.04.04-16.31.51:531][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/teethtex_Auto71276430A4AFFA326EDD2DA9BBE44461B.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/teethtex_Auto7.uasset'
+[2025.04.04-16.31.51:532][503]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/normalteet] ([1] browsable assets)...
+[2025.04.04-16.31.51:537][503]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/normalteet.normalteet]
+[2025.04.04-16.31.51:537][503]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/normalteet]
+[2025.04.04-16.31.51:542][503]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/normalteet_Auto7
+[2025.04.04-16.31.51:542][503]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/normalteet_Auto7582AA1C242EFD57DE0E44A81118E7CAE.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Doggy/doggy/textures/normalteet_Auto7.uasset'
+[2025.04.04-16.31.51:543][503]LogFileHelpers: Auto-saving content packages took 0.292
+[2025.04.04-16.31.51:575][504]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_005.Cube_005 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.31.51:578][504]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_CombatSystem/_Enemy/_Doggy/doggy/Cube_002.Cube_002 has no skeleton. This needs to fixed before an animation can be set
+[2025.04.04-16.33.03:584][720]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/blueprint/doggy.
+[2025.04.04-16.33.14:710][715]LogStreaming: Display: FlushAsyncLoading(746): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-16.33.14:940][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.33.14:940][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.33.14:943][716]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_0
+[2025.04.04-16.33.14:946][716]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_0
+[2025.04.04-16.33.15:378][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.04-16.33.15:381][747]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.04.04-16.33.15:388][747]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.33.15:388][747]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprint/doggy.doggy_C
+[2025.04.04-16.33.15:392][747]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_1
+[2025.04.04-16.33.15:394][747]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprint/doggy.doggy as actor: doggy_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel.doggy_C_1
+[2025.04.04-16.33.16:539][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprint/doggy.doggy
+[2025.04.04-16.33.16:539][838]LogChaosDD: Creating Chaos Debug Draw Scene for world World_104
+[2025.04.04-16.33.19:334][  3]LogSlate: Window 'doggy' being destroyed
