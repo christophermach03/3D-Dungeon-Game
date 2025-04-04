@@ -3185,3 +3185,233 @@ Sampler Limit: 32
 [2025.04.04-14.34.41:202][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.04-14.34.41:202][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.04-14.34.41:202][279]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly Validating asset
+[2025.04.04-14.35.10:083][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1741.342529
+[2025.04.04-14.35.11:083][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-14.35.11:083][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1742.008911, Update Interval: 324.483765
+[2025.04.04-14.36.16:971][ 69]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-14.36.16:996][ 69]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_CombatSystem/_Enemy/_Skelly/skelly/skellycape.skellycape
+[2025.04.04-14.36.17:031][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world World_47
+[2025.04.04-14.36.17:038][ 69]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'skellycape'
+[2025.04.04-14.36.17:041][ 69]LogMaterial: Display: Material /Game/_CombatSystem/_Enemy/_Skelly/skelly/cape.cape needed to have new flag set bUsedWithClothing !
+[2025.04.04-14.36.17:104][ 69]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-14.36.17:782][ 77]LogChaosDD: Creating Chaos Debug Draw Scene for world World_48
+[2025.04.04-14.36.17:870][ 84]LogChaosDD: Creating Chaos Debug Draw Scene for world World_49
+[2025.04.04-14.37.17:618][ 10]Cmd: MODE SCALEGRID=0
+[2025.04.04-14.37.21:953][524]Cmd: MODE SCALEGRID=1
+[2025.04.04-14.37.25:220][909]Cmd: MODE GRID=0
+[2025.04.04-14.38.23:646][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.04-14.38.24:320][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-14.38.24:368][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly] ([2] browsable assets)...
+[2025.04.04-14.38.24:373][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Skelly/_Skelly._Skelly]
+[2025.04.04-14.38.24:373][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly]
+[2025.04.04-14.38.24:378][625]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly
+[2025.04.04-14.38.24:379][625]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Skelly9BA35B5B496426DC47841D9E1B078B62.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/_Skelly.uasset'
+[2025.04.04-14.38.24:384][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.522 ms (total: 609.244 ms)
+[2025.04.04-14.38.24:413][625]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-14.38.24:413][625]LogContentValidation: Enabled validators:
+[2025.04.04-14.38.24:413][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-14.38.24:413][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-14.38.24:413][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-14.38.24:413][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-14.38.24:413][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-14.38.24:413][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-14.38.24:413][625]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly Validating asset
+[2025.04.04-14.38.56:436][  7]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.04-14.39.09:968][270]LogContentBrowser: Deferred new asset file creation: Armature_001Action_Montage
+[2025.04.04-14.39.09:975][270]LogContentBrowser: Creating deferred item: Armature_001Action_Montage
+[2025.04.04-14.39.09:986][271]LogContentBrowser: Renaming the item being created (Deferred Item: Armature_001Action_Montage).
+[2025.04.04-14.39.14:476][801]LogContentBrowser: Attempting asset rename: Armature_001Action_Montage -> _SkellyWalk
+[2025.04.04-14.39.14:492][801]LogContentBrowser: End creating deferred item Armature_001Action_Montage
+[2025.04.04-14.39.22:509][620]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_towersnlava.Logan_1door_towersnlava_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_lavapath.Logan_1door_lavapath_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.39.22:539][620]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.04-14.40.00:896][992]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk._SkellyWalk
+[2025.04.04-14.40.00:908][992]LogChaosDD: Creating Chaos Debug Draw Scene for world World_50
+[2025.04.04-14.40.00:914][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.04-14.40.01:094][992]LogChaosDD: Creating Chaos Debug Draw Scene for world World_51
+[2025.04.04-14.40.01:359][992]LogSlate: Took 0.006440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.04-14.41.29:061][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2120.384766
+[2025.04.04-14.41.29:143][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-14.41.29:143][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2120.460449, Update Interval: 341.469177
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: ================================================
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Total job queries 818, among them cache hits 398 (48.66%), DDC hits 226 (27.63%), Duplicates 8 (0.98%)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Tracking 412 distinct input hashes that result in 299 distinct outputs (72.57%)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: RAM used: 171.71 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Shaders Compiled: 186
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Jobs assigned 186, completed 186 (100%)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Average time worker was idle: 108.44 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.22 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 2.11 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Job life time (pending + execution): average 0.97 s, max 2.21
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Shader code size: average 9.217 KiB, min 2.785 KiB, max 24.773 KiB
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.67 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.18%
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Jobs were issued in 186 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Average processing rate: 6.27 jobs/sec
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Total thread time: 66.56 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Total thread preprocess time: 8.859 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Percentage time preprocessing: 13.31%
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Effective parallelization: 2.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   22 times, average 0.61 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 0.61 sec, max 0.74 sec, min 0.52 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.24% of total time (compiled   22 times, average 0.61 sec, max 0.89 sec, min 0.47 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.68% of total time (compiled   31 times, average 0.34 sec, max 0.53 sec, min 0.23 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.56% of total time (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.61 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.35% of total time (compiled   29 times, average 0.21 sec, max 0.30 sec, min 0.16 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.83% of total time (compiled   20 times, average 0.26 sec, max 0.52 sec, min 0.18 sec)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: === Material stats ===
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Materials Translated:    256
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: Material Cache Hits: 17 (7%)
+[2025.04.04-14.42.11:984][793]LogShaderCompilers: Display: ================================================
+[2025.04.04-14.42.13:595][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.04-14.43.42:300][397]Cmd: MODE GRID=1
+[2025.04.04-14.43.55:512][955]Cmd: MODE GRID=0
+[2025.04.04-14.44.03:250][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.04-14.44.04:221][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-14.44.04:267][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly] ([2] browsable assets)...
+[2025.04.04-14.44.04:271][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemy/_Skelly/_Skelly._Skelly]
+[2025.04.04-14.44.04:271][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly]
+[2025.04.04-14.44.04:276][972]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly
+[2025.04.04-14.44.04:276][972]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_SkellyD7B3C5B243892913AD2740A40A67A787.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/_Skelly.uasset'
+[2025.04.04-14.44.04:282][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.114 ms (total: 670.358 ms)
+[2025.04.04-14.44.04:314][972]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-14.44.04:314][972]LogContentValidation: Enabled validators:
+[2025.04.04-14.44.04:314][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-14.44.04:314][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-14.44.04:314][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-14.44.04:314][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-14.44.04:314][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-14.44.04:314][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-14.44.04:315][972]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly Validating asset
+[2025.04.04-14.44.15:139][239]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.04-14.44.15:142][239]LogChaosCloth: Warning: Object '_Skelly_C_1|skellycape' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.04-14.44.20:882][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.04-14.44.20:888][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.04-14.44.20:920][889]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-14.44.20:923][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002955s)
+[2025.04.04-14.44.20:923][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.003008s)
+[2025.04.04-14.44.20:939][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.04-14.44.20:944][889]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.04-14.44.20:945][889]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2025.04.04-14.44.20:946][889]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.04-14.44.20:946][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.04-14.44.20:946][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.04-14.44.20:946][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.04-14.44.20:946][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.04-14.44.20:946][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.04-14.44.20:948][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.04-14.44.20:957][889]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.04-14.44.20:957][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.04-14.44.20:957][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.04-14.44.20:957][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.04-14.44.20:957][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.04-14.44.20:957][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.04-14.44.20:959][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.04-14.44.20:959][889]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.04-14.44.20:959][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.04-14.44.20:959][889]LogAudio: Display: Audio Device (ID: 4) registered with world '_Proper_Ai'.
+[2025.04.04-14.44.20:959][889]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.04-14.44.20:962][889]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.04-14.44.20:963][889]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.04-14.44.20:966][889]LogChaosCloth: Warning: Object 'skelly|skellycape' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.04-14.44.20:966][889]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.04-10.44.20
+[2025.04.04-14.44.20:967][889]LogWorld: Bringing up level for play took: 0.005018
+[2025.04.04-14.44.20:969][889]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.04.04-14.44.20:972][889]PIE: Server logged in
+[2025.04.04-14.44.20:973][889]PIE: Play in editor total start time 0.084 seconds.
+[2025.04.04-14.44.28:287][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-14.44.28:287][752]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.04-14.44.28:288][752]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-14.44.28:288][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-14.44.28:291][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.04-14.44.28:294][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-14.44.28:306][752]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.04-14.44.28:306][752]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.04-14.44.28:306][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.04-14.44.28:307][752]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.04-14.44.28:310][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.04-14.44.28:312][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.04-14.44.28:402][753]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.04.04-14.44.30:156][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-14.44.30:201][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly] ([2] browsable assets)...
+[2025.04.04-14.44.30:201][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/_Skelly]
+[2025.04.04-14.44.30:205][941]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly
+[2025.04.04-14.44.30:206][941]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_SkellyF30ED140468D4EADA48EA4B13D28677B.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/_Skelly.uasset'
+[2025.04.04-14.44.30:212][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.509 ms (total: 725.867 ms)
+[2025.04.04-14.44.30:266][941]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-14.44.30:266][941]LogContentValidation: Enabled validators:
+[2025.04.04-14.44.30:266][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-14.44.30:266][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-14.44.30:266][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-14.44.30:266][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-14.44.30:266][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-14.44.30:266][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-14.44.30:266][941]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/_Skelly Validating asset
+[2025.04.04-14.44.31:459][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-14.44.31:511][ 66]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/skellycape] ([1] browsable assets)...
+[2025.04.04-14.44.31:511][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/skellycape]
+[2025.04.04-14.44.31:689][ 66]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/skelly/skellycape
+[2025.04.04-14.44.31:689][ 66]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/skellycape5CBDE4C44AD813020C2F978B1D37F2D9.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/skelly/skellycape.uasset'
+[2025.04.04-14.44.31:695][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.178 ms (total: 963.046 ms)
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: Enabled validators:
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-14.44.31:752][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-14.44.31:752][ 66]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/skelly/skellycape Validating asset
+[2025.04.04-14.44.32:897][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-14.44.32:934][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk] ([1] browsable assets)...
+[2025.04.04-14.44.32:940][197]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk._SkellyWalk]
+[2025.04.04-14.44.32:940][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk]
+[2025.04.04-14.44.32:941][197]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk
+[2025.04.04-14.44.32:941][197]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_SkellyWalk5662552D40A83ED20F5077A58787BA6C.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk.uasset'
+[2025.04.04-14.44.32:951][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.676 ms (total: 1.01 sec)
+[2025.04.04-14.44.33:005][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.04-14.44.33:005][197]LogContentValidation: Enabled validators:
+[2025.04.04-14.44.33:005][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-14.44.33:005][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-14.44.33:005][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-14.44.33:005][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-14.44.33:005][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-14.44.33:005][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-14.44.33:005][197]AssetCheck: /Game/_CombatSystem/_Enemy/_Skelly/skelly/_SkellyWalk Validating asset
+[2025.04.04-14.44.34:721][388]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-14.44.34:721][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-14.44.34:745][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.04-14.44.35:170][433]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-14.44.35:170][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-14.44.35:198][433]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.04.04-14.44.35:198][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.04-14.44.35:215][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
