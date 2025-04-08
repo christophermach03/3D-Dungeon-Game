@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/_3dmodels/Sconce_BP/Sconce_BP.uasset",
-				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/_3dmodels/Brazier_BP/Brazier_BP.uasset"
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/_3dmodels/Brazier_BP/Brazier_BP.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/Fab/Megascans/Surfaces/Curated_Stone_Facade_vjqifhu/Medium/WA_MI_Stone.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/X4/OZYAH09H24NOESB4VHX3PG.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/Fab/Megascans/Surfaces/Curated_Stone_Facade_vjqifhu/Medium/MI_vjqifhu.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/Fab/Megascans/Surfaces/Curated_Stone_Facade_vjqifhu/Medium/T_vjqifhu_2K_N.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/Fab/Megascans/Surfaces/Curated_Stone_Facade_vjqifhu/Medium/T_vjqifhu_2K_ORM.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/Fab/Megascans/Surfaces/Curated_Stone_Facade_vjqifhu/Medium/T_vjqifhu_2K_B.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/Fab/Megascans/Surfaces/Curated_Stone_Facade_vjqifhu/Medium/MI_vjqifhu_Inst.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/_MasterBlueprints/_FourHallwayMaster.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/_MasterBlueprints/_FourHallwayMasterDUPLICATE.uasset",
+				"C:/Users/oworthington2024/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/_MasterBlueprints/Texture_Test/StaticMesh.uasset"
 			]
 		}
 	]
