@@ -2146,3 +2146,193 @@ FPackageName: Skipped package /Game/_3dmodels/eyebat/eyebateFLYCYCLE has a valid
 [2025.04.11-01.42.39:534][814]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Traps/TEST_Projectile_Auto4
 [2025.04.11-01.42.39:534][814]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/TEST_Projectile_Auto46237331B4D630163AD1872B94725F653.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_Traps/TEST_Projectile_Auto4.uasset'
 [2025.04.11-01.42.39:535][814]LogFileHelpers: Auto-saving content packages took 0.070
+[2025.04.11-01.48.55:353][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.11-01.48.56:972][563]LogSlate: Window 'Save Content' being destroyed
+[2025.04.11-01.48.56:982][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.11-01.48.57:054][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.11-01.48.57:064][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Proper_Ai
+[2025.04.11-01.48.57:064][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Proper_AiBCC536CA45F511771ED012989EF89943.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap'
+[2025.04.11-01.48.57:079][563]LogFileHelpers: Saving map '_Proper_Ai' took 0.061
+[2025.04.11-01.48.57:079][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemies/_bp_kobold] ([2] browsable assets)...
+[2025.04.11-01.48.57:079][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemies/_bp_kobold]
+[2025.04.11-01.48.57:083][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemies/_bp_kobold
+[2025.04.11-01.48.57:083][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_bp_koboldA4CC82F44AA4AC701BCB5B959DC06504.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_kobold.uasset'
+[2025.04.11-01.48.57:086][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Player/_BP_Player] ([2] browsable assets)...
+[2025.04.11-01.48.57:086][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_BP_Player]
+[2025.04.11-01.48.57:106][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_BP_Player
+[2025.04.11-01.48.57:107][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Player3ABC0B304749108D64450199D226AF69.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_BP_Player.uasset'
+[2025.04.11-01.48.57:108][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemies/_bp_skelly] ([2] browsable assets)...
+[2025.04.11-01.48.57:108][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemies/_bp_skelly]
+[2025.04.11-01.48.57:113][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemies/_bp_skelly
+[2025.04.11-01.48.57:113][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_bp_skelly0E9FE12C47D1B62BD58DD49D895E39A3.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_skelly.uasset'
+[2025.04.11-01.48.57:115][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemies/_bp_worg] ([2] browsable assets)...
+[2025.04.11-01.48.57:115][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemies/_bp_worg]
+[2025.04.11-01.48.57:120][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemies/_bp_worg
+[2025.04.11-01.48.57:120][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_bp_worg991960CD4B05D5829E5DED976C096245.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_worg.uasset'
+[2025.04.11-01.48.57:123][563]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Player/_Inventory/_WB_Inventory] ([2] browsable assets)...
+[2025.04.11-01.48.57:127][563]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_CombatSystem/_Player/_Inventory/_WB_Inventory._WB_Inventory]
+[2025.04.11-01.48.57:127][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_Inventory/_WB_Inventory]
+[2025.04.11-01.48.57:132][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_Inventory/_WB_Inventory
+[2025.04.11-01.48.57:132][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_WB_InventoryF6A48E8A42A0453811FADA94470A255D.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_Inventory/_WB_Inventory.uasset'
+[2025.04.11-01.48.57:135][563]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Player/_Inventory/Inventory] ([1] browsable assets)...
+[2025.04.11-01.48.57:135][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_Inventory/Inventory]
+[2025.04.11-01.48.57:138][563]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_Inventory/Inventory
+[2025.04.11-01.48.57:138][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Inventory5DAE24BF45EB4584B74619943FDEBB14.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_Inventory/Inventory.uasset'
+[2025.04.11-01.48.57:140][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Traps/TEST_Projectile] ([2] browsable assets)...
+[2025.04.11-01.48.57:140][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Traps/TEST_Projectile]
+[2025.04.11-01.48.57:140][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Traps/TEST_Projectile" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Traps/TEST_Projectile.uasset" SILENT=true
+[2025.04.11-01.48.57:148][563]LogSavePackage: Moving output files for package: /Game/_Traps/TEST_Projectile
+[2025.04.11-01.48.57:148][563]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/TEST_Projectile7F73E38E495767DCDA6A96B0B4DDE6DD.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Traps/TEST_Projectile.uasset'
+[2025.04.11-01.48.57:162][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.938 ms (total: 1.20 sec)
+[2025.04.11-01.48.57:218][563]LogStall: Shutdown...
+[2025.04.11-01.48.57:218][563]LogStall: Shutdown complete.
+[2025.04.11-01.48.57:255][563]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:256][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:335][563]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:335][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:388][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.11-01.48.57:388][563]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:388][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:447][563]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:447][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:455][563]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:455][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:510][563]LogSlate: Window 'DungeonGame3D - Unreal Editor' being destroyed
+[2025.04.11-01.48.57:511][563]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.04.11-01.48.57:657][563]LogContentValidation: Display: Starting to validate 8 assets
+[2025.04.11-01.48.57:657][563]LogContentValidation: Enabled validators:
+[2025.04.11-01.48.57:657][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.11-01.48.57:657][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.11-01.48.57:657][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.11-01.48.57:657][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.11-01.48.57:657][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.11-01.48.57:657][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.11-01.48.57:657][563]AssetCheck: /Game/_CombatSystem/_Proper_Ai Validating asset
+[2025.04.11-01.48.57:657][563]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_kobold Validating asset
+[2025.04.11-01.48.57:657][563]AssetCheck: /Game/_CombatSystem/_Player/_BP_Player Validating asset
+[2025.04.11-01.48.57:657][563]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_skelly Validating asset
+[2025.04.11-01.48.57:657][563]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_worg Validating asset
+[2025.04.11-01.48.57:658][563]AssetCheck: /Game/_CombatSystem/_Player/_Inventory/_WB_Inventory Validating asset
+[2025.04.11-01.48.57:658][563]AssetCheck: /Game/_CombatSystem/_Player/_Inventory/Inventory Validating asset
+[2025.04.11-01.48.57:658][563]AssetCheck: /Game/_Traps/TEST_Projectile Validating asset
+[2025.04.11-01.48.57:673][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.11-01.48.57:686][563]LogAutomationController: Ignoring very large delta of 2.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.11-01.48.57:687][563]Cmd: QUIT_EDITOR
+[2025.04.11-01.48.57:687][563]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.11-01.48.57:699][564]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.11-01.48.57:700][564]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.11-01.48.57:700][564]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.11-01.48.57:701][564]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:701][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:715][564]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.11-01.48.57:716][564]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.11-01.48.57:721][564]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:721][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:723][564]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:723][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:724][564]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:724][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:726][564]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:726][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:727][564]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:727][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:728][564]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:728][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:729][564]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:729][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:731][564]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:731][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:732][564]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:732][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:734][564]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:734][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:735][564]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:735][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:736][564]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:736][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:737][564]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:737][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:739][564]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:739][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:740][564]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:740][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:740][564]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:740][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:743][564]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:743][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:744][564]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:744][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:745][564]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:745][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:747][564]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:747][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:748][564]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:748][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:749][564]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:749][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:751][564]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:752][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:753][564]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:753][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:754][564]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-01.48.57:755][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-01.48.57:756][564]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.11-01.48.57:761][564]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.11-01.48.57:761][564]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.11-01.48.57:761][564]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.11-01.48.58:096][564]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.11-01.48.58:096][564]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.11-01.48.58:096][564]LogAudio: Display: Audio Device unregistered from world '_Proper_Ai'.
+[2025.04.11-01.48.58:096][564]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.11-01.48.58:096][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.11-01.48.58:098][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.11-01.48.58:104][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.11-01.48.58:104][564]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.11-01.48.58:106][564]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.11-01.48.58:106][564]LogExit: Preparing to exit.
+[2025.04.11-01.48.58:148][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.58:151][564]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.11-01.48.59:206][564]LogEditorDataStorage: Deinitializing
+[2025.04.11-01.48.59:349][564]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.11-01.48.59:363][564]LogExit: Editor shut down
+[2025.04.11-01.48.59:366][564]LogExit: Transaction tracking system shut down
+[2025.04.11-01.48.59:462][564]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 1.
+[2025.04.11-01.48.59:477][564]LogExit: Object subsystem successfully closed.
+[2025.04.11-01.48.59:518][564]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.11-01.48.59:732][564]LogMemoryProfiler: Shutdown
+[2025.04.11-01.48.59:732][564]LogNetworkingProfiler: Shutdown
+[2025.04.11-01.48.59:732][564]LoadingProfiler: Shutdown
+[2025.04.11-01.48.59:732][564]LogTimingProfiler: Shutdown
+[2025.04.11-01.49.00:154][564]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.04.11-01.49.00:190][564]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.11-01.49.00:190][564]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB2659EB4-4580-EB4F-1274-F6B4A9293632%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=1050020f4545005288f8f2b207f998a9%7C1a5effbf9c5d460f83202155375dd104%7C4246f577-387b-4d3d-9f6c-225e2dada398&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.04.11-01.49.00:199][564]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.04.11-01.49.00:199][564]LogNFORDenoise: NFORDenoise function shutting down
+[2025.04.11-01.49.00:199][564]RenderDocPlugin: plugin has been unloaded.
+[2025.04.11-01.49.00:200][564]LogXGEController: Cleaning working directory: C:/Users/ajkwe/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.04.11-01.49.00:202][564]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.04.11-01.49.00:202][564]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.04.11-01.49.00:202][564]LogPakFile: Destroying PakPlatformFile
+[2025.04.11-01.49.00:767][564]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.11-01.49.00:840][564]LogExit: Exiting.
+[2025.04.11-01.49.00:863][564]Log file closed, 04/10/25 21:49:00
