@@ -2611,3 +2611,652 @@ FPackageName: Skipped package /Game/kobby/kobby_Skeleton has a valid, mounted, m
 [2025.04.11-15.34.27:913][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2079.189209
 [2025.04.11-15.34.27:968][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.11-15.34.27:968][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2079.234619, Update Interval: 324.368408
+[2025.04.11-15.35.13:977][976]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2025.04.11-15.35.16:204][188]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.35.16:204][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.35.16:253][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.11-15.35.17:064][266]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.35.17:064][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.35.17:104][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.11-15.35.18:383][388]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.11-15.35.18:383][388]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.35.18:384][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.35.18:445][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.11-15.35.19:684][512]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.11-15.35.19:684][512]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.35.19:684][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.35.19:741][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.11-15.35.20:184][557]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.11-15.35.20:184][557]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.35.20:184][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.35.20:241][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.11-15.35.20:833][614]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.11-15.35.20:834][614]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.35.20:834][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.35.20:896][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.11-15.35.48:570][816]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: ================================================
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Total job queries 437, among them cache hits 106 (24.26%), DDC hits 314 (71.85%), Duplicates 5 (1.14%)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Tracking 326 distinct input hashes that result in 265 distinct outputs (81.29%)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: RAM used: 166.41 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Average time worker was idle: 116.24 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.25 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.30
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Shader code size: average 6.729 KiB, min 2.203 KiB, max 12.086 KiB
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.65 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Average processing rate: 4.53 jobs/sec
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Total thread time: 2.516 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Total thread preprocess time: 5.376 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Percentage time preprocessing: 213.71%
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Effective parallelization: 0.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                              FHairMaterialPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.16% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                              FHairMaterialPS - 14.04% of total time (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.70% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.58% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.69% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: === Material stats ===
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Materials Translated:    167
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Material Translation Only: 0.03 s (42%)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2025.04.11-15.35.54:912][314]LogShaderCompilers: Display: ================================================
+[2025.04.11-15.36.26:498][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.11-15.36.26:509][612]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto2
+[2025.04.11-15.36.26:510][612]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_Proper_Ai_Auto2CD8E9E1A4EB61678B762A78890D3CD85.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto2.umap'
+[2025.04.11-15.36.26:510][612]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.029
+[2025.04.11-15.36.26:510][612]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.04.11-15.36.49:704][282]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.36.49:705][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:705][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor_10021.DefaultMaterial_BaseColor_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:706][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Metallic.DefaultMaterial_Metallic contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:706][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Metallic_10021.DefaultMaterial_Metallic_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:706][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.DefaultMaterial_Normal contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:707][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal_10021.DefaultMaterial_Normal_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:707][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.DefaultMaterial_Roughness contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:707][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness_10021.DefaultMaterial_Roughness_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.49:724][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.11-15.36.50:917][282]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor_10021.DefaultMaterial_BaseColor_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Metallic.DefaultMaterial_Metallic contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Metallic_10021.DefaultMaterial_Metallic_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.DefaultMaterial_Normal contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal_10021.DefaultMaterial_Normal_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.DefaultMaterial_Roughness contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:927][282]LogTexture: Warning: Texture2D /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness_10021.DefaultMaterial_Roughness_10021 contains no miplevels! This could happen if this texture is a thumbnail and hasn't been generated (Format: 0)
+[2025.04.11-15.36.50:941][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.11-15.36.50:954][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.11-15.36.50:972][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.11-15.36.59:904][553]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.36.59:951][553]LogInterchangeEngine: [Pending] Importing
+[2025.04.11-15.36.59:951][553]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/awescott2020/Desktop/drive-download-20250411T153605Z-001/DefaultMaterial_BaseColor.1001.png]
+[2025.04.11-15.37.00:621][555]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.37.00:959][557]LogTexture: Display: Building textures: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.DefaultMaterial_BaseColor (TFO_AutoDXT VT, 1024x1024 x1x1x2) (Required Memory Estimate: 66.767018 MB), EncodeSpeed: Fast
+[2025.04.11-15.37.01:265][557]LogInterchangeEngine: Display: Interchange import completed [C:/Users/awescott202...20250411T153605Z-001/DefaultMaterial_BaseColor.1001.png]
+[2025.04.11-15.37.01:271][557]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.11-15.37.01:271][557]LogInterchangeEngine: [Success] Import Done
+[2025.04.11-15.37.11:128][603]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.37.11:187][603]LogInterchangeEngine: [Pending] Importing
+[2025.04.11-15.37.11:187][603]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/awescott2020/Desktop/drive-download-20250411T153605Z-001/DefaultMaterial_Normal.1001.png]
+[2025.04.11-15.37.11:794][605]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.37.11:895][609]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.11-15.37.11:900][610]LogTexture: Display: Building textures: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.DefaultMaterial_Normal (TFO_BC5 VT, 1024x1024 x1x1x2) (Required Memory Estimate: 141.363667 MB), EncodeSpeed: Fast
+[2025.04.11-15.37.12:039][612]LogInterchangeEngine: Display: Interchange import completed [C:/Users/awescott202...20250411T153605Z-001/DefaultMaterial_Normal.1001.png]
+[2025.04.11-15.37.12:113][612]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.11-15.37.12:113][612]LogInterchangeEngine: [Success] Import Done
+[2025.04.11-15.37.16:493][ 25]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.11-15.37.20:096][413]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.11-15.37.30:827][422]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.37.30:839][422]LogInterchangeEngine: [Pending] Importing
+[2025.04.11-15.37.30:839][422]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/awescott2020/Desktop/drive-download-20250411T153605Z-001/DefaultMaterial_Roughness.1001.png]
+[2025.04.11-15.37.31:556][424]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.37.31:576][425]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.04.11-15.37.31:577][425]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.04.11-15.37.31:839][426]LogTexture: Display: Building textures: /Game/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.DefaultMaterial_Roughness (TFO_AutoDXT VT, 1024x1024 x1x1x2) (Required Memory Estimate: 60.767018 MB), EncodeSpeed: Fast
+[2025.04.11-15.37.32:190][426]LogInterchangeEngine: Display: Interchange import completed [C:/Users/awescott202...20250411T153605Z-001/DefaultMaterial_Roughness.1001.png]
+[2025.04.11-15.37.32:202][426]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.11-15.37.32:202][426]LogInterchangeEngine: [Success] Import Done
+[2025.04.11-15.37.42:896][131]LogSlate: Window 'Content Browser' being destroyed
+[2025.04.11-15.38.04:042][ 17]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_CombatSystem/_Enemy/_Eye_Bat/head.head
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.04.11-15.38.04:043][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.04.11-15.38.04:043][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.04.11-15.38.04:044][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.04.11-15.38.04:044][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.04.11-15.38.04:044][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.04.11-15.38.04:044][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.04.11-15.38.04:044][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.04.11-15.38.04:044][ 17]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.04.11-15.38.04:044][ 17]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.04.11-15.38.04:046][ 17]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2025.04.11-15.38.04:052][ 17]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.38.04:397][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.04:398][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.04:398][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.04:398][ 17]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.04:398][ 17]MaterialEditorStats: Preshaders: 6  (6 param fetches, 13 ops)
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: Shader Count: 5
+[2025.04.11-15.38.04:514][ 19]MaterialEditorStats: Preshaders: 6  (6 param fetches, 13 ops)
+[2025.04.11-15.38.14:023][835]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.14:023][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.14:023][835]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.14:023][835]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.14:343][865]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.14:343][865]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.14:343][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.14:343][865]MaterialEditorStats: Shader Count: 3
+[2025.04.11-15.38.14:343][865]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.14:743][907]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.11-15.38.14:743][907]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.14:743][907]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.11-15.38.14:743][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.14:743][907]MaterialEditorStats: Shader Count: 5
+[2025.04.11-15.38.14:743][907]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.18:413][266]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.18:413][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.18:413][266]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.18:413][266]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.18:473][268]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.11-15.38.18:473][268]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.18:473][268]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.11-15.38.18:473][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.18:473][268]MaterialEditorStats: Shader Count: 5
+[2025.04.11-15.38.18:473][268]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.21:236][511]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.21:236][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.21:236][511]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.21:236][511]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.21:299][513]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.11-15.38.21:299][513]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.21:299][513]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.11-15.38.21:299][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.21:299][513]MaterialEditorStats: Shader Count: 5
+[2025.04.11-15.38.21:299][513]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.23:717][709]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.23:717][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.23:717][709]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.23:717][709]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.23:781][711]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.11-15.38.23:781][711]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.23:781][711]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.11-15.38.23:781][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.11-15.38.23:781][711]MaterialEditorStats: Shader Count: 5
+[2025.04.11-15.38.23:781][711]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.25:620][881]LogSlate: Window 'head' being destroyed
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.33:713][829]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Shader Count: 2
+[2025.04.11-15.38.34:057][863]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Shader Count: 3
+[2025.04.11-15.38.34:156][875]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Base pass shader: 251 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Shader Count: 4
+[2025.04.11-15.38.34:257][887]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.38:107][338]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Shader Count: 2
+[2025.04.11-15.38.38:452][374]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Shader Count: 3
+[2025.04.11-15.38.38:552][386]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Base pass shader: 279 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Shader Count: 4
+[2025.04.11-15.38.38:659][398]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: Shader Count: 0
+[2025.04.11-15.38.40:391][598]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Shader Count: 2
+[2025.04.11-15.38.40:662][622]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Shader Count: 3
+[2025.04.11-15.38.40:728][630]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Base pass shader: 300 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Shader Count: 4
+[2025.04.11-15.38.40:832][642]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.42:103][782]LogMaterialEditor: Saving and Compiling material head
+[2025.04.11-15.38.43:166][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.11-15.38.44:433][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.11-15.38.44:446][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.11-15.38.44:508][782]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/head] ([1] browsable assets)...
+[2025.04.11-15.38.44:530][782]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_CombatSystem/_Enemy/_Eye_Bat/head.head]
+[2025.04.11-15.38.44:530][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/head]
+[2025.04.11-15.38.44:532][782]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/head
+[2025.04.11-15.38.44:533][782]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/head102085914248F53056530D98E0131111.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/head.uasset'
+[2025.04.11-15.38.44:540][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.555 ms (total: 1.18 sec)
+[2025.04.11-15.38.44:619][782]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.11-15.38.44:619][782]LogContentValidation: Enabled validators:
+[2025.04.11-15.38.44:619][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.11-15.38.44:619][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.11-15.38.44:619][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.11-15.38.44:619][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.11-15.38.44:619][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.11-15.38.44:619][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.11-15.38.44:619][782]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/head Validating asset
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Base pass shader: 300 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Base pass vertex shader: 291 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Virtual Texture Stacks: 1
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Shader Count: 15
+[2025.04.11-15.38.44:630][782]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: ================================================
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Total job queries 583, among them cache hits 174 (29.85%), DDC hits 331 (56.78%), Duplicates 9 (1.54%)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Tracking 400 distinct input hashes that result in 309 distinct outputs (77.25%)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: RAM used: 186.72 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Shaders Compiled: 69
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Average time worker was idle: 37.39 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.25 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 1.30
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Shader code size: average 8.303 KiB, min 2.203 KiB, max 20.707 KiB
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.05 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Average processing rate: 6.86 jobs/sec
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Total thread time: 19.134 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Total thread preprocess time: 6.74 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Percentage time preprocessing: 35.22%
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Effective parallelization: 1.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 0.55 sec, max 0.58 sec, min 0.51 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                              FHairMaterialPS (compiled    1 times, average 0.35 sec, max 0.35 sec, min 0.35 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.13% of total time (compiled    8 times, average 0.55 sec, max 0.58 sec, min 0.51 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.10% of total time (compiled   14 times, average 0.29 sec, max 0.36 sec, min 0.22 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.28% of total time (compiled   14 times, average 0.18 sec, max 0.21 sec, min 0.16 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.34% of total time (compiled    8 times, average 0.22 sec, max 0.25 sec, min 0.20 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.05% of total time (compiled    2 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: === Material stats ===
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Materials Translated:    200
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Material Translation Only: 0.03 s (42%)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: Material Cache Hits: 35 (18%)
+[2025.04.11-15.38.54:907][882]LogShaderCompilers: Display: ================================================
+[2025.04.11-15.39.03:834][794]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.39.06:923][ 87]LogContentBrowser: Deferred new asset file creation: EYEDIFFUSE_Mat
+[2025.04.11-15.39.06:933][ 87]LogContentBrowser: Creating deferred item: EYEDIFFUSE_Mat
+[2025.04.11-15.39.06:945][ 88]LogContentBrowser: Renaming the item being created (Deferred Item: EYEDIFFUSE_Mat).
+[2025.04.11-15.39.09:224][317]LogContentBrowser: Attempting asset rename: EYEDIFFUSE_Mat -> eye
+[2025.04.11-15.39.09:229][317]LogContentBrowser: End creating deferred item EYEDIFFUSE_Mat
+[2025.04.11-15.39.11:498][530]LogMaterial: Display: Material /Game/_CombatSystem/_Enemy/_Eye_Bat/eye.eye needed to have new flag set bUsedWithSkeletalMesh !
+[2025.04.11-15.39.14:416][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.11-15.39.14:446][829]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemies/_bp_eyebat] ([2] browsable assets)...
+[2025.04.11-15.39.14:446][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemies/_bp_eyebat]
+[2025.04.11-15.39.14:449][829]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemies/_bp_eyebat
+[2025.04.11-15.39.14:450][829]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_bp_eyebatFB92A0B849876EF3D35682BD3FA7E2EF.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_eyebat.uasset'
+[2025.04.11-15.39.14:456][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.233 ms (total: 1.22 sec)
+[2025.04.11-15.39.14:519][829]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.11-15.39.14:519][829]LogContentValidation: Enabled validators:
+[2025.04.11-15.39.14:519][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.11-15.39.14:519][829]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.11-15.39.14:519][829]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.11-15.39.14:519][829]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.11-15.39.14:519][829]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.11-15.39.14:519][829]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.11-15.39.14:519][829]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_eyebat Validating asset
+[2025.04.11-15.39.24:694][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat_C
+[2025.04.11-15.39.24:694][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat_C
+[2025.04.11-15.39.24:696][897]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat as actor: _bp_eyebat_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._bp_eyebat_C_0
+[2025.04.11-15.39.24:697][897]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat as actor: _bp_eyebat_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._bp_eyebat_C_0
+[2025.04.11-15.39.25:313][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.11-15.39.25:323][947]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2025.04.11-15.39.25:332][947]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat_C
+[2025.04.11-15.39.25:332][947]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat_C
+[2025.04.11-15.39.25:336][947]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat as actor: _bp_eyebat_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._bp_eyebat_C_1
+[2025.04.11-15.39.25:337][947]LogActorFactory: Actor Factory spawned Blueprint /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat as actor: _bp_eyebat_C /Game/_CombatSystem/_Proper_Ai._Proper_Ai:PersistentLevel._bp_eyebat_C_1
+[2025.04.11-15.39.44:471][135]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.39.47:066][411]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.11-15.39.49:100][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.11-15.39.49:757][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.11-15.39.49:819][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemies/_bp_eyebat] ([2] browsable assets)...
+[2025.04.11-15.39.49:827][689]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemies/_bp_eyebat._bp_eyebat]
+[2025.04.11-15.39.49:827][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemies/_bp_eyebat]
+[2025.04.11-15.39.49:830][689]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemies/_bp_eyebat
+[2025.04.11-15.39.49:831][689]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_bp_eyebat558200E342FFB14BC0D7D7BDF2771CBA.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_eyebat.uasset'
+[2025.04.11-15.39.49:836][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.443 ms (total: 1.30 sec)
+[2025.04.11-15.39.49:901][689]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.11-15.39.49:901][689]LogContentValidation: Enabled validators:
+[2025.04.11-15.39.49:901][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.11-15.39.49:901][689]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.11-15.39.49:901][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.11-15.39.49:901][689]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.11-15.39.49:901][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.11-15.39.49:901][689]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.11-15.39.49:901][689]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_eyebat Validating asset
+[2025.04.11-15.39.50:774][776]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.11-15.39.50:782][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.11-15.39.50:807][776]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.11-15.39.50:810][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002834s)
+[2025.04.11-15.39.50:810][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002874s)
+[2025.04.11-15.39.50:826][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.11-15.39.50:834][776]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.11-15.39.50:835][776]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2025.04.11-15.39.50:835][776]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.04.11-15.39.50:835][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.11-15.39.50:835][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.11-15.39.50:835][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.11-15.39.50:837][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.11-15.39.50:837][776]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.11-15.39.50:837][776]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.11-15.39.50:837][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.11-15.39.50:837][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.11-15.39.50:837][776]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.11-15.39.50:837][776]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.11-15.39.50:837][776]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.11-15.39.50:839][776]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.11-15.39.50:848][776]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.11-15.39.50:848][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.11-15.39.50:849][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.11-15.39.50:849][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.11-15.39.50:849][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.04.11-15.39.50:849][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.04.11-15.39.50:850][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.04.11-15.39.50:850][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.04.11-15.39.50:850][776]LogInit: FAudioDevice initialized with ID 14.
+[2025.04.11-15.39.50:850][776]LogAudio: Display: Audio Device (ID: 14) registered with world '_Proper_Ai'.
+[2025.04.11-15.39.50:850][776]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.04.11-15.39.50:853][776]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.11-15.39.50:854][776]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.11-15.39.50:858][776]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'belt' with 'belt'
+[2025.04.11-15.39.50:860][776]LogChaosCloth: Warning: Object '_bp_kobold|belt' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.11-15.39.50:861][776]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.11-11.39.50
+[2025.04.11-15.39.50:863][776]LogWorld: Bringing up level for play took: 0.008790
+[2025.04.11-15.39.50:864][776]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.04.11-15.39.50:869][776]PIE: Server logged in
+[2025.04.11-15.39.50:870][776]PIE: Play in editor total start time 0.089 seconds.
+[2025.04.11-15.39.52:779][946]LogBlueprintUserMessages: [_bp_skelly_C_1] HitDefault
+[2025.04.11-15.39.52:779][946]LogBlueprintUserMessages: [_bp_skelly_C_1] Damage Response:
+[2025.04.11-15.39.54:500][112]LogBlueprintUserMessages: [_bp_skelly_C_1] FLINT AND STEEL
+[2025.04.11-15.39.54:782][137]LogBlueprintUserMessages: [_bp_eyebat_C_1] HitDefault
+[2025.04.11-15.39.54:782][137]LogBlueprintUserMessages: [_bp_eyebat_C_1] Damage Response:
+[2025.04.11-15.39.56:418][285]LogBlueprintUserMessages: [_bp_kobold_C_1] HitDefault
+[2025.04.11-15.39.56:419][285]LogBlueprintUserMessages: [_bp_kobold_C_1] Damage Response:
+[2025.04.11-15.40.04:359][ 77]LogBlueprintUserMessages: [_bp_worg_C_1] HitDefault
+[2025.04.11-15.40.04:359][ 77]LogBlueprintUserMessages: [_bp_worg_C_1] Damage Response:
+[2025.04.11-15.40.06:558][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.11-15.40.06:558][293]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.11-15.40.06:559][293]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.11-15.40.06:559][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.40.06:566][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.11-15.40.06:569][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.11-15.40.06:582][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.11-15.40.06:582][293]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.04.11-15.40.06:582][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.04.11-15.40.06:584][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.04.11-15.40.06:588][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.11-15.40.06:590][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.11-15.40.06:684][294]LogPlayLevel: Display: Destroying online subsystem :Context_40

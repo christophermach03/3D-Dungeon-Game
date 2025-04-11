@@ -11,7 +11,16 @@
 				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_skelly.uasset",
 				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack.uasset",
 				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/BP_Enemy_Master.uasset",
-				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_eyebat.uasset"
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_eyebat.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness_10021.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Roughness.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal_10021.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Normal.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Metallic_10021.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_Metallic.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor_10021.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/DefaultMaterial_BaseColor.uasset",
+				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/head.uasset"
 			]
 		}
 	]
