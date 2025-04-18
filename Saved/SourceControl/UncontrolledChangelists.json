@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/_CombatSystem/_Player/_BP_Player.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/HC/YGDPHB031NW6VURMM2BQ31.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/TY/YBROBRV4CP0VUBRBIBZTSB.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/BP_LevelTransition.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/86/98RUCCKCKWN510VBDRKH45.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/R4/VWMVUKPM8IB8HVU31IV27F.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/PlayerData.uasset",
 				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Player/_BP_Player.uasset",
 				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Player/_Weapons/_BP_Item.uasset",
 				"C:/Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap",
