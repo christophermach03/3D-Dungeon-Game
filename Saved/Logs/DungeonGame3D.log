@@ -6357,3 +6357,190 @@ FPackageName: Skipped package /Game/kobby/belt_Skeleton has a valid, mounted, mo
 [2025.04.18-04.10.42:479][763]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_kobold Validating asset
 [2025.04.18-04.10.42:479][763]AssetCheck: /Game/_3dmodels/kobby/kobby1 Validating asset
 [2025.04.18-04.10.42:479][763]AssetCheck: /Game/_3dmodels/kobby/kobby_Skeleton Validating asset
+[2025.04.18-04.13.51:219][846]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.14.06:756][831]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-04.14.06:923][831]LogInterchangeEngine: [Pending] Importing
+[2025.04.18-04.14.06:923][831]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ajkwe/OneDrive/Desktop/Chris_Sword.png]
+[2025.04.18-04.14.07:445][834]LogStreaming: Display: FlushAsyncLoading(653): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-04.14.07:446][834]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.18-04.14.08:112][835]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ajkwe/OneDrive/Desktop/Chris_Sword.png]
+[2025.04.18-04.14.08:125][835]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.18-04.14.08:125][835]LogInterchangeEngine: [Success] Import Done
+[2025.04.18-04.14.09:964][953]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/_CombatSystem/_Enemies/Chris_Sword.Chris_Sword
+[2025.04.18-04.14.23:421][609]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.14.26:205][933]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.14.29:986][376]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.14.46:876][172]LogContentBrowser: Deferred new asset file creation: Chris_Sword_Mat
+[2025.04.18-04.14.46:895][172]LogContentBrowser: Creating deferred item: Chris_Sword_Mat
+[2025.04.18-04.14.46:916][173]LogContentBrowser: Renaming the item being created (Deferred Item: Chris_Sword_Mat).
+[2025.04.18-04.14.48:360][335]LogContentBrowser: Attempting asset rename: Chris_Sword_Mat -> Chris_Sword_Mat
+[2025.04.18-04.14.48:365][335]LogContentBrowser: End creating deferred item Chris_Sword_Mat
+[2025.04.18-04.15.02:107][667]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_CombatSystem/_Enemies/Chris_Sword_Mat.Chris_Sword_Mat
+[2025.04.18-04.15.02:113][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.04.18-04.15.02:114][667]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.04.18-04.15.02:114][667]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.04.18-04.15.02:127][667]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_74
+[2025.04.18-04.15.02:409][667]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.18-04.15.02:410][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.18-04.15.02:410][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.18-04.15.02:410][667]MaterialEditorStats: Shader Count: 0
+[2025.04.18-04.15.02:410][667]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: Shader Count: 5
+[2025.04.18-04.15.02:482][669]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.18-04.15.07:685][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.18-04.15.08:618][171]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.18-04.15.08:667][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.18-04.15.08:685][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.18-04.15.08:701][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.18-04.15.09:811][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.18-04.15.10:861][274]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.18-04.15.10:913][274]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_CombatSystem/_Enemies/Chris_Sword.Chris_Sword
+	Asset Type: Texture2D
+[2025.04.18-04.15.11:138][274]LogMaterial: Warning: [AssetLog] /Engine/Transient.Chris_Sword_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.18-04.15.11:138][274]LogMaterial: Warning: Chris_Sword_Mat: Requesting an invalid TextureIndex! (0 / 1)
+[2025.04.18-04.15.11:139][274]LogMaterial: Warning: [AssetLog] /Engine/Transient.Chris_Sword_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.04.18-04.15.11:198][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.18-04.15.11:217][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.18-04.15.11:234][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.18-04.15.12:665][409]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.15.12:665][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.15.12:788][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-04.15.13:283][436]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.15.13:283][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.15.13:322][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.18-04.15.13:804][472]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.15.13:804][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.15.13:911][472]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.15.13:911][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.15.13:929][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.18-04.15.18:499][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.18-04.15.19:457][814]LogSlate: Window 'Save Content' being destroyed
+[2025.04.18-04.15.19:479][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.15.19:516][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_3dmodels/kobby/kobby_Skeleton] ([1] browsable assets)...
+[2025.04.18-04.15.19:516][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/_3dmodels/kobby/kobby_Skeleton]
+[2025.04.18-04.15.19:519][814]LogSavePackage: Moving output files for package: /Game/_3dmodels/kobby/kobby_Skeleton
+[2025.04.18-04.15.19:520][814]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/kobby_Skeleton2371980A4CE11E1F2E993CBF1D5B5A15.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_3dmodels/kobby/kobby_Skeleton.uasset'
+[2025.04.18-04.15.19:527][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.308 ms (total: 4.82 sec)
+[2025.04.18-04.15.19:563][814]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-04.15.19:563][814]LogContentValidation: Enabled validators:
+[2025.04.18-04.15.19:563][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.15.19:563][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.15.19:563][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.15.19:563][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.15.19:563][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.15.19:563][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.15.19:563][814]AssetCheck: /Game/_3dmodels/kobby/kobby_Skeleton Validating asset
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: ================================================
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Total job queries 500, among them cache hits 142 (28.40%), DDC hits 351 (70.20%), Duplicates 3 (0.60%)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Tracking 355 distinct input hashes that result in 283 distinct outputs (79.72%)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: RAM used: 165.30 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Average time worker was idle: 2769.46 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.06 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Job execution time: average 1.51 s, max 1.73 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Job life time (pending + execution): average 1.54 s, max 1.79
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Shader code size: average 9.28 KiB, min 5.949 KiB, max 11.734 KiB
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.82 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Average processing rate: 0.83 jobs/sec
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Total thread time: 1.377 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Total thread preprocess time: 5.37 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Percentage time preprocessing: 390.00%
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Effective parallelization: 0.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 70.46% of total time (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.26% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.28% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display:                                                  FVelocityPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: === Material stats ===
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Materials Translated:    180
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Material Translation Only: 0.03 s (28%)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: Material Cache Hits: 32 (18%)
+[2025.04.18-04.15.52:525][120]LogShaderCompilers: Display: ================================================
