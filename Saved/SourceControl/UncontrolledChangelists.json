@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/_Levels/AwesomeLevel.umap",
+				"C:/Users/cmach2023/Documents/GitHub/3D-Dungeon-Game/Content/_Levels/ColoLevel.umap",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/_MasterBlueprints/Logan_1megadoor_deviledtraps.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Traps/Trap_Spike.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/TwoRoomDungeons/Olivia_2_SpikePit.uasset",
@@ -40,7 +43,6 @@
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/TH/LCCGJ0AAQKNEMX36DXWT6Z.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Skelly/skelly/cape.uasset",
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/ThreeRoomDungeons/Logan_3door_traproom.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/ThreeRoomDungeons/Logan_3door_triangle.uasset",
 				"C:/Users/landrews2022/Documents/GitHub/3D-Dungeon-Game/Content/_Dungeons/ThreeRoomDungeons/Logan_3doors_bridgestoarena.uasset",
