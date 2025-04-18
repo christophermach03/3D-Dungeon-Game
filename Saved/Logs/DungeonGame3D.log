@@ -6300,3 +6300,60 @@ FPackageName: Skipped package /Game/kobby/belt_Skeleton has a valid, mounted, mo
 [2025.04.18-04.06.42:777][303]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
 [2025.04.18-04.06.42:777][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.04.18-04.06.42:851][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.18-04.07.47:631][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemies/_bp_kobold._bp_kobold
+[2025.04.18-04.07.47:631][ 16]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2025.04.18-04.07.50:039][253]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_3dmodels/kobby/kobby1.kobby1
+[2025.04.18-04.07.50:040][253]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2025.04.18-04.07.50:046][253]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_70:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.18-04.07.53:689][527]LogSlate: Window 'kobby1' being destroyed
+[2025.04.18-04.07.53:693][527]LogSlate: Window 'kobby1' being destroyed
+[2025.04.18-04.07.53:838][527]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.07.53:838][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.07.53:963][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.18-04.08.33:144][947]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/_3dmodels/kobby/kobby1.kobby1
+[2025.04.18-04.08.33:144][947]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_71
+[2025.04.18-04.08.33:150][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.18-04.08.35:539][ 95]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/_3dmodels/kobby/kobby_Skeleton.kobby_Skeleton
+[2025.04.18-04.08.35:539][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_72
+[2025.04.18-04.08.35:544][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.18-04.08.35:731][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_73
+[2025.04.18-04.08.37:559][230]LogDerivedDataCache: C:/Users/ajkwe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.18-04.08.40:153][447]LogSlate: Window 'kobby_Skeleton' being destroyed
+[2025.04.18-04.09.37:127][148]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.10.29:759][477]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.10.32:513][776]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.10.35:738][148]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-04.10.41:218][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.04.18-04.10.42:268][763]LogSlate: Window 'Save Content' being destroyed
+[2025.04.18-04.10.42:284][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.10.42:347][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.18-04.10.42:363][763]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Proper_Ai
+[2025.04.18-04.10.42:363][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Proper_Ai9CC0918741229FC5B6E3D08B3DA5D978.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap'
+[2025.04.18-04.10.42:383][763]LogFileHelpers: Saving map '_Proper_Ai' took 0.075
+[2025.04.18-04.10.42:383][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Enemies/_bp_kobold] ([2] browsable assets)...
+[2025.04.18-04.10.42:393][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Enemies/_bp_kobold._bp_kobold]
+[2025.04.18-04.10.42:393][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemies/_bp_kobold]
+[2025.04.18-04.10.42:399][763]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemies/_bp_kobold
+[2025.04.18-04.10.42:400][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_bp_koboldC279743E42146FBECF7C3E94BA635138.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemies/_bp_kobold.uasset'
+[2025.04.18-04.10.42:401][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_3dmodels/kobby/kobby1] ([1] browsable assets)...
+[2025.04.18-04.10.42:401][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/_3dmodels/kobby/kobby1]
+[2025.04.18-04.10.42:401][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_3dmodels/kobby/kobby1" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_3dmodels/kobby/kobby1.uasset" SILENT=true
+[2025.04.18-04.10.42:430][763]LogSavePackage: Moving output files for package: /Game/_3dmodels/kobby/kobby1
+[2025.04.18-04.10.42:431][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/kobby18566D046442D878DD2436C970198B5BC.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_3dmodels/kobby/kobby1.uasset'
+[2025.04.18-04.10.42:432][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_3dmodels/kobby/kobby_Skeleton] ([1] browsable assets)...
+[2025.04.18-04.10.42:432][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/_3dmodels/kobby/kobby_Skeleton]
+[2025.04.18-04.10.42:436][763]LogSavePackage: Moving output files for package: /Game/_3dmodels/kobby/kobby_Skeleton
+[2025.04.18-04.10.42:436][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/kobby_SkeletonB9A86E0C4E7FFCFAFDA0BFAA3F788F34.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_3dmodels/kobby/kobby_Skeleton.uasset'
+[2025.04.18-04.10.42:443][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.046 ms (total: 4.77 sec)
+[2025.04.18-04.10.42:478][763]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.18-04.10.42:478][763]LogContentValidation: Enabled validators:
+[2025.04.18-04.10.42:478][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.10.42:478][763]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.10.42:478][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.10.42:478][763]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.10.42:478][763]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.10.42:478][763]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.10.42:478][763]AssetCheck: /Game/_CombatSystem/_Proper_Ai Validating asset
+[2025.04.18-04.10.42:479][763]AssetCheck: /Game/_CombatSystem/_Enemies/_bp_kobold Validating asset
+[2025.04.18-04.10.42:479][763]AssetCheck: /Game/_3dmodels/kobby/kobby1 Validating asset
+[2025.04.18-04.10.42:479][763]AssetCheck: /Game/_3dmodels/kobby/kobby_Skeleton Validating asset
