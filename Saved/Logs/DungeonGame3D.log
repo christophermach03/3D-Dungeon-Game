@@ -2672,3 +2672,123 @@ FPackageName: Skipped package /Game/kobby/belt_Skeleton has a valid, mounted, mo
 [2025.04.18-14.51.05:685][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.04.18-14.51.05:687][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2025.04.18-14.51.05:753][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.04.18-14.51.56:057][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.18-14.51.56:059][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.013
+[2025.04.18-14.51.56:059][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Player/_BP_Player] ([2] browsable assets)...
+[2025.04.18-14.51.56:223][ 54]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Player/_BP_Player._BP_Player]
+[2025.04.18-14.51.56:223][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_BP_Player]
+[2025.04.18-14.51.56:242][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Player/_BP_Player_Auto2
+[2025.04.18-14.51.56:243][ 54]LogSavePackage: Moving '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/_BP_Player_Auto2B2E72AE44501A60FCD543DA513E8AE9E.tmp' to '../../../../../../Users/awescott2020/Documents/_ICG/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Player/_BP_Player_Auto2.uasset'
+[2025.04.18-14.51.56:244][ 54]LogFileHelpers: Auto-saving content packages took 0.186
+[2025.04.18-14.53.20:003][439]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-14.53.21:521][614]LogNiagara: Compiling System NiagaraSystem /Niagara/DefaultAssets/Templates/Systems/FountainLightweight.FountainLightweight took 1.503304 sec (time since issued), 1.447952 sec (combined shader worker time).
+[2025.04.18-14.53.24:790][965]LogStreaming: Display: FlushAsyncLoading(649): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-14.53.25:176][965]LogTexture: Display: Building textures: /Niagara/DefaultAssets/Templates/Systems/AttributeReaderTrails.AttributeReaderTrails:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.04.18-14.53.25:850][ 20]LogNiagara: Compiling System NiagaraSystem /Niagara/DefaultAssets/Templates/Systems/AttributeReaderTrails.AttributeReaderTrails took 0.668637 sec (time since issued), 0.576032 sec (combined shader worker time).
+[2025.04.18-14.54.08:361][798]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-14.54.09:899][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.18-14.54.11:112][ 77]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-14.54.11:118][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-14.54.11:151][ 77]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-14.54.11:153][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002913s)
+[2025.04.18-14.54.11:154][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002951s)
+[2025.04.18-14.54.11:171][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-14.54.11:174][ 77]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-14.54.11:175][ 77]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2025.04.18-14.54.11:176][ 77]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-14.54.11:176][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-14.54.11:176][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-14.54.11:176][ 77]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-14.54.11:176][ 77]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-14.54.11:176][ 77]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-14.54.11:178][ 77]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-14.54.11:186][ 77]LogAudioMixer: Display: Using Audio Hardware Device DELL S3422DWG (NVIDIA High Definition Audio)
+[2025.04.18-14.54.11:186][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-14.54.11:186][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-14.54.11:186][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-14.54.11:187][ 77]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.04.18-14.54.11:187][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.04.18-14.54.11:188][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.04.18-14.54.11:188][ 77]LogInit: FAudioDevice initialized with ID 16.
+[2025.04.18-14.54.11:188][ 77]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.04.18-14.54.11:188][ 77]LogAudio: Display: Audio Device (ID: 16) registered with world '_Proper_Ai'.
+[2025.04.18-14.54.11:188][ 77]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.18-14.54.11:191][ 77]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.18-14.54.11:192][ 77]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'belt' with 'belt'
+[2025.04.18-14.54.11:194][ 77]LogChaosCloth: Warning: Object '_bp_kobold|belt' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.18-14.54.11:195][ 77]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.18-14.54.11:199][ 77]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.18-10.54.11
+[2025.04.18-14.54.11:200][ 77]LogWorld: Bringing up level for play took: 0.008133
+[2025.04.18-14.54.11:202][ 77]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.04.18-14.54.11:205][ 77]PIE: Server logged in
+[2025.04.18-14.54.11:206][ 77]PIE: Play in editor total start time 0.088 seconds.
+[2025.04.18-14.54.14:192][375]LogBlueprintUserMessages: [_bp_worg_C_1] HitDefault
+[2025.04.18-14.54.14:192][375]LogBlueprintUserMessages: [_bp_worg_C_1] Damage Response:
+[2025.04.18-14.54.15:125][443]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-14.54.15:125][443]LogBlueprintUserMessages: [_bp_eyebat_C_1] HitDefault
+[2025.04.18-14.54.15:125][443]LogBlueprintUserMessages: [_bp_eyebat_C_1] Damage Response:
+[2025.04.18-14.54.16:196][535]LogBlueprintUserMessages: [_bp_skelly_C_1] HitDefault
+[2025.04.18-14.54.16:196][535]LogBlueprintUserMessages: [_bp_skelly_C_1] Damage Response:
+[2025.04.18-14.54.16:657][587]LogBlueprintUserMessages: [_bp_kobold_C_1] HitDefault
+[2025.04.18-14.54.16:657][587]LogBlueprintUserMessages: [_bp_kobold_C_1] Damage Response:
+[2025.04.18-14.54.19:114][878]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-14.54.19:160][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-14.54.19:160][879]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-14.54.19:161][879]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-14.54.19:162][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-14.54.19:165][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-14.54.19:169][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-14.54.19:185][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-14.54.19:186][879]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.04.18-14.54.19:186][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.18-14.54.19:188][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.04.18-14.54.19:191][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-14.54.19:193][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.18-14.54.19:263][881]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: ================================================
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Total job queries 568, among them cache hits 121 (21.30%), DDC hits 426 (75.00%), Duplicates 4 (0.70%)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Tracking 443 distinct input hashes that result in 357 distinct outputs (80.59%)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: RAM used: 192.78 KiB of 6.40 GiB budget. Usage: 0.00%
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Shaders Compiled: 17
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Jobs assigned 17, completed 17 (100%)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Average time worker was idle: 390.34 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.23 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 1.32
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Shader code size: average 8.447 KiB, min 1.187 KiB, max 14.789 KiB
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.29 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Average processing rate: 3.96 jobs/sec
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Total thread time: 2.428 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Total thread preprocess time: 6.796 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Percentage time preprocessing: 279.84%
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Effective parallelization: 0.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.22 sec, max 0.24 sec, min 0.19 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.19 sec, max 0.22 sec, min 0.16 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.01% of total time (compiled    3 times, average 0.19 sec, max 0.22 sec, min 0.16 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.84% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.80% of total time (compiled    2 times, average 0.22 sec, max 0.24 sec, min 0.19 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                                               FNiagaraShader - 16.56% of total time (compiled    8 times, average 0.05 sec, max 0.13 sec, min 0.03 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.32% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: === Material stats ===
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Materials Translated:    193
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Material Translation Only: 0.04 s (44%)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: Material Cache Hits: 39 (20%)
+[2025.04.18-14.55.20:948][714]LogShaderCompilers: Display: ================================================
