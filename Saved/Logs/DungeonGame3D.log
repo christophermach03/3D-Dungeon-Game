@@ -4641,3 +4641,310 @@ FPackageName: Skipped package /Game/kobby/belt_Skeleton has a valid, mounted, mo
 [2025.04.18-03.05.12:123][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
 [2025.04.18-03.05.12:160][428]LogPlayLevel: Display: Destroying online subsystem :Context_62
 [2025.04.18-03.05.12:358][444]Cmd: SELECT NONE
+[2025.04.18-03.05.40:393][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-03.05.40:408][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto8
+[2025.04.18-03.05.40:408][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Proper_Ai_Auto8E90A4C414AF63E7978D9E1B72553D0A8.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Proper_Ai_Auto8.umap'
+[2025.04.18-03.05.40:410][763]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.034
+[2025.04.18-03.05.40:410][763]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.04.18-03.05.40:411][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Player/_BP_Player] ([2] browsable assets)...
+[2025.04.18-03.05.40:539][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Player/_BP_Player._BP_Player]
+[2025.04.18-03.05.40:539][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_BP_Player]
+[2025.04.18-03.05.40:560][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Player/_BP_Player_Auto8
+[2025.04.18-03.05.40:560][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Player_Auto8E0EBBD7B45D09AF5D17878AEE3FB2732.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Player/_BP_Player_Auto8.uasset'
+[2025.04.18-03.05.40:561][763]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Player/_Weapons/_BP_Item] ([2] browsable assets)...
+[2025.04.18-03.05.40:595][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Player/_Weapons/_BP_Item._BP_Item]
+[2025.04.18-03.05.40:595][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_Weapons/_BP_Item]
+[2025.04.18-03.05.40:601][763]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Player/_Weapons/_BP_Item_Auto8
+[2025.04.18-03.05.40:601][763]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Item_Auto8EB80B2F54113EE443EBD27BA6C318ED1.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Player/_Weapons/_BP_Item_Auto8.uasset'
+[2025.04.18-03.05.40:602][763]LogFileHelpers: Auto-saving content packages took 0.192
+[2025.04.18-03.06.47:543][180]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.18-03.06.47:543][180]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.06.47:543][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.06.47:746][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.18-03.08.04:858][479]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.04.18-03.08.06:374][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemies/_bp_kobold._bp_kobold
+[2025.04.18-03.08.06:374][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.04.18-03.08.06:709][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.04.18-03.08.33:553][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemies/BP_Enemy_Master.BP_Enemy_Master
+[2025.04.18-03.08.33:553][685]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.04.18-03.08.37:558][ 53]LogDerivedDataCache: C:/Users/ajkwe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.18-03.08.55:056][828]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.08.55:056][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.08.55:275][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.18-03.09.02:049][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.04.18-03.09.02:089][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.04.18-03.09.36:463][861]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack._BTT_Default_Attack
+[2025.04.18-03.09.36:463][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.04.18-03.09.53:186][819]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.04.18-03.09.53:190][819]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.09.55:113][ 47]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.09.55:147][ 48]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.09.55:572][ 97]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.09.55:609][ 98]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.09.55:618][ 99]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.09.57:897][368]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.10.05:566][903]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.04.18-03.10.05:583][904]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.04.18-03.10.05:599][905]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.04.18-03.10.05:617][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.04.18-03.10.05:635][907]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.04.18-03.10.05:653][908]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.04.18-03.10.23:773][ 22]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.12.48:687][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.18-03.12.51:753][873]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.18-03.12.51:753][873]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.12.51:753][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.12.51:856][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-03.13.00:041][393]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:074][394]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:083][395]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:093][396]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:105][397]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:118][398]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:132][399]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:144][400]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:158][401]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:172][402]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:185][403]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.13.00:198][404]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.07:569][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.14.09:248][909]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.04.18-03.14.09:259][909]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.04.18-03.14.09:263][909]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.04.18-03.14.09:280][911]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.04.18-03.14.12:746][204]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> _MainMenu
+[2025.04.18-03.14.12:753][204]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.04.18-03.14.15:540][445]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu
+[2025.04.18-03.14.15:541][445]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.04.18-03.14.15:557][445]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.04.18-03.14.15:561][445]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.04.18-03.14.15:931][445]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.04.18-03.14.15:932][445]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.14.17:694][594]LogSlate: Window '_MainMenu' being destroyed
+[2025.04.18-03.15.40:738][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.18-03.15.40:743][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_CombatSystem/_Proper_Ai' took 0.043
+[2025.04.18-03.15.40:747][581]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack] ([2] browsable assets)...
+[2025.04.18-03.15.40:747][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack]
+[2025.04.18-03.15.40:755][581]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack_Auto9
+[2025.04.18-03.15.40:755][581]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BTT_Default_Attack_Auto9578DE798402974A4541EAD96109FA115.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack_Auto9.uasset'
+[2025.04.18-03.15.40:756][581]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.15.40:760][581]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-03.15.40:760][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.15.40:765][581]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Screens/_MainMenu_Auto9
+[2025.04.18-03.15.40:765][581]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu_Auto9F1DFA0DD4B9CB21C250EE19FE228CEEC.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Autosaves/Game/_Screens/_MainMenu_Auto9.uasset'
+[2025.04.18-03.15.40:765][581]LogFileHelpers: Auto-saving content packages took 0.022
+[2025.04.18-03.19.46:194][105]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/kobby/belt.belt has no skeleton. This needs to fixed before an animation can be set
+[2025.04.18-03.19.57:531][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.04.18-03.20.18:385][423]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.20.18:390][423]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_3dmodels/kobby/kobby_Anim_metarig_002_metarigAction_001.kobby_Anim_metarig_002_metarigAction_001 (Required Memory Estimate: 0.94 MB)
+[2025.04.18-03.20.18:400][423]LogAnimationCompression: Display: Storing compressed animation data for /Game/_3dmodels/kobby/kobby_Anim_metarig_002_metarigAction_001.kobby_Anim_metarig_002_metarigAction_001, at AnimationSequence/cf741e732fcf790611754960e3e30e7428670ae0
+[2025.04.18-03.20.21:594][755]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.20.27:984][486]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.20.30:207][743]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.20.30:210][743]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_3dmodels/kobby/kobby_Anim_metarig_002_metarig_001Action.kobby_Anim_metarig_002_metarig_001Action (Required Memory Estimate: 1.43 MB)
+[2025.04.18-03.20.30:223][743]LogAnimationCompression: Display: Storing compressed animation data for /Game/_3dmodels/kobby/kobby_Anim_metarig_002_metarig_001Action.kobby_Anim_metarig_002_metarig_001Action, at AnimationSequence/e2874f58f203c96944b9ad210e8aee3707feb100
+[2025.04.18-03.20.32:013][932]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.20.34:156][179]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.20.34:162][179]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_3dmodels/doggy/_BITEANIM._BITEANIM (Required Memory Estimate: 0.36 MB)
+[2025.04.18-03.20.34:170][179]LogAnimationCompression: Display: Storing compressed animation data for /Game/_3dmodels/doggy/_BITEANIM._BITEANIM, at AnimationSequence/f83c81ff2468f2fd43000d29d0ddcb1c6f9c40e9
+[2025.04.18-03.20.35:625][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.18-03.20.36:303][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.20.36:343][408]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack] ([2] browsable assets)...
+[2025.04.18-03.20.36:343][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack]
+[2025.04.18-03.20.36:351][408]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack
+[2025.04.18-03.20.36:351][408]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BTT_Default_AttackF230E7484BE0C10051D19CA495DBC4FA.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack.uasset'
+[2025.04.18-03.20.36:359][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.688 ms (total: 3.07 sec)
+[2025.04.18-03.20.36:388][408]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.20.36:388][408]LogContentValidation: Enabled validators:
+[2025.04.18-03.20.36:388][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.20.36:388][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.20.36:388][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.20.36:388][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.20.36:388][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.20.36:388][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.20.36:388][408]AssetCheck: /Game/_CombatSystem/_Enemy/_Eye_Bat/_EB_ai/_Tasks/_BTT_Default_Attack Validating asset
+[2025.04.18-03.21.28:632][872]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.21.28:644][872]LogPlayLevel: [PlayLevel] Compiling _MainMenu before play...
+[2025.04.18-03.21.28:708][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.18-03.21.28:712][872]LogPlayLevel: PlayLevel: Blueprint regeneration took 68 ms (1 blueprints)
+[2025.04.18-03.21.28:712][872]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-03.21.28:715][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002612s)
+[2025.04.18-03.21.28:715][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002642s)
+[2025.04.18-03.21.28:733][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.18-03.21.28:735][872]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-03.21.28:736][872]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2025.04.18-03.21.28:737][872]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.21.28:737][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.21.28:737][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.21.28:737][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.21.28:737][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.21.28:737][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.21.28:739][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.21.28:757][872]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.21.28:757][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.21.28:757][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.21.28:757][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.21.28:757][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.04.18-03.21.28:757][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.04.18-03.21.28:759][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.04.18-03.21.28:759][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.04.18-03.21.28:759][872]LogInit: FAudioDevice initialized with ID 31.
+[2025.04.18-03.21.28:759][872]LogAudio: Display: Audio Device (ID: 31) registered with world '_Proper_Ai'.
+[2025.04.18-03.21.28:759][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.04.18-03.21.28:761][872]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.18-03.21.28:762][872]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'belt' with 'belt'
+[2025.04.18-03.21.28:765][872]LogChaosCloth: Warning: Object '_bp_kobold|belt' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.18-03.21.28:766][872]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.18-03.21.28:770][872]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.17-23.21.28
+[2025.04.18-03.21.28:771][872]LogWorld: Bringing up level for play took: 0.009142
+[2025.04.18-03.21.28:772][872]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.04.18-03.21.28:780][872]PIE: Server logged in
+[2025.04.18-03.21.28:780][872]PIE: Play in editor total start time 0.137 seconds.
+[2025.04.18-03.21.31:906][132]LogCharacterMovement: _BP_Player_C_0 is stuck and failed to move! Velocity: X=-50.63 Y=22.78 Z=0.00 Location: X=1391.13 Y=-1379.15 Z=95.55 Normal: X=0.70 Y=-0.70 Z=-0.16 PenetrationDepth:2.024 Actor:_bp_worg_C_1 Component:CharacterMesh0 BoneName:spine_012_c91d8d215ec6a03541fab6564cf7de63 (0 other events since notify)
+[2025.04.18-03.21.32:643][173]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-03.21.32:643][173]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-03.21.32:643][173]LogBlueprintUserMessages: [_bp_worg_C_1] HitDefault
+[2025.04.18-03.21.32:643][173]LogBlueprintUserMessages: [_bp_worg_C_1] Damage Response:
+[2025.04.18-03.21.33:053][194]LogCharacterMovement: _bp_skelly_C_1 is stuck and failed to move! Velocity: X=-9.20 Y=-442.18 Z=0.00 Location: X=1308.20 Y=-1099.19 Z=97.65 Normal: X=-0.96 Y=0.28 Z=0.00 PenetrationDepth:2.344 Actor:_bp_eyebat_C_1 Component:CharacterMesh0 BoneName:wing3_r (0 other events since notify)
+[2025.04.18-03.21.34:636][326]LogBlueprintUserMessages: [_bp_eyebat_C_1] HitDefault
+[2025.04.18-03.21.34:636][326]LogBlueprintUserMessages: [_bp_eyebat_C_1] Damage Response:
+[2025.04.18-03.21.34:636][326]LogBlueprintUserMessages: [_bp_skelly_C_1] HitDefault
+[2025.04.18-03.21.34:636][326]LogBlueprintUserMessages: [_bp_skelly_C_1] Damage Response:
+[2025.04.18-03.21.35:626][420]LogBlueprintUserMessages: [_bp_skelly_C_1] FLINT AND STEEL
+[2025.04.18-03.21.36:642][521]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-03.21.36:642][521]LogBlueprintUserMessages: [_BP_Player_C_0] YOU DIED!!!
+[2025.04.18-03.21.38:915][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.21.38:915][744]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-03.21.38:916][744]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.21.38:916][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.21.38:919][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.21.38:922][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.21.38:934][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.21.38:934][744]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.04.18-03.21.38:934][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.04.18-03.21.38:936][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2025.04.18-03.21.38:942][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.18-03.21.38:980][745]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.04.18-03.21.41:673][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.21.41:686][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.21.41:735][  2]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-03.21.41:737][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002508s)
+[2025.04.18-03.21.41:737][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002542s)
+[2025.04.18-03.21.41:748][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.18-03.21.41:750][  2]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-03.21.41:751][  2]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2025.04.18-03.21.41:752][  2]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.21.41:752][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.21.41:752][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.21.41:752][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.21.41:752][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.21.41:752][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.21.41:753][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.21.41:770][  2]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.21.41:770][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.21.41:770][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.21.41:770][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.21.41:771][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.04.18-03.21.41:771][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.04.18-03.21.41:773][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.04.18-03.21.41:773][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.04.18-03.21.41:773][  2]LogInit: FAudioDevice initialized with ID 32.
+[2025.04.18-03.21.41:773][  2]LogAudio: Display: Audio Device (ID: 32) registered with world '_Proper_Ai'.
+[2025.04.18-03.21.41:773][  2]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.04.18-03.21.41:775][  2]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.18-03.21.41:776][  2]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'belt' with 'belt'
+[2025.04.18-03.21.41:779][  2]LogChaosCloth: Warning: Object '_bp_kobold|belt' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.18-03.21.41:779][  2]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.18-03.21.41:783][  2]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.17-23.21.41
+[2025.04.18-03.21.41:784][  2]LogWorld: Bringing up level for play took: 0.008565
+[2025.04.18-03.21.41:787][  2]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2025.04.18-03.21.41:793][  2]PIE: Server logged in
+[2025.04.18-03.21.41:794][  2]PIE: Play in editor total start time 0.108 seconds.
+[2025.04.18-03.21.45:484][315]LogCharacterMovement: _BP_Player_C_0 is stuck and failed to move! Velocity: X=-569.80 Y=187.95 Z=0.00 Location: X=2084.02 Y=-89.08 Z=95.52 Normal: X=0.63 Y=0.75 Z=-0.19 PenetrationDepth:0.195 Actor:_bp_skelly_C_1 Component:Sword BoneName:None (0 other events since notify)
+[2025.04.18-03.21.45:497][316]LogBlueprintUserMessages: [_bp_skelly_C_1] FLINT AND STEEL
+[2025.04.18-03.21.45:577][322]LogBlueprintUserMessages: [_bp_skelly_C_1] HitDefault
+[2025.04.18-03.21.45:577][322]LogBlueprintUserMessages: [_bp_skelly_C_1] Damage Response:
+[2025.04.18-03.21.46:683][392]LogShaderCompilers: Display: ================================================
+[2025.04.18-03.21.46:683][392]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Total job queries 485, among them cache hits 129 (26.60%), DDC hits 351 (72.37%), Duplicates 3 (0.62%)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Tracking 353 distinct input hashes that result in 281 distinct outputs (79.60%)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: RAM used: 164.65 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Average time worker was idle: 2235.55 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 1.73 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 1.79
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Shader code size: average 11.59 KiB, min 11.445 KiB, max 11.734 KiB
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.36 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Average processing rate: 0.59 jobs/sec
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Total thread time: 0.97 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Total thread preprocess time: 5.212 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Percentage time preprocessing: 537.22%
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Effective parallelization: 0.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display:                                                  FVelocityPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: === Material stats ===
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Materials Translated:    173
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Material Translation Only: 0.03 s (28%)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: Material Cache Hits: 32 (18%)
+[2025.04.18-03.21.46:684][392]LogShaderCompilers: Display: ================================================
+[2025.04.18-03.21.47:664][455]LogBlueprintUserMessages: [_bp_worg_C_1] HitDefault
+[2025.04.18-03.21.47:664][455]LogBlueprintUserMessages: [_bp_worg_C_1] Damage Response:
+[2025.04.18-03.21.47:682][456]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-03.21.49:681][583]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-03.21.49:681][583]LogBlueprintUserMessages: [_bp_kobold_C_1] HitDefault
+[2025.04.18-03.21.49:681][583]LogBlueprintUserMessages: [_bp_kobold_C_1] Damage Response:
+[2025.04.18-03.21.50:932][656]LogBlueprintUserMessages: [_bp_eyebat_C_1] HitDefault
+[2025.04.18-03.21.50:932][656]LogBlueprintUserMessages: [_bp_eyebat_C_1] Damage Response:
+[2025.04.18-03.21.53:435][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.21.53:435][882]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-03.21.53:435][882]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.21.53:436][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.21.53:439][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.21.53:441][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.21.53:451][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.21.53:451][882]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.04.18-03.21.53:451][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.04.18-03.21.53:453][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.04.18-03.21.53:458][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.18-03.21.53:536][884]LogPlayLevel: Display: Destroying online subsystem :Context_81
