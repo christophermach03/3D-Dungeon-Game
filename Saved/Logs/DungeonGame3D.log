@@ -4948,3 +4948,1355 @@ FPackageName: Skipped package /Game/kobby/belt_Skeleton has a valid, mounted, mo
 [2025.04.18-03.21.53:453][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
 [2025.04.18-03.21.53:458][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
 [2025.04.18-03.21.53:536][884]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2025.04.18-03.23.47:161][516]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.23.47:161][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.23.47:238][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.18-03.29.17:510][855]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.29.17:520][855]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\ajkwe\OneDrive\Desktop\Calligula\calligula.ttf)
+[2025.04.18-03.29.23:958][855]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.04.18-03.29.23:972][855]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.04.18-03.29.23:973][855]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.04.18-03.29.23:992][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.29.23:997][856]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.29.23:997][856]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.29.23:998][856]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.29.23:998][856]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.29.24:002][856]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.29.33:195][420]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.29.33:212][420]LogInterchangeEngine: [Pending] Importing
+[2025.04.18-03.29.33:212][420]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/ajkwe/OneDrive/Desktop/Dungeon_Background.jpg]
+[2025.04.18-03.29.33:887][422]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.29.33:890][423]LogInterchangeImport: JPEG file [C:/Users/ajkwe/OneDrive/Desktop/Dungeon_Background.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.04.18-03.29.34:231][424]LogTexture: Display: Building textures: /Game/_Screens/Dungeon_Background.Dungeon_Background (BGRA8, 1800x1013 x1x1x1) (Required Memory Estimate: 63.601471 MB), EncodeSpeed: Fast
+[2025.04.18-03.29.34:554][424]LogInterchangeEngine: Display: Interchange import completed [C:/Users/ajkwe/OneDrive/Desktop/Dungeon_Background.jpg]
+[2025.04.18-03.29.34:559][424]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.18-03.29.34:559][424]LogInterchangeEngine: [Success] Import Done
+[2025.04.18-03.30.26:186][516]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.18-03.30.31:173][108]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18411559662965888687
+[2025.04.18-03.30.31:173][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.30.31:178][109]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.30.31:178][109]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.30.31:179][109]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.30.31:179][109]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.30.31:184][109]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.30.31:234][114]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 6
+[2025.04.18-03.30.31:235][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.30.31:239][115]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.30.31:240][115]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.30.31:241][115]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.30.31:241][115]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.30.31:246][115]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.30.31:429][136]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 22
+[2025.04.18-03.30.31:429][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.30.31:434][137]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.30.31:434][137]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.30.31:435][137]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.30.31:436][137]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.30.31:440][137]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.30.31:589][154]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18
+[2025.04.18-03.30.31:590][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.30.31:595][155]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.30.31:595][155]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.30.31:596][155]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.30.31:597][155]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.30.31:601][155]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.31.30:824][123]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.31.36:791][831]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.32.38:659][167]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.32.52:350][749]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.33.03:360][ 54]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.33.08:927][710]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.33.24:003][491]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.33.32:478][495]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.34.08:829][741]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.18-03.34.26:619][764]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.04.18-03.35.16:509][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.04.18-03.35.16:822][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-03.35.17:494][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.35.17:529][705]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.35.17:531][705]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-03.35.17:531][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.35.17:531][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-03.35.17:537][705]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-03.35.17:537][705]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu01001AF94BDDD9B5E307F5AAF6B9F164.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-03.35.17:547][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.537 ms (total: 3.12 sec)
+[2025.04.18-03.35.17:577][705]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.35.17:577][705]LogContentValidation: Enabled validators:
+[2025.04.18-03.35.17:577][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.35.17:577][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.35.17:577][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.35.17:577][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.35.17:577][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.35.17:577][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.35.17:577][705]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-03.35.32:784][286]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.18-03.35.35:244][442]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.35.36:777][442]LogSlate: Window 'New Level' being destroyed
+[2025.04.18-03.35.39:152][442]LogSlate: Window 'Save Content' being destroyed
+[2025.04.18-03.35.39:160][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.35.39:225][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.35.39:242][442]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Proper_Ai
+[2025.04.18-03.35.39:242][442]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Proper_Ai5EB0D65442EBD2ABD8CA3FA56DA120C4.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap'
+[2025.04.18-03.35.39:258][442]LogFileHelpers: Saving map '_Proper_Ai' took 0.072
+[2025.04.18-03.35.39:264][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.269 ms (total: 3.23 sec)
+[2025.04.18-03.35.39:345][442]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.35.39:346][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.35.39:378][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.35.39:383][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.18-03.35.39:386][442]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.04.18-03.35.39:388][442]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.18-03.35.39:445][442]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.35.39:445][442]LogContentValidation: Enabled validators:
+[2025.04.18-03.35.39:445][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.35.39:445][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.35.39:445][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.35.39:445][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.35.39:445][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.35.39:445][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.35.39:864][443]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 237.16 ms. Compile time 234.47 ms, link time 2.66 ms.
+[2025.04.18-03.35.39:932][443]LogD3D12RHI: Creating RTPSO with 49 shaders (0 cached, 49 new) took 452.49 ms. Compile time 444.10 ms, link time 8.37 ms.
+[2025.04.18-03.35.55:057][878]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.18-03.35.55:181][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.18-03.35.55:188][878]LogSavePackage: Moving output files for package: /Game/_Screens/_Main_Menu
+[2025.04.18-03.35.55:188][878]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Main_Menu688036904427086BDB85D39F486DFD68.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Main_Menu.umap'
+[2025.04.18-03.35.55:215][878]LogFileHelpers: Saving map '_Main_Menu' took 0.129
+[2025.04.18-03.35.55:215][878]Cmd: MAP LOAD FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.18-03.35.55:275][878]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.35.55:275][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.35.55:287][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.35.55:288][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.18-03.35.55:291][878]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.35.55:292][878]LogAudio: Display: Audio Device (ID: 1) registered with world '_Main_Menu'.
+[2025.04.18-03.35.55:292][878]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.35.55:300][878]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.18-03.35.55:310][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.18-03.35.55:325][878]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.18-03.35.55:325][878]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2025.04.18-03.35.55:377][878]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.35.55:377][878]LogContentValidation: Enabled validators:
+[2025.04.18-03.35.55:377][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.35.55:377][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.35.55:377][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.35.55:377][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.35.55:377][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.35.55:377][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.35.55:377][878]AssetCheck: /Game/_Screens/_Main_Menu Validating asset
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.28:159][315]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.36.31:987][315]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.18-03.36.31:995][315]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.18-03.36.32:000][315]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.18-03.36.32:007][316]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.18-03.36.38:619][100]LogContentBrowser: Attempting asset rename: NewBlueprint -> _MenuGamemode
+[2025.04.18-03.36.38:624][100]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.18-03.36.52:074][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.36.52:144][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.36.52:154][648]LogSavePackage: Moving output files for package: /Game/_Screens/_Main_Menu
+[2025.04.18-03.36.52:154][648]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Main_MenuEAD47AFC4F3CACA835564BAC1FE2936F.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Main_Menu.umap'
+[2025.04.18-03.36.52:170][648]LogFileHelpers: Saving map '_Main_Menu' took 0.065
+[2025.04.18-03.36.52:177][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.118 ms (total: 3.33 sec)
+[2025.04.18-03.36.52:205][648]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.36.52:205][648]LogContentValidation: Enabled validators:
+[2025.04.18-03.36.52:205][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.36.52:205][648]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.36.52:205][648]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.36.52:205][648]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.36.52:205][648]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.36.52:205][648]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.36.52:205][648]AssetCheck: /Game/_Screens/_Main_Menu Validating asset
+[2025.04.18-03.37.27:231][ 29]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Screens/_Main_Menu._Main_Menu:PersistentLevel._Main_Menu
+[2025.04.18-03.37.27:231][ 29]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.36:980][121]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.37.44:714][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.18-03.37.45:521][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.37.45:582][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.37.45:592][ 95]LogSavePackage: Moving output files for package: /Game/_Screens/_Main_Menu
+[2025.04.18-03.37.45:592][ 95]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Main_Menu852A07C3418FAA8A1BEDC9A8CB9208BC.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Main_Menu.umap'
+[2025.04.18-03.37.45:610][ 95]LogFileHelpers: Saving map '_Main_Menu' took 0.068
+[2025.04.18-03.37.45:616][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.237 ms (total: 3.43 sec)
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: Enabled validators:
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.37.45:649][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.37.45:649][ 95]AssetCheck: /Game/_Screens/_Main_Menu Validating asset
+[2025.04.18-03.37.47:051][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.37.47:061][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.37.47:084][262]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.37.47:085][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000989s)
+[2025.04.18-03.37.47:085][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.001023s)
+[2025.04.18-03.37.47:099][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-03.37.47:101][262]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.37.47:102][262]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2025.04.18-03.37.47:102][262]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.37.47:102][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.37.47:102][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.37.47:102][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.37.47:102][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.37.47:102][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.37.47:105][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.37.47:121][262]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.37.47:122][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.37.47:122][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.37.47:122][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.37.47:122][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.04.18-03.37.47:122][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.04.18-03.37.47:124][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.04.18-03.37.47:124][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.04.18-03.37.47:124][262]LogInit: FAudioDevice initialized with ID 33.
+[2025.04.18-03.37.47:124][262]LogAudio: Display: Audio Device (ID: 33) registered with world '_Main_Menu'.
+[2025.04.18-03.37.47:124][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.04.18-03.37.47:126][262]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.37.47:127][262]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.37.47
+[2025.04.18-03.37.47:127][262]LogWorld: Bringing up level for play took: 0.000299
+[2025.04.18-03.37.47:128][262]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2025.04.18-03.37.47:131][262]PIE: Server logged in
+[2025.04.18-03.37.47:131][262]PIE: Play in editor total start time 0.07 seconds.
+[2025.04.18-03.37.52:025][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.37.52:025][838]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.37.52:025][838]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.37.52:025][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.37.52:028][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.37.52:030][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.37.52:045][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.37.52:045][838]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.04.18-03.37.52:045][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.04.18-03.37.52:047][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.04.18-03.37.52:051][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-03.37.52:094][841]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2025.04.18-03.37.59:845][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.18-03.38.00:462][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.38.00:492][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.38.00:494][588]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-03.38.00:494][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.38.00:494][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-03.38.00:500][588]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-03.38.00:501][588]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu5761E12C4A1064112070048F537648A5.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-03.38.00:508][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.184 ms (total: 3.47 sec)
+[2025.04.18-03.38.00:531][588]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.38.00:531][588]LogContentValidation: Enabled validators:
+[2025.04.18-03.38.00:531][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.38.00:531][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.38.00:531][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.38.00:531][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.38.00:531][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.38.00:531][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.38.00:532][588]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-03.38.01:484][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.38.01:495][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.38.01:496][701]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.38.01:496][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000749s)
+[2025.04.18-03.38.01:496][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.000773s)
+[2025.04.18-03.38.01:511][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.18-03.38.01:516][701]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.38.01:517][701]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2025.04.18-03.38.01:517][701]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.38.01:517][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.38.01:517][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.38.01:517][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.38.01:517][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.38.01:517][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.38.01:519][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.38.01:535][701]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.38.01:535][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.38.01:535][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.38.01:535][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.38.01:535][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.04.18-03.38.01:535][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.04.18-03.38.01:537][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.04.18-03.38.01:537][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.04.18-03.38.01:537][701]LogInit: FAudioDevice initialized with ID 34.
+[2025.04.18-03.38.01:537][701]LogAudio: Display: Audio Device (ID: 34) registered with world '_Main_Menu'.
+[2025.04.18-03.38.01:537][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.18-03.38.01:539][701]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.38.01:540][701]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.38.01
+[2025.04.18-03.38.01:540][701]LogWorld: Bringing up level for play took: 0.000284
+[2025.04.18-03.38.01:541][701]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.04.18-03.38.01:542][701]PIE: Server logged in
+[2025.04.18-03.38.01:544][701]PIE: Play in editor total start time 0.049 seconds.
+[2025.04.18-03.38.04:015][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.38.04:015][983]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.38.04:015][983]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.38.04:015][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.38.04:018][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.38.04:020][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.38.04:033][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.38.04:033][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.18-03.38.04:033][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.18-03.38.04:036][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.18-03.38.04:039][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.38.04:041][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-03.38.04:087][987]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.04.18-03.38.07:026][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.38.07:662][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.38.07:683][339]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.38.07:684][339]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-03.38.07:684][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.38.07:684][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-03.38.07:691][339]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-03.38.07:693][339]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu5D01EF0C424788000F656F9716BD2CD5.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-03.38.07:701][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.891 ms (total: 3.51 sec)
+[2025.04.18-03.38.07:731][339]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.38.07:731][339]LogContentValidation: Enabled validators:
+[2025.04.18-03.38.07:731][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.38.07:731][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.38.07:731][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.38.07:731][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.38.07:731][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.38.07:731][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.38.07:731][339]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-03.38.08:867][472]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.38.08:879][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.38.08:879][472]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.38.08:880][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000777s)
+[2025.04.18-03.38.08:880][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.000802s)
+[2025.04.18-03.38.08:893][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-03.38.08:898][472]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.38.08:899][472]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2025.04.18-03.38.08:899][472]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.38.08:899][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.38.08:899][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.38.08:899][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.38.08:899][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.38.08:899][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.38.08:901][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.38.08:918][472]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.38.08:918][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.38.08:918][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.38.08:918][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.38.08:918][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.04.18-03.38.08:918][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.04.18-03.38.08:920][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.04.18-03.38.08:920][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.04.18-03.38.08:920][472]LogInit: FAudioDevice initialized with ID 35.
+[2025.04.18-03.38.08:920][472]LogAudio: Display: Audio Device (ID: 35) registered with world '_Main_Menu'.
+[2025.04.18-03.38.08:920][472]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.18-03.38.08:922][472]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.38.08:922][472]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.38.08
+[2025.04.18-03.38.08:922][472]LogWorld: Bringing up level for play took: 0.000375
+[2025.04.18-03.38.08:924][472]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2025.04.18-03.38.08:926][472]PIE: Server logged in
+[2025.04.18-03.38.08:927][472]PIE: Play in editor total start time 0.048 seconds.
+[2025.04.18-03.38.13:295][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.38.13:295][987]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.38.13:295][987]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.38.13:295][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.38.13:297][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.38.13:300][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.38.13:308][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.38.13:308][987]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.18-03.38.13:308][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.18-03.38.13:311][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.18-03.38.13:314][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.38.13:315][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-03.38.13:373][990]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2025.04.18-03.39.33:402][637]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.18-03.39.33:408][637]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.18-03.39.33:414][638]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.18-03.39.35:459][884]LogContentBrowser: Attempting asset rename: NewFolder -> _Music
+[2025.04.18-03.39.35:459][884]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.18-03.39.43:719][160]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\ajkwe\OneDrive\Desktop\Game_Over.wav)
+[2025.04.18-03.39.43:729][160]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave Game_Over...
+[2025.04.18-03.39.43:780][160]LogAudioDerivedData: Display: Game_Over compressed to 9.05% (from 3,273KB to 296KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.18-03.39.43:780][160]LogAudio: Display: Chunk stats for (SoundWave /Game/_Screens/_Music/Game_Over.Game_Over: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261849 bytes, ChunkN=41407)
+[2025.04.18-03.39.43:788][160]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave Game_Over...
+[2025.04.18-03.39.43:837][161]LogAudioDerivedData: Display: Game_Over compressed to 9.05% (from 3,273KB to 296KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.18-03.39.43:837][161]LogAudio: Display: Chunk stats for (SoundWave /Game/_Screens/_Music/Game_Over.Game_Over: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=3, Chunk0=28 bytes, Chunk1=261849 bytes, ChunkN=41407)
+[2025.04.18-03.39.45:833][180]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\ajkwe\OneDrive\Desktop\Dungeon_Main_Menu.mp3)
+[2025.04.18-03.39.51:440][180]LogSlate: Window 'Message' being destroyed
+[2025.04.18-03.39.51:448][180]Message dialog closed, result: Yes, title: Message, text: Use the selected Sound Wave 'Game_Over' in the Content Browser as a template for sound(s) being imported?
+[2025.04.18-03.39.51:462][180]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave Dungeon_Main_Menu...
+[2025.04.18-03.39.51:676][180]LogAudioDerivedData: Display: Dungeon_Main_Menu compressed to 10.73% (from 14,125KB to 1,516KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.18-03.39.51:678][180]LogAudio: Display: Chunk stats for (SoundWave /Game/_Screens/_Music/Dungeon_Main_Menu.Dungeon_Main_Menu: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=7, Chunk0=28 bytes, Chunk1=261739 bytes, ChunkN=262143)
+[2025.04.18-03.39.51:682][180]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave Dungeon_Main_Menu...
+[2025.04.18-03.39.51:894][200]LogAudioDerivedData: Display: Dungeon_Main_Menu compressed to 10.73% (from 14,125KB to 1,516KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.04.18-03.39.51:896][200]LogAudio: Display: Chunk stats for (SoundWave /Game/_Screens/_Music/Dungeon_Main_Menu.Dungeon_Main_Menu: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=7, Chunk0=28 bytes, Chunk1=261739 bytes, ChunkN=262143)
+[2025.04.18-03.40.21:610][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.18-03.40.22:300][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.40.22:375][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.18-03.40.22:384][163]LogSavePackage: Moving output files for package: /Game/_Screens/_Main_Menu
+[2025.04.18-03.40.22:384][163]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Main_MenuE0C8C6E04782D8C831E9F6B8AC9C75C2.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Main_Menu.umap'
+[2025.04.18-03.40.22:402][163]LogFileHelpers: Saving map '_Main_Menu' took 0.072
+[2025.04.18-03.40.22:409][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.623 ms (total: 3.62 sec)
+[2025.04.18-03.40.22:444][163]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.40.22:444][163]LogContentValidation: Enabled validators:
+[2025.04.18-03.40.22:444][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.40.22:445][163]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.40.22:445][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.40.22:445][163]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.40.22:445][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.40.22:445][163]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.40.22:445][163]AssetCheck: /Game/_Screens/_Main_Menu Validating asset
+[2025.04.18-03.40.23:498][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.40.23:507][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.40.23:507][289]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.40.23:509][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000802s)
+[2025.04.18-03.40.23:509][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.000824s)
+[2025.04.18-03.40.23:532][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.18-03.40.23:534][289]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.40.23:535][289]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2025.04.18-03.40.23:536][289]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.40.23:536][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.40.23:536][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.40.23:536][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.40.23:536][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.40.23:536][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.40.23:538][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.40.23:556][289]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.40.23:556][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.40.23:556][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.40.23:556][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.40.23:556][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.04.18-03.40.23:556][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.04.18-03.40.23:559][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.04.18-03.40.23:559][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.04.18-03.40.23:559][289]LogInit: FAudioDevice initialized with ID 36.
+[2025.04.18-03.40.23:559][289]LogAudio: Display: Audio Device (ID: 36) registered with world '_Main_Menu'.
+[2025.04.18-03.40.23:559][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.04.18-03.40.23:561][289]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.40.23:562][289]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.40.23
+[2025.04.18-03.40.23:562][289]LogWorld: Bringing up level for play took: 0.000379
+[2025.04.18-03.40.23:563][289]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2025.04.18-03.40.23:564][289]LogScript: Warning: Script Msg: The widget '_MainMenu_C_0' was already added to the screen.
+[2025.04.18-03.40.23:564][289]LogScript: Warning: Script Msg called by: _Main_Menu_C /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu:PersistentLevel._Main_Menu_C_1
+[2025.04.18-03.40.23:564][289]PIE: Server logged in
+[2025.04.18-03.40.23:566][289]PIE: Play in editor total start time 0.058 seconds.
+[2025.04.18-03.40.26:525][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.40.26:525][634]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.40.26:525][634]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.40.26:525][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.40.26:528][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.40.26:530][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.40.26:552][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.40.26:552][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.04.18-03.40.26:553][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.18-03.40.26:554][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.04.18-03.40.26:557][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.40.26:558][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.18-03.40.26:613][636]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2025.04.18-03.41.29:004][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-03.41.29:735][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.41.29:765][521]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.41.29:767][521]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-03.41.29:767][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.41.29:767][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-03.41.29:774][521]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-03.41.29:774][521]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenuE2CBD2354BE8DB803E3156B38AEBEF83.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-03.41.29:782][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.777 ms (total: 3.67 sec)
+[2025.04.18-03.41.29:814][521]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.41.29:814][521]LogContentValidation: Enabled validators:
+[2025.04.18-03.41.29:814][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.41.29:814][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.41.29:814][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.41.29:814][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.41.29:814][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.41.29:814][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.41.29:814][521]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-03.42.28:011][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.18-03.42.28:528][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.42.28:559][223]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.42.28:560][223]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-03.42.28:560][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.42.28:560][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-03.42.28:568][223]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-03.42.28:569][223]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu444551234676361A033C4781FEA9BCE6.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-03.42.28:576][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.873 ms (total: 3.71 sec)
+[2025.04.18-03.42.28:607][223]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.42.28:607][223]LogContentValidation: Enabled validators:
+[2025.04.18-03.42.28:607][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.42.28:607][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.42.28:607][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.42.28:607][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.42.28:607][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.42.28:607][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.42.28:607][223]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-03.42.41:786][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.42.41:797][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.42.41:797][802]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.42.41:798][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000831s)
+[2025.04.18-03.42.41:798][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.000856s)
+[2025.04.18-03.42.41:817][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-03.42.41:820][802]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.42.41:821][802]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2025.04.18-03.42.41:822][802]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.42.41:822][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.42.41:822][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.42.41:822][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.42.41:822][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.42.41:822][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.42.41:824][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.42.41:841][802]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.42.41:841][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.42.41:841][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.42.41:841][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.42.41:842][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.04.18-03.42.41:842][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.04.18-03.42.41:843][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.04.18-03.42.41:843][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.04.18-03.42.41:843][802]LogInit: FAudioDevice initialized with ID 37.
+[2025.04.18-03.42.41:843][802]LogAudio: Display: Audio Device (ID: 37) registered with world '_Main_Menu'.
+[2025.04.18-03.42.41:843][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.04.18-03.42.41:845][802]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.42.41:845][802]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.42.41
+[2025.04.18-03.42.41:845][802]LogWorld: Bringing up level for play took: 0.000310
+[2025.04.18-03.42.41:846][802]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.04.18-03.42.41:848][802]LogScript: Warning: Script Msg: The widget '_MainMenu_C_0' was already added to the screen.
+[2025.04.18-03.42.41:848][802]LogScript: Warning: Script Msg called by: _Main_Menu_C /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu:PersistentLevel._Main_Menu_C_1
+[2025.04.18-03.42.41:849][802]PIE: Server logged in
+[2025.04.18-03.42.41:850][802]PIE: Play in editor total start time 0.052 seconds.
+[2025.04.18-03.42.44:275][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.42.44:275][ 82]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.42.44:275][ 82]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.42.44:275][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.42.44:277][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.42.44:280][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.42.44:292][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.42.44:292][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.04.18-03.42.44:292][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.18-03.42.44:293][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.04.18-03.42.44:296][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.42.44:298][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.18-03.42.44:340][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.04.18-03.42.47:515][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.18-03.42.48:790][457]LogSlate: Window 'Save Content' being destroyed
+[2025.04.18-03.42.48:808][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.42.48:845][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Player/_Weapons/_BP_Item] ([2] browsable assets)...
+[2025.04.18-03.42.48:845][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_Weapons/_BP_Item]
+[2025.04.18-03.42.48:847][457]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_Weapons/_BP_Item
+[2025.04.18-03.42.48:848][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Item876E82D9481103EF8F8C1799E3AA7986.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_Weapons/_BP_Item.uasset'
+[2025.04.18-03.42.48:850][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_CombatSystem/_Player/_BP_Player] ([2] browsable assets)...
+[2025.04.18-03.42.48:850][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_BP_Player]
+[2025.04.18-03.42.48:870][457]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_BP_Player
+[2025.04.18-03.42.48:871][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Player1479CD6142304AEC0E847293DDAB8A4D.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_BP_Player.uasset'
+[2025.04.18-03.42.48:872][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Screens/_MenuGamemode] ([2] browsable assets)...
+[2025.04.18-03.42.48:872][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MenuGamemode]
+[2025.04.18-03.42.48:873][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MenuGamemode" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MenuGamemode.uasset" SILENT=true
+[2025.04.18-03.42.48:876][457]LogSavePackage: Moving output files for package: /Game/_Screens/_MenuGamemode
+[2025.04.18-03.42.48:876][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MenuGamemode41D1AC944A2AA2E12F5DAE92C6B9AB9C.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MenuGamemode.uasset'
+[2025.04.18-03.42.48:879][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Screens/calligula] ([1] browsable assets)...
+[2025.04.18-03.42.48:879][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/calligula]
+[2025.04.18-03.42.48:879][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/calligula" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/calligula.uasset" SILENT=true
+[2025.04.18-03.42.48:880][457]LogSavePackage: Moving output files for package: /Game/_Screens/calligula
+[2025.04.18-03.42.48:881][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/calligula69F27607449D34FFDEA9D2A49C02A22A.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/calligula.uasset'
+[2025.04.18-03.42.48:882][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Screens/calligula_Font] ([1] browsable assets)...
+[2025.04.18-03.42.48:882][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/calligula_Font]
+[2025.04.18-03.42.48:882][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/calligula_Font" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/calligula_Font.uasset" SILENT=true
+[2025.04.18-03.42.48:884][457]LogSavePackage: Moving output files for package: /Game/_Screens/calligula_Font
+[2025.04.18-03.42.48:884][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/calligula_FontE887AEE44B0B389C88A786A7F92420E9.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/calligula_Font.uasset'
+[2025.04.18-03.42.48:885][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Screens/Dungeon_Background] ([1] browsable assets)...
+[2025.04.18-03.42.48:886][457]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Screens/Dungeon_Background.Dungeon_Background]
+[2025.04.18-03.42.48:886][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/Dungeon_Background]
+[2025.04.18-03.42.48:891][457]LogSavePackage: Moving output files for package: /Game/_Screens/Dungeon_Background
+[2025.04.18-03.42.48:891][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Dungeon_Background3A4DF1AF45499445413E389DBED73420.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/Dungeon_Background.uasset'
+[2025.04.18-03.42.48:894][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Screens/_Music/Dungeon_Main_Menu] ([1] browsable assets)...
+[2025.04.18-03.42.48:906][457]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/_Screens/_Music/Dungeon_Main_Menu.Dungeon_Main_Menu]
+[2025.04.18-03.42.48:906][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Music/Dungeon_Main_Menu]
+[2025.04.18-03.42.48:933][457]LogSavePackage: Moving output files for package: /Game/_Screens/_Music/Dungeon_Main_Menu
+[2025.04.18-03.42.48:933][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Dungeon_Main_Menu33E5EA0B4BFD84BCE8C43784E300BAD9.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Music/Dungeon_Main_Menu.uasset'
+[2025.04.18-03.42.48:935][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Screens/_Music/Game_Over] ([1] browsable assets)...
+[2025.04.18-03.42.48:939][457]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/_Screens/_Music/Game_Over.Game_Over]
+[2025.04.18-03.42.48:939][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Music/Game_Over]
+[2025.04.18-03.42.48:939][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_Music/Game_Over" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Music/Game_Over.uasset" SILENT=true
+[2025.04.18-03.42.48:948][457]LogSavePackage: Moving output files for package: /Game/_Screens/_Music/Game_Over
+[2025.04.18-03.42.48:948][457]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/Game_Over2D04D8D14808F2B288BD6FB8F8C17147.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Music/Game_Over.uasset'
+[2025.04.18-03.42.48:956][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.010 ms (total: 3.86 sec)
+[2025.04.18-03.42.49:009][458]LogContentValidation: Display: Starting to validate 8 assets
+[2025.04.18-03.42.49:009][458]LogContentValidation: Enabled validators:
+[2025.04.18-03.42.49:009][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.42.49:009][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.42.49:009][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.42.49:009][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.42.49:009][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.42.49:009][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.42.49:009][458]AssetCheck: /Game/_CombatSystem/_Player/_Weapons/_BP_Item Validating asset
+[2025.04.18-03.42.49:009][458]AssetCheck: /Game/_CombatSystem/_Player/_BP_Player Validating asset
+[2025.04.18-03.42.49:009][458]AssetCheck: /Game/_Screens/_MenuGamemode Validating asset
+[2025.04.18-03.42.49:009][458]AssetCheck: /Game/_Screens/calligula Validating asset
+[2025.04.18-03.42.49:010][458]AssetCheck: /Game/_Screens/calligula_Font Validating asset
+[2025.04.18-03.42.49:010][458]AssetCheck: /Game/_Screens/Dungeon_Background Validating asset
+[2025.04.18-03.42.49:010][458]AssetCheck: /Game/_Screens/_Music/Dungeon_Main_Menu Validating asset
+[2025.04.18-03.42.49:010][458]AssetCheck: /Game/_Screens/_Music/Game_Over Validating asset
+[2025.04.18-03.47.21:497][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.47.21:497][474]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.47.21:498][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001050s)
+[2025.04.18-03.47.21:498][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.001078s)
+[2025.04.18-03.47.21:578][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.18-03.47.21:583][474]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.47.21:584][474]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2025.04.18-03.47.21:584][474]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.47.21:584][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.47.21:584][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.47.21:584][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.47.21:584][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.47.21:584][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.47.21:587][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.47.21:603][474]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.47.21:603][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.47.21:603][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.47.21:603][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.47.21:604][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.04.18-03.47.21:604][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.04.18-03.47.21:605][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.04.18-03.47.21:605][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.04.18-03.47.21:605][474]LogInit: FAudioDevice initialized with ID 38.
+[2025.04.18-03.47.21:605][474]LogAudio: Display: Audio Device (ID: 38) registered with world '_Main_Menu'.
+[2025.04.18-03.47.21:605][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.04.18-03.47.21:608][474]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.47.21:608][474]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.47.21
+[2025.04.18-03.47.21:608][474]LogWorld: Bringing up level for play took: 0.000322
+[2025.04.18-03.47.21:610][474]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2025.04.18-03.47.21:611][474]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.18-03.47.21:611][474]LogScript: Warning: Script Msg: The widget '_MainMenu_C_0' was already added to the screen.
+[2025.04.18-03.47.21:611][474]LogScript: Warning: Script Msg called by: _Main_Menu_C /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu:PersistentLevel._Main_Menu_C_1
+[2025.04.18-03.47.21:612][474]PIE: Server logged in
+[2025.04.18-03.47.21:613][474]PIE: Play in editor total start time 0.116 seconds.
+[2025.04.18-03.47.24:785][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.47.24:785][809]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.47.24:785][809]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.47.24:785][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.47.24:788][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.47.24:790][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.47.24:801][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.47.24:801][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.04.18-03.47.24:801][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.04.18-03.47.24:802][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.04.18-03.47.24:806][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.47.24:808][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.18-03.47.24:854][811]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2025.04.18-03.47.28:093][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-03.47.28:093][196]LogPlayLevel: Creating play world package: /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.47.28:094][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000848s)
+[2025.04.18-03.47.28:094][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Main_Menu._Main_Menu to /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu (0.000874s)
+[2025.04.18-03.47.28:115][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.18-03.47.28:117][196]LogChaosDD: Creating Chaos Debug Draw Scene for world _Main_Menu
+[2025.04.18-03.47.28:118][196]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2025.04.18-03.47.28:119][196]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.47.28:119][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.47.28:119][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.47.28:119][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.47.28:119][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.47.28:119][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.47.28:120][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.47.28:137][196]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.47.28:138][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.47.28:138][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.47.28:138][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.47.28:138][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.04.18-03.47.28:138][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.04.18-03.47.28:140][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.04.18-03.47.28:140][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.04.18-03.47.28:140][196]LogInit: FAudioDevice initialized with ID 39.
+[2025.04.18-03.47.28:140][196]LogAudio: Display: Audio Device (ID: 39) registered with world '_Main_Menu'.
+[2025.04.18-03.47.28:140][196]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.18-03.47.28:142][196]LogLoad: Game class is '_MenuGamemode_C'
+[2025.04.18-03.47.28:142][196]LogWorld: Bringing World /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu up for play (max tick rate 0) at 2025.04.17-23.47.28
+[2025.04.18-03.47.28:142][196]LogWorld: Bringing up level for play took: 0.000328
+[2025.04.18-03.47.28:144][196]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2025.04.18-03.47.28:144][196]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.18-03.47.28:145][196]LogScript: Warning: Script Msg: The widget '_MainMenu_C_0' was already added to the screen.
+[2025.04.18-03.47.28:145][196]LogScript: Warning: Script Msg called by: _Main_Menu_C /Game/_Screens/UEDPIE_0__Main_Menu._Main_Menu:PersistentLevel._Main_Menu_C_1
+[2025.04.18-03.47.28:145][196]PIE: Server logged in
+[2025.04.18-03.47.28:145][196]PIE: Play in editor total start time 0.053 seconds.
+[2025.04.18-03.47.29:415][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.47.29:415][306]LogWorld: BeginTearingDown for /Game/_Screens/UEDPIE_0__Main_Menu
+[2025.04.18-03.47.29:415][306]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.47.29:415][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.47.29:417][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.47.29:420][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.47.29:430][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.47.29:430][306]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.18-03.47.29:430][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.18-03.47.29:432][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.18-03.47.29:437][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.18-03.47.29:475][309]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.04.18-03.47.40:351][582]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.18-03.47.40:357][582]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.18-03.47.40:365][583]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.18-03.47.43:284][934]LogContentBrowser: Attempting asset rename: NewFolder -> _Death
+[2025.04.18-03.47.43:284][934]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.51:933][909]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.47.53:234][909]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.04.18-03.47.53:244][909]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.04.18-03.47.53:254][909]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.04.18-03.47.53:293][911]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.04.18-03.47.56:517][296]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> _Death
+[2025.04.18-03.47.56:522][296]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.04.18-03.47.57:512][409]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Screens/_Death/_Death._Death
+[2025.04.18-03.47.57:512][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.04.18-03.47.57:518][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.04.18-03.48.26:358][806]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.48.26:800][852]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.48.33:208][608]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.48.47:776][311]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.48.53:705][ 17]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 93863
+[2025.04.18-03.48.53:706][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.53:711][ 18]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.53:711][ 18]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.53:712][ 18]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.53:713][ 18]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.53:718][ 18]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.53:759][ 22]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 5
+[2025.04.18-03.48.53:760][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.53:764][ 23]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.53:765][ 23]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.53:766][ 23]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.53:766][ 23]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.53:770][ 23]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.53:805][ 26]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 4
+[2025.04.18-03.48.53:805][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.53:809][ 27]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.53:810][ 27]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.53:811][ 27]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.53:812][ 27]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.53:816][ 27]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.53:842][ 29]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3
+[2025.04.18-03.48.53:843][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.53:847][ 30]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.53:848][ 30]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.53:848][ 30]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.53:849][ 30]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.53:854][ 30]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.53:879][ 32]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3
+[2025.04.18-03.48.53:879][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.53:884][ 33]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.53:884][ 33]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.53:885][ 33]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.53:886][ 33]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.53:891][ 33]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.54:307][ 82]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 50
+[2025.04.18-03.48.54:307][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.54:312][ 83]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.54:312][ 83]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.54:312][ 83]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.54:312][ 83]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.54:318][ 83]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.54:376][ 89]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 7
+[2025.04.18-03.48.54:376][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.54:381][ 90]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.54:381][ 90]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.54:382][ 90]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.54:382][ 90]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.54:387][ 90]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.48.54:669][123]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 34
+[2025.04.18-03.48.54:670][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.48.54:675][124]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.18-03.48.54:675][124]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.18-03.48.54:676][124]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.18-03.48.54:676][124]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.18-03.48.54:681][124]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.18-03.49.43:994][748]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.49.48:411][267]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.49.58:704][428]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.04.18-03.50.16:327][433]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.50.24:956][455]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.18-03.50.53:517][816]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.18-03.51.57:056][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:057][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:058][377]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:125][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:148][378]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:219][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:243][380]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:252][381]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:314][382]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:348][383]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.51.57:409][384]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.04.18-03.52.06:646][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.18-03.52.07:158][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.52.07:194][405]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_Death/_Death] ([2] browsable assets)...
+[2025.04.18-03.52.07:196][405]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_Death/_Death._Death]
+[2025.04.18-03.52.07:196][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Death/_Death]
+[2025.04.18-03.52.07:196][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_Death/_Death" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset" SILENT=true
+[2025.04.18-03.52.07:202][405]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death
+[2025.04.18-03.52.07:202][405]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death5A1866BE4BB260C3DEC78A8342C9CEF3.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset'
+[2025.04.18-03.52.07:212][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.972 ms (total: 3.91 sec)
+[2025.04.18-03.52.07:235][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.52.07:236][405]LogContentValidation: Enabled validators:
+[2025.04.18-03.52.07:236][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.52.07:236][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.52.07:236][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.52.07:236][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.52.07:236][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.52.07:236][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.52.07:236][405]AssetCheck: /Game/_Screens/_Death/_Death Validating asset
+[2025.04.18-03.52.15:567][209]LogSlate: Window 'New Level' being destroyed
+[2025.04.18-03.52.15:674][209]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.52.15:674][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.52.15:727][209]LogWorld: UWorld::CleanupWorld for _Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.52.15:727][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.52.15:738][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.52.15:741][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.18-03.52.15:749][209]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.04.18-03.52.15:752][209]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.18-03.52.15:790][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.18-03.52.29:155][671]LogSlate: Window 'Save Level As' being destroyed
+[2025.04.18-03.52.29:270][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.18-03.52.29:277][671]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-03.52.29:277][671]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death_Screen49B82B364460D1C48580C7AD7ED0E938.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death_Screen.umap'
+[2025.04.18-03.52.29:305][671]LogFileHelpers: Saving map '_Death_Screen' took 0.127
+[2025.04.18-03.52.29:305][671]Cmd: MAP LOAD FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death_Screen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.18-03.52.29:332][671]LogWorld: UWorld::CleanupWorld for _Death_Screen, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.52.29:332][671]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.52.29:341][671]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-03.52.29:342][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.18-03.52.29:344][671]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-03.52.29:345][671]LogAudio: Display: Audio Device (ID: 1) registered with world '_Death_Screen'.
+[2025.04.18-03.52.29:345][671]LogChaosDD: Creating Chaos Debug Draw Scene for world _Death_Screen
+[2025.04.18-03.52.29:364][671]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.18-03.52.29:376][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.52.29:393][671]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.18-03.52.29:393][671]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2025.04.18-03.52.29:440][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.52.29:440][671]LogContentValidation: Enabled validators:
+[2025.04.18-03.52.29:440][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.52.29:440][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.52.29:440][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.52.29:440][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.52.29:440][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.52.29:440][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.52.29:440][671]AssetCheck: /Game/_Screens/_Death/_Death_Screen Validating asset
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:567][573]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.52.37:638][573]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.18-03.52.39:026][573]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.18-03.52.39:034][573]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.04.18-03.52.39:042][573]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.04.18-03.52.39:050][574]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.04.18-03.52.43:084][ 58]LogContentBrowser: Attempting asset rename: NewBlueprint -> _Death_
+[2025.04.18-03.52.43:090][ 58]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.04.18-03.53.03:296][443]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Screens/_Death/_Death_Screen._Death_Screen:PersistentLevel._Death_Screen
+[2025.04.18-03.53.03:296][443]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_TheWall.Jared_2Door_TheWall_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_LakeAcuity.Jared_2Door_LakeAcuity_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/TwoRoomDungeons/Jared_2Door_DuelOfTheFates.Jared_2Door_DuelOfTheFates_C has parent /Game/_Dungeons/_TwoRoomMaster._TwoRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_WaterPlatform.Olivia_1_WaterPlatform_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Olivia_1_LavaPit.Olivia_1_LavaPit_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_shelflife.Logan_1door_shelflife_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_mimicroom.Logan_1door_mimicroom_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_highground.Logan_1door_highground_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Logan_1door_forgottennook.Logan_1door_forgottennook_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_Mineshafted.Jared_1Door_Mineshafted_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/Jared_1Door_LavaRising.Jared_1Door_LavaRising_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.21:247][519]LogEditorClassViewer: Warning: Class /Game/_Dungeons/OneRoomDungeons/I_Annabelle_1_Pillars.I_Annabelle_1_Pillars_C has parent /Game/_Dungeons/_OneRoomMaster._OneRoomMaster_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.18-03.57.33:802][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.57.33:911][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.18-03.57.33:921][804]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-03.57.33:921][804]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death_ScreenC9750DC24D7B1532ED7E28832C79125E.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death_Screen.umap'
+[2025.04.18-03.57.33:935][804]LogFileHelpers: Saving map '_Death_Screen' took 0.105
+[2025.04.18-03.57.33:942][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.541 ms (total: 4.05 sec)
+[2025.04.18-03.57.33:962][804]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.57.33:962][804]LogContentValidation: Enabled validators:
+[2025.04.18-03.57.33:962][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.57.33:962][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.57.33:962][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.57.33:962][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.57.33:962][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.57.33:962][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.57.33:962][804]AssetCheck: /Game/_Screens/_Death/_Death_Screen Validating asset
+[2025.04.18-03.57.35:132][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-03.57.35:142][944]LogPlayLevel: [PlayLevel] Compiling _Death_Screen before play...
+[2025.04.18-03.57.35:165][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-03.57.35:167][944]LogPlayLevel: PlayLevel: Blueprint regeneration took 23 ms (1 blueprints)
+[2025.04.18-03.57.35:167][944]LogPlayLevel: Creating play world package: /Game/_Screens/_Death/UEDPIE_0__Death_Screen
+[2025.04.18-03.57.35:168][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000916s)
+[2025.04.18-03.57.35:168][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Screens/_Death/_Death_Screen._Death_Screen to /Game/_Screens/_Death/UEDPIE_0__Death_Screen._Death_Screen (0.000947s)
+[2025.04.18-03.57.35:181][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.57.35:182][944]LogChaosDD: Creating Chaos Debug Draw Scene for world _Death_Screen
+[2025.04.18-03.57.35:183][944]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2025.04.18-03.57.35:184][944]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-03.57.35:184][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-03.57.35:184][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-03.57.35:184][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-03.57.35:184][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-03.57.35:184][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-03.57.35:185][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-03.57.35:203][944]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-03.57.35:204][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-03.57.35:204][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-03.57.35:204][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-03.57.35:204][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.04.18-03.57.35:204][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.04.18-03.57.35:206][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.04.18-03.57.35:206][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.04.18-03.57.35:206][944]LogInit: FAudioDevice initialized with ID 40.
+[2025.04.18-03.57.35:206][944]LogAudio: Display: Audio Device (ID: 40) registered with world '_Death_Screen'.
+[2025.04.18-03.57.35:206][944]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.04.18-03.57.35:208][944]LogLoad: Game class is '_Death__C'
+[2025.04.18-03.57.35:208][944]LogWorld: Bringing World /Game/_Screens/_Death/UEDPIE_0__Death_Screen._Death_Screen up for play (max tick rate 0) at 2025.04.17-23.57.35
+[2025.04.18-03.57.35:209][944]LogWorld: Bringing up level for play took: 0.000305
+[2025.04.18-03.57.35:209][944]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2025.04.18-03.57.35:212][944]PIE: Server logged in
+[2025.04.18-03.57.35:213][944]PIE: Play in editor total start time 0.071 seconds.
+[2025.04.18-03.57.37:915][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.57.37:915][256]LogWorld: BeginTearingDown for /Game/_Screens/_Death/UEDPIE_0__Death_Screen
+[2025.04.18-03.57.37:915][256]LogWorld: UWorld::CleanupWorld for _Death_Screen, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-03.57.37:915][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.57.37:918][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-03.57.37:920][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-03.57.37:937][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-03.57.37:937][256]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.04.18-03.57.37:937][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.04.18-03.57.37:939][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.04.18-03.57.37:944][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.18-03.57.37:985][259]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2025.04.18-03.57.42:570][771]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.04.18-03.57.48:992][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-03.57.49:668][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.57.49:697][468]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_Death/_Death] ([2] browsable assets)...
+[2025.04.18-03.57.49:699][468]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_Death/_Death._Death]
+[2025.04.18-03.57.49:699][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Death/_Death]
+[2025.04.18-03.57.49:699][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_Death/_Death" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset" SILENT=true
+[2025.04.18-03.57.49:706][468]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death
+[2025.04.18-03.57.49:707][468]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death8370712D48F24B8AE908A0B77BA85A0B.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset'
+[2025.04.18-03.57.49:714][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.825 ms (total: 4.10 sec)
+[2025.04.18-03.57.49:746][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.57.49:746][468]LogContentValidation: Enabled validators:
+[2025.04.18-03.57.49:746][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.57.49:746][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.57.49:746][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.57.49:746][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.57.49:746][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.57.49:746][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.57.49:747][468]AssetCheck: /Game/_Screens/_Death/_Death Validating asset
+[2025.04.18-03.57.53:198][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-03.57.54:662][874]LogSlate: Window 'Save Content' being destroyed
+[2025.04.18-03.57.54:681][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.57.54:712][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Screens/_Death/_Death_] ([2] browsable assets)...
+[2025.04.18-03.57.54:712][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Death/_Death_]
+[2025.04.18-03.57.54:712][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_Death/_Death_" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death_.uasset" SILENT=true
+[2025.04.18-03.57.54:717][874]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death_
+[2025.04.18-03.57.54:717][874]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death_64FE10384D0C7B94031F1AA1B91AF420.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death_.uasset'
+[2025.04.18-03.57.54:720][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-03.57.54:720][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-03.57.54:720][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-03.57.54:726][874]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-03.57.54:726][874]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu648B11CB4342360F305BED9E9E3F4C9D.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-03.57.54:732][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.977 ms (total: 4.15 sec)
+[2025.04.18-03.57.54:772][875]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.18-03.57.54:772][875]LogContentValidation: Enabled validators:
+[2025.04.18-03.57.54:772][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.57.54:772][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.57.54:772][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.57.54:772][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.57.54:772][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.57.54:772][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.57.54:772][875]AssetCheck: /Game/_Screens/_Death/_Death_ Validating asset
+[2025.04.18-03.57.54:772][875]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-03.59.03:863][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.18-03.59.04:580][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-03.59.04:647][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.18-03.59.04:656][337]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-03.59.04:657][337]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death_Screen5C802B7447FE2DCE383C2CA01D85CBAB.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death_Screen.umap'
+[2025.04.18-03.59.04:673][337]LogFileHelpers: Saving map '_Death_Screen' took 0.064
+[2025.04.18-03.59.04:679][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.095 ms (total: 4.25 sec)
+[2025.04.18-03.59.04:707][337]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-03.59.04:707][337]LogContentValidation: Enabled validators:
+[2025.04.18-03.59.04:707][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-03.59.04:707][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-03.59.04:707][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-03.59.04:707][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-03.59.04:707][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-03.59.04:707][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-03.59.04:707][337]AssetCheck: /Game/_Screens/_Death/_Death_Screen Validating asset
+[2025.04.18-03.59.06:511][552]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.04.18-03.59.06:538][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.04.18-04.01.06:627][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.18-04.01.07:367][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.01.07:388][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_Death/_Death] ([2] browsable assets)...
+[2025.04.18-04.01.07:389][  8]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_Death/_Death._Death]
+[2025.04.18-04.01.07:389][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Death/_Death]
+[2025.04.18-04.01.07:389][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_Death/_Death" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset" SILENT=true
+[2025.04.18-04.01.07:397][  8]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death
+[2025.04.18-04.01.07:398][  8]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_Death3493E5B041972E7EBA5D438BC634E7EE.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset'
+[2025.04.18-04.01.07:406][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.500 ms (total: 4.29 sec)
+[2025.04.18-04.01.07:436][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-04.01.07:436][  8]LogContentValidation: Enabled validators:
+[2025.04.18-04.01.07:436][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.01.07:436][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.01.07:436][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.01.07:436][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.01.07:436][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.01.07:436][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.01.07:436][  8]AssetCheck: /Game/_Screens/_Death/_Death Validating asset
+[2025.04.18-04.01.19:985][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-04.01.19:989][497]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-04.01.20:012][497]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-04.01.20:017][497]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_CombatSystem/_Proper_Ai._Proper_Ai
+[2025.04.18-04.01.20:017][497]Cmd: MAP LOAD FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Proper_Ai.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.18-04.01.20:133][497]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.01.20:133][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.01.20:172][497]LogWorld: UWorld::CleanupWorld for _Death_Screen, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.01.20:172][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.01.20:184][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-04.01.20:186][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.18-04.01.20:193][497]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.01.20:193][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.01.20:205][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.18-04.01.20:259][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.18-04.01.20:280][497]LogAudio: Display: Audio Device (ID: 1) registered with world '_Proper_Ai'.
+[2025.04.18-04.01.20:280][497]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-04.01.20:327][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.18-04.01.20:343][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-04.01.20:361][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.18-04.01.20:361][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2025.04.18-04.01.20:397][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.18-04.01.28:411][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_CombatSystem/_Player/_BP_Player._BP_Player
+[2025.04.18-04.01.28:411][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.04.18-04.02.12:608][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.18-04.02.13:304][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.02.13:340][917]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Player/_BP_Player] ([2] browsable assets)...
+[2025.04.18-04.02.13:397][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Player/_BP_Player._BP_Player]
+[2025.04.18-04.02.13:397][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_BP_Player]
+[2025.04.18-04.02.13:417][917]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_BP_Player
+[2025.04.18-04.02.13:418][917]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Player4D0C030F497B65F430871198E793B2FC.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_BP_Player.uasset'
+[2025.04.18-04.02.13:427][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.944 ms (total: 4.41 sec)
+[2025.04.18-04.02.13:466][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-04.02.13:466][917]LogContentValidation: Enabled validators:
+[2025.04.18-04.02.13:466][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.02.13:466][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.02.13:466][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.02.13:466][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.02.13:466][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.02.13:466][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.02.13:466][917]AssetCheck: /Game/_CombatSystem/_Player/_BP_Player Validating asset
+[2025.04.18-04.02.16:564][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-04.02.16:565][176]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-04.02.16:567][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002397s)
+[2025.04.18-04.02.16:567][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002422s)
+[2025.04.18-04.02.16:580][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-04.02.16:584][176]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-04.02.16:585][176]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2025.04.18-04.02.16:586][176]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-04.02.16:586][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-04.02.16:586][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-04.02.16:586][176]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-04.02.16:586][176]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-04.02.16:586][176]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-04.02.16:588][176]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-04.02.16:605][176]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-04.02.16:605][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-04.02.16:605][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-04.02.16:605][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-04.02.16:606][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.04.18-04.02.16:606][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.04.18-04.02.16:607][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.04.18-04.02.16:608][176]LogInit: FAudioDevice initialized with ID 41.
+[2025.04.18-04.02.16:608][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.04.18-04.02.16:608][176]LogAudio: Display: Audio Device (ID: 41) registered with world '_Proper_Ai'.
+[2025.04.18-04.02.16:608][176]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.04.18-04.02.16:609][176]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.18-04.02.16:611][176]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'belt' with 'belt'
+[2025.04.18-04.02.16:613][176]LogChaosCloth: Warning: Object '_bp_kobold|belt' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.18-04.02.16:614][176]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.18-04.02.16:618][176]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.18-00.02.16
+[2025.04.18-04.02.16:619][176]LogWorld: Bringing up level for play took: 0.008773
+[2025.04.18-04.02.16:621][176]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2025.04.18-04.02.16:628][176]PIE: Server logged in
+[2025.04.18-04.02.16:629][176]PIE: Play in editor total start time 0.065 seconds.
+[2025.04.18-04.02.20:199][466]LogCharacterMovement: _bp_skelly_C_1 is stuck and failed to move! Velocity: X=310.81 Y=-406.06 Z=0.00 Location: X=1564.47 Y=-803.03 Z=97.65 Normal: X=-0.80 Y=-0.60 Z=-0.00 PenetrationDepth:2.043 Actor:_bp_eyebat_C_1 Component:CharacterMesh0 BoneName:wing2_r (0 other events since notify)
+[2025.04.18-04.02.20:567][487]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-04.02.20:567][487]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-04.02.20:567][487]LogBlueprintUserMessages: [_bp_worg_C_1] HitDefault
+[2025.04.18-04.02.20:567][487]LogBlueprintUserMessages: [_bp_worg_C_1] Damage Response:
+[2025.04.18-04.02.20:970][508]LogBlueprintUserMessages: [_bp_skelly_C_1] FLINT AND STEEL
+[2025.04.18-04.02.22:557][635]LogBlueprintUserMessages: [_bp_eyebat_C_1] HitDefault
+[2025.04.18-04.02.22:557][635]LogBlueprintUserMessages: [_bp_eyebat_C_1] Damage Response:
+[2025.04.18-04.02.22:557][635]LogBlueprintUserMessages: [_bp_skelly_C_1] HitDefault
+[2025.04.18-04.02.22:557][635]LogBlueprintUserMessages: [_bp_skelly_C_1] Damage Response:
+[2025.04.18-04.02.22:558][635]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-04.02.24:284][803]LogBlueprintUserMessages: [_bp_skelly_C_1] FLINT AND STEEL
+[2025.04.18-04.02.25:483][917]LogCharacterMovement: _bp_kobold_C_1 is stuck and failed to move! Velocity: X=351.96 Y=-870.64 Z=0.00 Location: X=1547.04 Y=-967.55 Z=96.37 Normal: X=-0.80 Y=0.15 Z=-0.58 PenetrationDepth:12.391 Actor:_BP_Player_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.04.18-04.02.26:561][ 29]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/_Screens/_Death/_Death_Screen"
+[2025.04.18-04.02.26:561][ 29]LogNet: Browse: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-04.02.26:561][ 29]LogLoad: LoadMap: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-04.02.26:561][ 29]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-04.02.26:563][ 29]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.02.26:563][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.02.26:604][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-04.02.26:606][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.18-04.02.26:609][ 29]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-04.02.26:623][ 29]LogAudio: Display: Audio Device (ID: 41) registered with world '_Death_Screen'.
+[2025.04.18-04.02.26:623][ 29]LogChaosDD: Creating Chaos Debug Draw Scene for world _Death_Screen
+[2025.04.18-04.02.26:624][ 29]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2025.04.18-04.02.26:624][ 29]LogLoad: Game class is '_Death__C'
+[2025.04.18-04.02.26:625][ 29]LogWorld: Bringing World /Game/_Screens/_Death/UEDPIE_0__Death_Screen._Death_Screen up for play (max tick rate 0) at 2025.04.18-00.02.26
+[2025.04.18-04.02.26:625][ 29]LogWorld: Bringing up level for play took: 0.000493
+[2025.04.18-04.02.26:625][ 29]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.18-04.02.26:626][ 29]LogLoad: Took 0.063621 seconds to LoadMap(/Game/_Screens/_Death/_Death_Screen)
+[2025.04.18-04.02.26:626][ 29]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-04.02.29:364][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-04.02.29:364][353]LogWorld: BeginTearingDown for /Game/_Screens/_Death/UEDPIE_0__Death_Screen
+[2025.04.18-04.02.29:364][353]LogWorld: UWorld::CleanupWorld for _Death_Screen, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.02.29:364][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.02.29:367][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-04.02.29:370][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.02.29:380][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-04.02.29:380][353]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.04.18-04.02.29:381][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.04.18-04.02.29:382][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.04.18-04.02.29:389][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.18-04.02.29:478][355]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2025.04.18-04.02.51:280][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.18-04.02.51:886][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.02.51:915][663]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_CombatSystem/_Player/_BP_Player] ([2] browsable assets)...
+[2025.04.18-04.02.51:957][663]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_CombatSystem/_Player/_BP_Player._BP_Player]
+[2025.04.18-04.02.51:957][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/_CombatSystem/_Player/_BP_Player]
+[2025.04.18-04.02.51:979][663]LogSavePackage: Moving output files for package: /Game/_CombatSystem/_Player/_BP_Player
+[2025.04.18-04.02.51:979][663]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_BP_Player0EBF34424B94180FF739A7B667A140DC.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_CombatSystem/_Player/_BP_Player.uasset'
+[2025.04.18-04.02.51:986][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.096 ms (total: 4.51 sec)
+[2025.04.18-04.02.52:023][663]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-04.02.52:024][663]LogContentValidation: Enabled validators:
+[2025.04.18-04.02.52:024][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.02.52:024][663]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.02.52:024][663]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.02.52:024][663]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.02.52:024][663]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.02.52:024][663]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.02.52:024][663]AssetCheck: /Game/_CombatSystem/_Player/_BP_Player Validating asset
+[2025.04.18-04.02.58:069][379]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.02.58:069][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.02.58:078][379]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.02.58:078][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.02.58:147][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.18-04.05.14:168][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.04.18-04.05.24:539][996]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Screens/_Death/_Death_._Death_
+[2025.04.18-04.05.24:539][996]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.04.18-04.05.26:454][188]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.05.26:454][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.05.26:566][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-04.05.35:681][242]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Screens/_Death/_Death._Death
+[2025.04.18-04.05.35:681][242]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_65
+[2025.04.18-04.05.35:686][242]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_66
+[2025.04.18-04.06.14:511][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.18-04.06.15:268][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.06.15:298][806]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_Death/_Death] ([2] browsable assets)...
+[2025.04.18-04.06.15:299][806]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_Death/_Death._Death]
+[2025.04.18-04.06.15:299][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_Death/_Death]
+[2025.04.18-04.06.15:299][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_Death/_Death" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset" SILENT=true
+[2025.04.18-04.06.15:309][806]LogSavePackage: Moving output files for package: /Game/_Screens/_Death/_Death
+[2025.04.18-04.06.15:310][806]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_DeathA957B78047C11CA9B9994094A9FF3D86.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_Death/_Death.uasset'
+[2025.04.18-04.06.15:316][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.820 ms (total: 4.56 sec)
+[2025.04.18-04.06.15:338][806]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-04.06.15:338][806]LogContentValidation: Enabled validators:
+[2025.04.18-04.06.15:338][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.06.15:338][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.06.15:338][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.06.15:338][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.06.15:338][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.06.15:338][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.06.15:339][806]AssetCheck: /Game/_Screens/_Death/_Death Validating asset
+[2025.04.18-04.06.17:211][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.18-04.06.17:223][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.18-04.06.17:253][982]LogPlayLevel: Creating play world package: /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-04.06.17:256][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002564s)
+[2025.04.18-04.06.17:256][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_CombatSystem/_Proper_Ai._Proper_Ai to /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai (0.002597s)
+[2025.04.18-04.06.17:274][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.18-04.06.17:276][982]LogChaosDD: Creating Chaos Debug Draw Scene for world _Proper_Ai
+[2025.04.18-04.06.17:278][982]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2025.04.18-04.06.17:278][982]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.04.18-04.06.17:278][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.18-04.06.17:278][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.18-04.06.17:278][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.18-04.06.17:279][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.18-04.06.17:279][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.18-04.06.17:279][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.18-04.06.17:279][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.18-04.06.17:279][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.18-04.06.17:279][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.18-04.06.17:279][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.18-04.06.17:279][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.18-04.06.17:280][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.18-04.06.17:297][982]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USBAudio2.0)
+[2025.04.18-04.06.17:297][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.18-04.06.17:297][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.18-04.06.17:297][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.18-04.06.17:298][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.04.18-04.06.17:298][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.04.18-04.06.17:299][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.04.18-04.06.17:299][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.04.18-04.06.17:299][982]LogInit: FAudioDevice initialized with ID 42.
+[2025.04.18-04.06.17:299][982]LogAudio: Display: Audio Device (ID: 42) registered with world '_Proper_Ai'.
+[2025.04.18-04.06.17:299][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.04.18-04.06.17:301][982]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.04.18-04.06.17:303][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'belt' with 'belt'
+[2025.04.18-04.06.17:305][982]LogChaosCloth: Warning: Object '_bp_kobold|belt' has a non uniform scale, and has a cloth simulation attached. The collision volumes might no longer correctly match the shape of the mesh. Please update this component transform scale with the same value for all scale axis.
+[2025.04.18-04.06.17:306][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'skellycape' with 'skellycape'
+[2025.04.18-04.06.17:310][982]LogWorld: Bringing World /Game/_CombatSystem/UEDPIE_0__Proper_Ai._Proper_Ai up for play (max tick rate 0) at 2025.04.18-00.06.17
+[2025.04.18-04.06.17:311][982]LogWorld: Bringing up level for play took: 0.008584
+[2025.04.18-04.06.17:313][982]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2025.04.18-04.06.17:320][982]PIE: Server logged in
+[2025.04.18-04.06.17:321][982]PIE: Play in editor total start time 0.099 seconds.
+[2025.04.18-04.06.20:716][257]LogCharacterMovement: _bp_skelly_C_1 is stuck and failed to move! Velocity: X=328.68 Y=-501.96 Z=0.00 Location: X=1478.75 Y=-848.48 Z=97.65 Normal: X=-0.94 Y=-0.32 Z=0.10 PenetrationDepth:3.572 Actor:_bp_eyebat_C_1 Component:CharacterMesh0 BoneName:wing2_r (0 other events since notify)
+[2025.04.18-04.06.21:224][286]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-04.06.21:224][286]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-04.06.21:224][286]LogBlueprintUserMessages: [_bp_worg_C_1] HitDefault
+[2025.04.18-04.06.21:224][286]LogBlueprintUserMessages: [_bp_worg_C_1] Damage Response:
+[2025.04.18-04.06.23:217][434]LogBlueprintUserMessages: [_bp_kobold_C_1] HitDefault
+[2025.04.18-04.06.23:217][434]LogBlueprintUserMessages: [_bp_kobold_C_1] Damage Response:
+[2025.04.18-04.06.23:217][434]LogBlueprintUserMessages: [_bp_skelly_C_1] HitDefault
+[2025.04.18-04.06.23:217][434]LogBlueprintUserMessages: [_bp_skelly_C_1] Damage Response:
+[2025.04.18-04.06.23:217][434]LogBlueprintUserMessages: [_BP_Player_C_0] HitDefault
+[2025.04.18-04.06.25:084][618]LogCharacterMovement: _bp_skelly_C_1 is stuck and failed to move! Velocity: X=60.56 Y=-33.95 Z=0.00 Location: X=1471.92 Y=-875.90 Z=97.65 Normal: X=-0.98 Y=-0.17 Z=0.00 PenetrationDepth:2.830 Actor:_bp_eyebat_C_1 Component:CharacterMesh0 BoneName:wing2_r (0 other events since notify)
+[2025.04.18-04.06.25:323][641]LogBlueprintUserMessages: [_bp_skelly_C_1] FLINT AND STEEL
+[2025.04.18-04.06.25:332][642]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/_Screens/_Death/_Death_Screen"
+[2025.04.18-04.06.25:332][642]LogNet: Browse: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-04.06.25:332][642]LogLoad: LoadMap: /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-04.06.25:332][642]LogWorld: BeginTearingDown for /Game/_CombatSystem/UEDPIE_0__Proper_Ai
+[2025.04.18-04.06.25:333][642]LogWorld: UWorld::CleanupWorld for _Proper_Ai, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.25:333][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.25:373][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-04.06.25:375][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.18-04.06.25:378][642]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.18-04.06.25:392][642]LogAudio: Display: Audio Device (ID: 42) registered with world '_Death_Screen'.
+[2025.04.18-04.06.25:392][642]LogChaosDD: Creating Chaos Debug Draw Scene for world _Death_Screen
+[2025.04.18-04.06.25:393][642]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2025.04.18-04.06.25:393][642]LogLoad: Game class is '_Death__C'
+[2025.04.18-04.06.25:394][642]LogWorld: Bringing World /Game/_Screens/_Death/UEDPIE_0__Death_Screen._Death_Screen up for play (max tick rate 0) at 2025.04.18-00.06.25
+[2025.04.18-04.06.25:394][642]LogWorld: Bringing up level for play took: 0.000440
+[2025.04.18-04.06.25:394][642]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.04.18-04.06.25:398][642]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.04.18-04.06.25:398][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.04.18-04.06.25:398][642]LogLoad: Took 0.066019 seconds to LoadMap(/Game/_Screens/_Death/_Death_Screen)
+[2025.04.18-04.06.25:398][642]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/_Screens/_Death/_Death_Screen
+[2025.04.18-04.06.28:284][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-04.06.28:284][984]LogWorld: BeginTearingDown for /Game/_Screens/_Death/UEDPIE_0__Death_Screen
+[2025.04.18-04.06.28:284][984]LogWorld: UWorld::CleanupWorld for _Death_Screen, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.28:284][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.28:287][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-04.06.28:289][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.28:298][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-04.06.28:299][984]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.04.18-04.06.28:299][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.04.18-04.06.28:300][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.04.18-04.06.28:306][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.18-04.06.28:375][987]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2025.04.18-04.06.37:856][774]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.37:856][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.37:868][774]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.37:868][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.37:935][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.18-04.06.39:214][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.18-04.06.39:214][920]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.39:214][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.39:414][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.04.18-04.06.41:761][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.18-04.06.41:792][198]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Screens/_MainMenu] ([2] browsable assets)...
+[2025.04.18-04.06.41:794][198]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Screens/_MainMenu._MainMenu]
+[2025.04.18-04.06.41:794][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Screens/_MainMenu]
+[2025.04.18-04.06.41:794][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Screens/_MainMenu" FILE="../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset" SILENT=true
+[2025.04.18-04.06.41:803][198]LogSavePackage: Moving output files for package: /Game/_Screens/_MainMenu
+[2025.04.18-04.06.41:804][198]LogSavePackage: Moving '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Saved/_MainMenu52737F2549119453E2762694F74D1319.tmp' to '../../../../../../Users/ajkwe/OneDrive/Documents/IceCreamGameF/3D-Dungeon-Game/Content/_Screens/_MainMenu.uasset'
+[2025.04.18-04.06.41:811][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.983 ms (total: 4.61 sec)
+[2025.04.18-04.06.41:848][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.18-04.06.41:848][198]LogContentValidation: Enabled validators:
+[2025.04.18-04.06.41:848][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.18-04.06.41:848][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.18-04.06.41:848][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.18-04.06.41:848][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.18-04.06.41:848][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.18-04.06.41:848][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.18-04.06.41:848][198]AssetCheck: /Game/_Screens/_MainMenu Validating asset
+[2025.04.18-04.06.42:768][303]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.42:768][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.42:777][303]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-04.06.42:777][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-04.06.42:851][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
